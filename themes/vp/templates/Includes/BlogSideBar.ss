@@ -1,6 +1,6 @@
 <aside>
 	<div id="blog-sidebar">
-		$SideBar
+		$SideBarView
 	</div>
 	
 	<% if SidebarItems %>
