@@ -11,11 +11,11 @@
 class WidgetExtension extends DataExtension {
 
 	static $db = array(
-		'InheritSideBar' => 'Boolean',
+		'InheritWidgetSideBar' => 'Boolean',
 	);
 
 	static $defaults = array(
-		'InheritSideBar' => true
+		'InheritWidgetSideBar' => true
 	);
 
 	static $has_one = array(
@@ -25,7 +25,7 @@ class WidgetExtension extends DataExtension {
 	public function updateCMSFields(FieldList $fields) {
 		$fields->addFieldToTab(
 			"Root.Widgets", 
-			new CheckboxField("InheritSideBar", 'Inherit Sidebar From Parent')
+			new CheckboxField("InheritWidgetSideBar", 'Inherit Widget Sidebar From Parent')
 		);
 		$fields->addFieldToTab(
 			"Root.Widgets", 
@@ -38,7 +38,7 @@ class WidgetExtension extends DataExtension {
 	 */
 	public function SideBarView() {
 		if(
-			$this->owner->InheritSideBar
+			$this->owner->InheritWidgetSideBar
 			&& ($parent = $this->owner->getParent())
 			&& $parent->hasMethod('SideBarView')
 		) {
