@@ -36,7 +36,7 @@ class BlogFieldExtension extends DataExtension {
       $fields->removeByName("Author");
 	  
       if($this->owner->ClassName == "BlogEntry"){
-        $fields->removeByName("Date");
+        //$fields->removeByName("Date");
       }else {
 
         $fields->renameField("Date", "Published Date");
