@@ -121,7 +121,7 @@ class Page_Controller extends ContentController {
 		
 		$blogHolder = DataObject::get_by_id('BlogHolder', 133);
 		
-		$latestStaffSpotlight = $blogHolder->Entries(1, 'faces')->first();
+		$latestStaffSpotlight = $blogHolder->Entries(1, 'faces')->sort('Date DESC')->first();
 		
 		//print_r($blogHolder);
 		//$latestStaffSpotlight = BlogEntry::get()->
