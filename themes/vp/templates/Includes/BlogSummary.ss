@@ -1,5 +1,11 @@
 <div class="blogSummary">
-	<h3 class="postTitle"><a href="$Link" title="<% _t('VIEWFULL', 'View full post titled -') %> '$Title'">$MenuTitle</a></h3>
+	<h3 class="postTitle">
+		<% if $ExternalURL %><a href="$ExternalURL" target="_blank" title="<% _t('VIEWFULL', 'View full post titled -') %> '$Title'">$MenuTitle</a>
+
+		<% else %>
+			<a href="$Link" title="<% _t('VIEWFULL', 'View full post titled -') %> '$Title'">$MenuTitle</a>
+		<% end_if %>
+	</h3>
 
 	<% if BlogHolder.ShowFullEntry %>
 		$Content

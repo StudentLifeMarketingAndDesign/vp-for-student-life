@@ -6,10 +6,19 @@
             	<% if $Photo %>
             		<img src="$Photo.CroppedImage(765,512).URL" alt="$FirstName $LastName">
             	<% end_if %>
-            	$Content
+                  <h2>$Position</h2>
+                  <ul>
+                        <li>Email: <a href="mailto:$EmailAddress">$EmailAddress</a></li>
+                        <li>Phone: $Phone</li>
+                  <% if $DepartmentName %>
+                        <li><a href="DepartmentURL">$DepartmentName</a></li>
+                  <% end_if %>
+                  </ul>
+                  
+                  $Content
             </section>
             <section class="sec-content">
-            	<% include SideNav %>
+            	<% include SideNav %>  
             </section>
       </section>
 </div>

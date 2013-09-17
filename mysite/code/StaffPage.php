@@ -5,6 +5,11 @@ class StaffPage extends Page {
 		"FirstName" => "Text",
 		"LastName" => "Text",
 		"Position" => "Text",
+		"EmailAddress" => "Text",
+		"Phone" => "Text",
+		"DepartmentURL" => "Text",
+		"DepartmentName" => "Text",
+
 	
 	);
 
@@ -25,6 +30,11 @@ class StaffPage extends Page {
 		$fields->addFieldToTab("Root.Main", new TextField("FirstName", "First Name"));
 		$fields->addFieldToTab("Root.Main", new TextField("LastName", "Last Name"));
 		$fields->addFieldToTab("Root.Main", new TextField("Position", "Position"));
+		$fields->addFieldToTab("Root.Main", new TextField("EmailAddress", "Email address"));
+		$fields->addFieldToTab("Root.Main", new TextField("Phone", "Phone (XXX-XXX-XXXX)"));
+		$fields->addFieldToTab("Root.Main", new TextField("DepartmentName", "Department name (optional)"));
+		$fields->addFieldToTab("Root.Main", new TextField("DepartmentURL", "Department URL (optional)"));
+
 		
 		$fields->addFieldToTab("Root.Main", new CheckboxSetField("Teams", 'Team <a href="admin/pages/edit/show/14" target="_blank">(Manage Teams)</a>', StaffTeam::get()->map('ID', 'Name')));
 		
