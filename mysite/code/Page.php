@@ -59,9 +59,9 @@ class Page extends SiteTree {
 		$sort->componentField = 'SidebarItemID'; 
 
 		$gridField = new GridField("SidebarItems", "Sidebar Items", $this->SidebarItems(), $gridFieldConfig);
-		/*$f->addFieldToTab("Root.Sidebar", new LabelField("SidebarLabel", "<h2>Add sidebar items below</h2>"));
+		$f->addFieldToTab("Root.Sidebar", new LabelField("SidebarLabel", "<h2>Add sidebar items below</h2>"));
 		$f->addFieldToTab("Root.Sidebar", new LiteralField("SidebarManageLabel", '<p><a href="admin/sidebar-items" target="_blank">View and Manage Sidebar Items &raquo;</a></p>'));
-		$f->addFieldToTab("Root.Sidebar", $gridField); // add the grid field to a tab in the CMS*/
+		$f->addFieldToTab("Root.Sidebar", $gridField); // add the grid field to a tab in the CMS
 		//$f->addFieldToTab("Root.Widgets", new WidgetAreaEditor("MyWidgetArea"));
 		return $f;
 	}
@@ -121,7 +121,7 @@ class Page_Controller extends ContentController {
 		
 		$blogHolder = DataObject::get_by_id('BlogHolder', 133);
 		
-		$latestStaffSpotlight = $blogHolder->Entries(1, 'faces')->first();
+		$latestStaffSpotlight = $blogHolder->Entries(1, 'faces')->sort('Date DESC')->first();
 		
 		//print_r($blogHolder);
 		//$latestStaffSpotlight = BlogEntry::get()->
