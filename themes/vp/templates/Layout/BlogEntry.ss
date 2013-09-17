@@ -35,7 +35,10 @@
         
         <section class="sec-content hide-print">
             <%-- include SideNav --%>
+
+
             <% include BlogSideBar %>
+            <% include BlogEntrySideNews %>
         </section>
     </div>
 </div>
