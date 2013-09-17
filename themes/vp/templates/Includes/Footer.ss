@@ -10,13 +10,13 @@
 			<div class="col-1-4 hide-print">
 				<div class="colgroup">
 					<ul class="footer-nav">
-						<li><a href="#" target="_blank"><i class="icon-facebook"></i> Facebook</a></li>
-						<li><a href="#" target="_blank"><i class="icon-twitter"></i> Twitter</a></li>
+						<li><a href="http://www.facebook.com/uistudentlife" target="_blank"><i class="icon-facebook"></i> Facebook</a></li>
+						<li><a href="http://twitter.com/VPStudentLifeUI" target="_blank"><i class="icon-twitter"></i> Twitter</a></li>
 					</ul>
 					<ul class="footer-nav">
-						<li><a href="#">Contact Us</a></li>
-						<li><a href="#">Policies</a></li>
-						<li><a href="#">Annual Reports</a></li>
+						<li><a href="http://vp.studentlife.uiowa.edu/contact/">Contact Us</a></li>
+						<li><a href="http://vp.studentlife.uiowa.edu/initiatives">Initiatives</a></li>
+						<li><a href="http://vp.studentlife.uiowa.edu/tom">About Tom</a></li>
 					</ul>
 				</div>
 			</div>
