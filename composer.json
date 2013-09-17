@@ -15,7 +15,8 @@
 		"silverstripe/blog": "*",
 		"silverstripe/widgets": "*",
 		"silverstripe/userforms": "*",
-		"silverstripe/recaptcha": "*"
+		"silverstripe/recaptcha": "*",
+		"simplepie/simplepie": "*"
 	},
 
 	"minimum-stability": "dev"

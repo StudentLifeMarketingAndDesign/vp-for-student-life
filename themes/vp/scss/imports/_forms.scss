@@ -64,7 +64,7 @@ input.text:focus {
 }
 input[type="radio"],
 input[type="checkbox"] {
-    margin: 4px 0 0;
+    margin: 4px 5px 0;
     *margin-top: 0;
     /* IE7 */
 
@@ -113,6 +113,7 @@ input,
 textarea,
 .uneditable-input {
     margin-left: 0;
+    width: 100%; 
 }
 
 .Actions {

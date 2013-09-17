@@ -60,3 +60,8 @@ ShortcodeParser::get()->register('blogfeed',array('Page_Controller','BlogFeedHan
 ShortcodeParser::get()->register('spotlight',array('Page_Controller','StaffSpotlightHandler'));
 Object::add_extension("BlogEntry","BlogFieldExtension");
 Object::add_extension("Page","WidgetExtension");
+
+RecaptchaField::$public_api_key = '6LcjsAgAAAAAAD6MXE7QNLusIBMajgpfK_EWjL3C';
+RecaptchaField::$private_api_key = '6LcjsAgAAAAAAD6MXE7QNLusIBMajgpfK_EWjL3C';
+
+SpamProtectorManager::set_spam_protector('RecaptchaProtector');
