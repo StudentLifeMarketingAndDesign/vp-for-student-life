@@ -16,7 +16,8 @@
 		"silverstripe/widgets": "*",
 		"silverstripe/userforms": "*",
 		"silverstripe/recaptcha": "*",
-		"simplepie/simplepie": "*"
+		"simplepie/simplepie": "*",
+		"silverstripe/googlesitemaps": "*"
 	},
 
 	"minimum-stability": "dev"
