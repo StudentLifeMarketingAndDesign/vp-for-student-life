@@ -45,7 +45,7 @@
     </div>
 	<section class="home-highlights">
         <div class="container clearfix">
-	        <% loop HomePageFeatures %>
+	        <% loop HomePageFeatures.Limit(3) %>
 	            <div class="module">
 	                <div class="media">
 	                <% if $YouTubeEmbed %>
