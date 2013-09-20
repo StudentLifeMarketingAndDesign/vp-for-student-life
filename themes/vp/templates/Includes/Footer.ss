@@ -14,6 +14,7 @@
 						<li><a href="http://twitter.com/VPStudentLifeUI" target="_blank"><i class="icon-twitter"></i> Twitter</a></li>
 					</ul>
 					<ul class="footer-nav">
+						<li><a href="http://vp.studentlife.uiowa.edu/news/">News</a></li>
 						<li><a href="http://vp.studentlife.uiowa.edu/contact/">Contact Us</a></li>
 						<li><a href="http://vp.studentlife.uiowa.edu/initiatives">Initiatives</a></li>
 						<li><a href="http://vp.studentlife.uiowa.edu/tom">About Tom</a></li>
