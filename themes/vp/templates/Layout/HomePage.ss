@@ -35,8 +35,8 @@
 	        <div class="hero-text">
                 <h2 class="blocktext">The Division of Student Life fosters student success by creating and promoting inclusive educationally purposeful services and activities within and beyond the classroom.</h2>
                 <ul>
-                    <li><a href="/vp-for-student-life/about/">Meet Tom</a></li>
-                    <li><a href="/vp-for-student-life/staff/">Staff</a></li>
+                    <li><a href="about/">Meet Tom</a></li>
+                    <li><a href="staff/">Staff</a></li>
                     <li><a href="https://www.givetoiowa.org/GiveToIowa/WebObjects/GiveToIowa.woa/wa/goTo?area=studentlife">Give Now</a></li>
                 </ul>
             </div>
