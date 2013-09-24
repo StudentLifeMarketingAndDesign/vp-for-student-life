@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<!--[if IE 9]><html class="ie9"> <![endif]-->
-<!--[if IE 8]><html class="ie8"> <![endif]-->
-<!--[if gt IE 9]><!--> <html> <!--<![endif]-->
+<!--[if IE 9]><html class="ie9" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="ie8" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en"> <!--<![endif]-->
 <head>
 	<% base_tag %>
 	<meta charset="utf-8">
@@ -43,7 +43,7 @@
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-426753-52', 'uiowa.edu');
+	ga('create', 'UA-426753-47', 'uiowa.edu');
 	ga('send', 'pageview');
 
 	</script>

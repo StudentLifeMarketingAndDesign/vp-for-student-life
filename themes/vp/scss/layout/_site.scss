@@ -113,7 +113,12 @@ body {
 .header {
 	background: #fff url(../images/nav_yellow.gif) repeat-x left bottom;
 	position: relative;
+
+	h1{
+		margin: 0;
+	}
 }
+
 .logo {
 	color: #222;
 	display: block;
