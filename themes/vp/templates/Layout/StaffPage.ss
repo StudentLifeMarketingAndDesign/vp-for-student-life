@@ -11,7 +11,13 @@
                         <li>Email: <a href="mailto:$EmailAddress">$EmailAddress</a></li>
                         <li>Phone: $Phone</li>
                   <% if $DepartmentName %>
-                        <li><a href="DepartmentURL">$DepartmentName</a></li>
+                        <li>
+                        <% if $DepartmentURL %>
+                              <a href="$DepartmentURL">$DepartmentName</a>
+                        <% else %>
+                              $DepartmentName
+                        <% end_if %>
+                        </li>
                   <% end_if %>
                   </ul>
                   
