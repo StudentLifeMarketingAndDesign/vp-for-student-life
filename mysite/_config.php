@@ -63,5 +63,3 @@ Object::add_extension("Page","WidgetExtension");
 
 RecaptchaField::$public_api_key = '6LcjsAgAAAAAAD6MXE7QNLusIBMajgpfK_EWjL3C';
 RecaptchaField::$private_api_key = '6LcjsAgAAAAAAD6MXE7QNLusIBMajgpfK_EWjL3C';
-
-SpamProtectorManager::set_spam_protector('RecaptchaProtector');
