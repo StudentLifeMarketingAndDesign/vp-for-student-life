@@ -137,12 +137,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-bar.git",
-                "reference": "83b85fca823dc970d0c5e2b6257927ad6a4ce3a8"
+                "reference": "a5845dfa6c766ed9fce8d19e7302c5404af70cd3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-bar/zipball/83b85fca823dc970d0c5e2b6257927ad6a4ce3a8",
-                "reference": "83b85fca823dc970d0c5e2b6257927ad6a4ce3a8",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-bar/zipball/a5845dfa6c766ed9fce8d19e7302c5404af70cd3",
+                "reference": "a5845dfa6c766ed9fce8d19e7302c5404af70cd3",
                 "shasum": ""
             },
             "require": {
@@ -161,7 +161,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-bar/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-bar/issues"
             },
-            "time": "2014-03-21 22:13:45"
+            "time": "2014-04-17 14:30:01"
         },
         {
             "name": "md/division-project",
