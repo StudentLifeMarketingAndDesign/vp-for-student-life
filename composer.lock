@@ -53,12 +53,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "26d37e307f9aa6e2e81806a6525666f8ab5ba0ff"
+                "reference": "df19b48f557987e0a9bddff0c12dde37d5bcb757"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/26d37e307f9aa6e2e81806a6525666f8ab5ba0ff",
-                "reference": "26d37e307f9aa6e2e81806a6525666f8ab5ba0ff",
+                "url": "https://api.github.com/repos/composer/installers/zipball/df19b48f557987e0a9bddff0c12dde37d5bcb757",
+                "reference": "df19b48f557987e0a9bddff0c12dde37d5bcb757",
                 "shasum": ""
             },
             "replace": {
@@ -88,7 +88,7 @@
                 {
                     "name": "Kyle Robinson Young",
                     "email": "kyle@dontkry.com",
-                    "homepage": "https://github.com/shama",
+                    "homepage": "http://dontkry.com",
                     "role": "Developer"
                 }
             ],
@@ -129,7 +129,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2014-04-09 16:12:43"
+            "time": "2014-04-15 03:26:48"
         },
         {
             "name": "md/division-bar",
@@ -169,12 +169,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "3ff5a4bda16ea8786303d9c16842375239bb7262"
+                "reference": "83a0592d1b6f52b795cbba0260e518cd6c372ee1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/3ff5a4bda16ea8786303d9c16842375239bb7262",
-                "reference": "3ff5a4bda16ea8786303d9c16842375239bb7262",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/83a0592d1b6f52b795cbba0260e518cd6c372ee1",
+                "reference": "83a0592d1b6f52b795cbba0260e518cd6c372ee1",
                 "shasum": ""
             },
             "require": {
@@ -208,7 +208,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2014-04-09 14:43:58"
+            "time": "2014-04-17 14:09:49"
         },
         {
             "name": "silverstripe-themes/simple",
