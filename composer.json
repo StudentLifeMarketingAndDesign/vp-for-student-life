@@ -21,6 +21,11 @@
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/division-bar"
 
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events"
+
         }
     ]
 
