@@ -19,7 +19,7 @@ module.exports = function(grunt) {
         },                  // Target
         options: {              // Target options
           style: 'compressed',
-          sourcemap: 'true',
+          //sourcemap: 'true',
           loadPath: ['division-project/scss']
         }
       }

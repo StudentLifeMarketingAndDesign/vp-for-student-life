@@ -3,7 +3,7 @@
 	"description": "The SilverStripe Framework Installer",
 	"require": {
 		"php": ">=5.3.2",
-		"md/division-project": "dev-master",
+		"md/division-project": "dev-angular-seed",
 		"nglasl/silverstripe-apiwesome" : "~3.1"
 
 	},
