@@ -2,4 +2,4 @@
 name: spamprotection
 ---
 FormSpamProtectionExtension:
-  default_spam_protector: RecaptchaProtector
+  default_spam_protector: MathSpamProtector
