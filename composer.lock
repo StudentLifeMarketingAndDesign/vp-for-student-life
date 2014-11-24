@@ -12,16 +12,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/colymba/GridFieldBulkEditingTools.git",
-                "reference": "3335105ee27c8463abe1912fc341946414f13d09"
+                "reference": "9592fa05615b0f3de8e093573690674469a67a86"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/colymba/GridFieldBulkEditingTools/zipball/3335105ee27c8463abe1912fc341946414f13d09",
-                "reference": "3335105ee27c8463abe1912fc341946414f13d09",
+                "url": "https://api.github.com/repos/colymba/GridFieldBulkEditingTools/zipball/9592fa05615b0f3de8e093573690674469a67a86",
+                "reference": "9592fa05615b0f3de8e093573690674469a67a86",
                 "shasum": ""
             },
             "require": {
-                "silverstripe/framework": "~3.1"
+                "silverstripe/framework": ">=3.1"
             },
             "type": "silverstripe-module",
             "notification-url": "https://packagist.org/downloads/",
@@ -46,7 +46,7 @@
                 "gridfield bulk upload",
                 "silverstripe"
             ],
-            "time": "2014-11-02 18:06:58"
+            "time": "2014-11-21 09:01:02"
         },
         {
             "name": "composer/installers",
@@ -54,12 +54,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "8024be9aa3ee446272937f46a8807fa52b337767"
+                "reference": "91e7724e6e75291d6f5512415fbdcec525ad4d7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/8024be9aa3ee446272937f46a8807fa52b337767",
-                "reference": "8024be9aa3ee446272937f46a8807fa52b337767",
+                "url": "https://api.github.com/repos/composer/installers/zipball/91e7724e6e75291d6f5512415fbdcec525ad4d7e",
+                "reference": "91e7724e6e75291d6f5512415fbdcec525ad4d7e",
                 "shasum": ""
             },
             "replace": {
@@ -111,6 +111,7 @@
                 "codeigniter",
                 "concrete5",
                 "croogo",
+                "dokuwiki",
                 "drupal",
                 "elgg",
                 "fuelphp",
@@ -138,7 +139,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2014-11-01 17:51:50"
+            "time": "2014-11-23 19:34:57"
         },
         {
             "name": "jonom/focuspoint",
@@ -146,12 +147,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jonom/silverstripe-focuspoint.git",
-                "reference": "cca804f332f2fe872d6d333f75348aeca1a9d77e"
+                "reference": "634a0244e920ab88fae557e2068ead2176a33da8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jonom/silverstripe-focuspoint/zipball/cca804f332f2fe872d6d333f75348aeca1a9d77e",
-                "reference": "cca804f332f2fe872d6d333f75348aeca1a9d77e",
+                "url": "https://api.github.com/repos/jonom/silverstripe-focuspoint/zipball/634a0244e920ab88fae557e2068ead2176a33da8",
+                "reference": "634a0244e920ab88fae557e2068ead2176a33da8",
                 "shasum": ""
             },
             "require": {
@@ -177,7 +178,7 @@
                 "image",
                 "silverstripe"
             ],
-            "time": "2014-11-17 21:17:47"
+            "time": "2014-11-20 11:45:03"
         },
         {
             "name": "md/ac-json-events",
@@ -249,12 +250,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "3983c7b4721b68ae7f8ea9036373f52f67ec8782"
+                "reference": "08132d953afb8f3d9ee06d52e4f7a77bd59ffc24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/3983c7b4721b68ae7f8ea9036373f52f67ec8782",
-                "reference": "3983c7b4721b68ae7f8ea9036373f52f67ec8782",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/08132d953afb8f3d9ee06d52e4f7a77bd59ffc24",
+                "reference": "08132d953afb8f3d9ee06d52e4f7a77bd59ffc24",
                 "shasum": ""
             },
             "require": {
@@ -291,7 +292,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2014-11-19 19:54:07"
+            "time": "2014-11-24 17:15:03"
         },
         {
             "name": "sheadawson/quickaddnew",
@@ -825,12 +826,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/unclecheese/silverstripe-gridfield-betterbuttons.git",
-                "reference": "c364d1fbc11a0438551499e12f8f7412013225b6"
+                "reference": "595dffde1ba402e802cd7786512f788d1c661627"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-gridfield-betterbuttons/zipball/c364d1fbc11a0438551499e12f8f7412013225b6",
-                "reference": "c364d1fbc11a0438551499e12f8f7412013225b6",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-gridfield-betterbuttons/zipball/595dffde1ba402e802cd7786512f788d1c661627",
+                "reference": "595dffde1ba402e802cd7786512f788d1c661627",
                 "shasum": ""
             },
             "require": {
@@ -853,7 +854,7 @@
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2014-11-12 22:05:24"
+            "time": "2014-11-22 10:29:29"
         },
         {
             "name": "unclecheese/eventcalendar",
