@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "526a3358bd5a5ebb83b5072ec0e24a3e",
+    "hash": "87a76d6e7112a5735a7a371063d473f0",
     "packages": [
         {
             "name": "colymba/gridfield-bulk-editing-tools",
@@ -248,16 +248,16 @@
         },
         {
             "name": "md/division-project",
-            "version": "dev-master",
+            "version": "dev-2.0-main",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "0e77eff6c5e2d8dd2e290e58a3038e5064cca5ac"
+                "reference": "6887b5d5f7c5067e2f3df86887e2b1294faa735e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/0e77eff6c5e2d8dd2e290e58a3038e5064cca5ac",
-                "reference": "0e77eff6c5e2d8dd2e290e58a3038e5064cca5ac",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/6887b5d5f7c5067e2f3df86887e2b1294faa735e",
+                "reference": "6887b5d5f7c5067e2f3df86887e2b1294faa735e",
                 "shasum": ""
             },
             "require": {
@@ -266,17 +266,20 @@
                 "md/ac-json-events": "dev-master",
                 "md/division-bar": "*",
                 "md/rss-display": "*",
+                "normann/gridfieldpaginatorwithshowall": "*",
                 "php": ">=5.3.2",
                 "sheadawson/quickaddnew": "*",
                 "silverstripe-australia/gridfieldextensions": "*",
                 "silverstripe-themes/simple": "*",
                 "silverstripe/blog": "*",
-                "silverstripe/cms": "3.1.9",
-                "silverstripe/framework": "3.1.9",
+                "silverstripe/cms": "3.1.10",
+                "silverstripe/framework": "3.1.10",
                 "silverstripe/googlesitemaps": "*",
                 "silverstripe/installer": "*",
                 "silverstripe/mathspamprotection": "*",
                 "silverstripe/recaptcha": "*",
+                "silverstripe/staticpublishqueue": "*",
+                "silverstripe/tenon": "*",
                 "silverstripe/timepickerfield": "*",
                 "silverstripe/userforms": "*",
                 "silverstripe/widgets": "*",
@@ -286,17 +289,12 @@
                 "undefinedoffset/sortablegridfield": "*"
             },
             "type": "silverstripe-module",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "0.1.x-dev"
-                }
-            },
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/master",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0-main",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-02-25 16:50:35"
+            "time": "2015-03-02 16:25:31"
         },
         {
             "name": "md/rss-display",
@@ -532,16 +530,16 @@
         },
         {
             "name": "silverstripe/cms",
-            "version": "3.1.9",
+            "version": "3.1.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-cms.git",
-                "reference": "ee4639ed7447b35ec7159b39165819f11b0ccb56"
+                "reference": "c7814cffc98f4bdc394e42dcd6fcd710c649e8e8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/ee4639ed7447b35ec7159b39165819f11b0ccb56",
-                "reference": "ee4639ed7447b35ec7159b39165819f11b0ccb56",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/c7814cffc98f4bdc394e42dcd6fcd710c649e8e8",
+                "reference": "c7814cffc98f4bdc394e42dcd6fcd710c649e8e8",
                 "shasum": ""
             },
             "require": {
@@ -575,20 +573,20 @@
                 "cms",
                 "silverstripe"
             ],
-            "time": "2015-01-12 04:52:29"
+            "time": "2015-02-15 22:54:06"
         },
         {
             "name": "silverstripe/framework",
-            "version": "3.1.9",
+            "version": "3.1.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-framework.git",
-                "reference": "87d6250ea75f5e1c765d9004c51bd5ffd5633185"
+                "reference": "c302edc4e72dd93ac2c7d9bbf0ee42d2d74cd48b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/87d6250ea75f5e1c765d9004c51bd5ffd5633185",
-                "reference": "87d6250ea75f5e1c765d9004c51bd5ffd5633185",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/c302edc4e72dd93ac2c7d9bbf0ee42d2d74cd48b",
+                "reference": "c302edc4e72dd93ac2c7d9bbf0ee42d2d74cd48b",
                 "shasum": ""
             },
             "require": {
@@ -624,7 +622,7 @@
                 "framework",
                 "silverstripe"
             ],
-            "time": "2015-01-14 22:56:46"
+            "time": "2015-02-18 23:37:16"
         },
         {
             "name": "silverstripe/googlesitemaps",
@@ -662,6 +660,45 @@
                 "silverstripe"
             ],
             "time": "2015-01-19 08:48:47"
+        },
+        {
+            "name": "silverstripe/gridfieldajaxrefresh",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/silverstripe-labs/silverstripe-gridfieldajaxrefresh.git",
+                "reference": "304c68d1d0e84e51c96ffdf370fedd2d8d53b5d3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/silverstripe-labs/silverstripe-gridfieldajaxrefresh/zipball/304c68d1d0e84e51c96ffdf370fedd2d8d53b5d3",
+                "reference": "304c68d1d0e84e51c96ffdf370fedd2d8d53b5d3",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "~3.0"
+            },
+            "type": "silverstripe-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Julian Seidenberg",
+                    "email": "julian@silverstripe.com"
+                }
+            ],
+            "description": "Adds the ability to either automatically or manually refresh a SilverStripe GridField",
+            "keywords": [
+                "ajax",
+                "auto-refresh",
+                "automatic",
+                "gridfield",
+                "refresh",
+                "silverstripe"
+            ],
+            "time": "2014-08-14 20:35:49"
         },
         {
             "name": "silverstripe/mathspamprotection",
@@ -769,6 +806,44 @@
                 "spamprotection"
             ],
             "time": "2015-01-31 02:34:54"
+        },
+        {
+            "name": "silverstripe/staticpublishqueue",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/silverstripe-labs/silverstripe-staticpublishqueue.git",
+                "reference": "6961f2994dc49d87248908d9d8b2400b88a8b133"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/silverstripe-labs/silverstripe-staticpublishqueue/zipball/6961f2994dc49d87248908d9d8b2400b88a8b133",
+                "reference": "6961f2994dc49d87248908d9d8b2400b88a8b133",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/cms": "3.1.*",
+                "silverstripe/framework": "3.1.*",
+                "silverstripe/gridfieldajaxrefresh": "dev-master"
+            },
+            "type": "silverstripe-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Static publishing queue to create static versions of pages for enhanced performance and security",
+            "keywords": [
+                "cache",
+                "caching",
+                "html",
+                "performance",
+                "publishing",
+                "queue",
+                "security",
+                "silverstripe",
+                "static",
+                "static-cache",
+                "static-caching",
+                "static-publishing"
+            ],
+            "time": "2015-01-04 20:39:55"
         },
         {
             "name": "silverstripe/tenon",
@@ -1111,8 +1186,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "md/division-project": 20,
-        "normann/gridfieldpaginatorwithshowall": 20
+        "md/division-project": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
