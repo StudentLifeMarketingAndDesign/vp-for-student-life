@@ -220,12 +220,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-bar.git",
-                "reference": "a95f9952c70ead8205244047cfc30f49206e782f"
+                "reference": "f5ef1cac7382b5db4dbc1ac342c3500f2c4678bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-bar/zipball/a95f9952c70ead8205244047cfc30f49206e782f",
-                "reference": "a95f9952c70ead8205244047cfc30f49206e782f",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-bar/zipball/f5ef1cac7382b5db4dbc1ac342c3500f2c4678bd",
+                "reference": "f5ef1cac7382b5db4dbc1ac342c3500f2c4678bd",
                 "shasum": ""
             },
             "require": {
@@ -244,7 +244,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-bar/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-bar/issues"
             },
-            "time": "2015-03-02 16:58:14"
+            "time": "2015-03-02 21:20:13"
         },
         {
             "name": "md/division-project",
@@ -252,12 +252,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "922fb7c0372e414129295acfe81cc3b707319eb1"
+                "reference": "a2824fd424a75571606a3f69485df9fcbf589c0f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/922fb7c0372e414129295acfe81cc3b707319eb1",
-                "reference": "922fb7c0372e414129295acfe81cc3b707319eb1",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/a2824fd424a75571606a3f69485df9fcbf589c0f",
+                "reference": "a2824fd424a75571606a3f69485df9fcbf589c0f",
                 "shasum": ""
             },
             "require": {
@@ -294,7 +294,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0-main",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-03-02 18:40:18"
+            "time": "2015-03-02 21:11:41"
         },
         {
             "name": "md/rss-display",
