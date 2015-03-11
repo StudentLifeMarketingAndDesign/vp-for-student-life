@@ -252,12 +252,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "a2824fd424a75571606a3f69485df9fcbf589c0f"
+                "reference": "abbebfd05ccb5c61b3befdaad75586a5d2fa0ab1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/a2824fd424a75571606a3f69485df9fcbf589c0f",
-                "reference": "a2824fd424a75571606a3f69485df9fcbf589c0f",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/abbebfd05ccb5c61b3befdaad75586a5d2fa0ab1",
+                "reference": "abbebfd05ccb5c61b3befdaad75586a5d2fa0ab1",
                 "shasum": ""
             },
             "require": {
@@ -294,7 +294,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0-main",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-03-02 21:11:41"
+            "time": "2015-03-05 15:11:11"
         },
         {
             "name": "md/rss-display",
@@ -407,12 +407,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe-australia/silverstripe-gridfieldextensions.git",
-                "reference": "ad55ceda83397016d8831b7b6494796ca62d5355"
+                "reference": "302f7c0dc1ca929d7aa001453eaa16491afd4d5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-gridfieldextensions/zipball/ad55ceda83397016d8831b7b6494796ca62d5355",
-                "reference": "ad55ceda83397016d8831b7b6494796ca62d5355",
+                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-gridfieldextensions/zipball/302f7c0dc1ca929d7aa001453eaa16491afd4d5b",
+                "reference": "302f7c0dc1ca929d7aa001453eaa16491afd4d5b",
                 "shasum": ""
             },
             "require": {
@@ -449,7 +449,7 @@
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2015-02-26 01:51:54"
+            "time": "2015-03-04 01:28:24"
         },
         {
             "name": "silverstripe-themes/simple",
