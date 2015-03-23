@@ -68,9 +68,22 @@ module.exports = function(grunt) {
         options: {
           spawn: true,
         }
-      }
+      },
     },
-
+      criticalcss: {
+            custom: {
+                options: {
+                    url: "http://localhost:8888/vp-for-student-life/",
+                    width: 1200,
+                    height: 900,
+                    outputfile: "<%=globalConfig.themeDir %>/templates/Includes/CriticalCss.ss",
+                    filename: "<%=globalConfig.themeDir %>/css/master.css", // Using path.resolve( path.join( ... ) ) is a good idea here
+                    buffer: 800*1024,
+                    ignoreConsole: false,
+                    forceInclude: ['.img-container', '.main-content']
+                }
+            }
+        }
   });
 
   // Load the plugin that provides the "uglify" task.
@@ -79,9 +92,10 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-simple-watch');
+  grunt.loadNpmTasks('grunt-criticalcss');
 
   // Default task(s).
   // Note: order of tasks is very important
-  grunt.registerTask('default', ['sass', 'concat', 'uglify', 'watch']);
+  grunt.registerTask('default', ['sass', 'concat', 'uglify', 'criticalcss', 'watch']);
 
 };
