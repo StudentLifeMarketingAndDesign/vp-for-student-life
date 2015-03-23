@@ -23,7 +23,10 @@ ul ul{ margin-top: 0px; margin-bottom: 0px; }
 hr{ clear: both; margin-top: 1.5em; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; border-right-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(255, 255, 255); }
 *{ box-sizing: border-box; }
 img{ max-width: 100%; height: auto; }
-img{ display: inline-block; vertical-align: middle; }
+img{ display: block; vertical-align: middle; }
+@media screen and (min-width: 768px){
+img{ display: inline-block; }
+}
 .clearfix::before, .clearfix::after{ content: ' '; display: table; }
 .clearfix::after{ clear: both; }
 .clearfix{ }
