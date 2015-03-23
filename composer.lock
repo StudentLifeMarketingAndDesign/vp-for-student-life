@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "736ca6d175d7d7604030cf5a4e90b4fe",
+    "hash": "2be8d294c022c15e4a4029d9baee894f",
     "packages": [
         {
             "name": "colymba/gridfield-bulk-editing-tools",
@@ -248,16 +248,16 @@
         },
         {
             "name": "md/division-project",
-            "version": "2.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "10dccc613cbc84a3908329251dad3344015cf399"
+                "reference": "50da7334184bbf7c118b325b6a8fddc51b4ae3b9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/10dccc613cbc84a3908329251dad3344015cf399",
-                "reference": "10dccc613cbc84a3908329251dad3344015cf399",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/50da7334184bbf7c118b325b6a8fddc51b4ae3b9",
+                "reference": "50da7334184bbf7c118b325b6a8fddc51b4ae3b9",
                 "shasum": ""
             },
             "require": {
@@ -291,10 +291,10 @@
             "type": "silverstripe-module",
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.1",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-03-23 16:46:44"
+            "time": "2015-03-23 17:47:41"
         },
         {
             "name": "md/rss-display",
@@ -1198,7 +1198,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "md/division-project": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
