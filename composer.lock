@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "87a76d6e7112a5735a7a371063d473f0",
+    "hash": "736ca6d175d7d7604030cf5a4e90b4fe",
     "packages": [
         {
             "name": "colymba/gridfield-bulk-editing-tools",
@@ -220,12 +220,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-bar.git",
-                "reference": "f5ef1cac7382b5db4dbc1ac342c3500f2c4678bd"
+                "reference": "18dd3df784b7fdf2eac5ecfe1a809be8b077cc06"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-bar/zipball/f5ef1cac7382b5db4dbc1ac342c3500f2c4678bd",
-                "reference": "f5ef1cac7382b5db4dbc1ac342c3500f2c4678bd",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-bar/zipball/18dd3df784b7fdf2eac5ecfe1a809be8b077cc06",
+                "reference": "18dd3df784b7fdf2eac5ecfe1a809be8b077cc06",
                 "shasum": ""
             },
             "require": {
@@ -244,20 +244,20 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-bar/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-bar/issues"
             },
-            "time": "2015-03-02 21:20:13"
+            "time": "2015-03-23 16:53:10"
         },
         {
             "name": "md/division-project",
-            "version": "dev-2.0-main",
+            "version": "2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "0a7d8566084e2a90ce94a9692b25ef7d832f749a"
+                "reference": "10dccc613cbc84a3908329251dad3344015cf399"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/0a7d8566084e2a90ce94a9692b25ef7d832f749a",
-                "reference": "0a7d8566084e2a90ce94a9692b25ef7d832f749a",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/10dccc613cbc84a3908329251dad3344015cf399",
+                "reference": "10dccc613cbc84a3908329251dad3344015cf399",
                 "shasum": ""
             },
             "require": {
@@ -291,10 +291,10 @@
             "type": "silverstripe-module",
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0-main",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-03-23 15:41:13"
+            "time": "2015-03-23 16:46:44"
         },
         {
             "name": "md/rss-display",
@@ -1198,9 +1198,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "md/division-project": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
