@@ -1,10 +1,7 @@
- nav{ display: block; }
+ header, nav, section{ display: block; }
 html{ background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: sans-serif; background-position: initial initial; background-repeat: initial initial; }
 body{ margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; }
-b, strong{ font-weight: bold; }
 hr{ box-sizing: content-box; height: 0px; }
- pre{ font-family: monospace, serif; font-size: 1em; }
-pre{ white-space: pre-wrap; }
 img{ border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; }
  input{ font-family: inherit; font-size: 100%; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; }
  input{ line-height: normal; }
@@ -12,7 +9,7 @@ img{ border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; b
 input[type="search"]{ -webkit-appearance: textfield; box-sizing: content-box; }
 html, input{ color: rgb(34, 34, 34); }
 a{ color: rgb(0, 136, 204); outline-style: none; outline-width: initial; outline-color: initial; text-decoration: none; }
-p, pre, ul{ margin-top: 0.6667em; margin-right: 0px; margin-bottom: 0.6667em; margin-left: 0px; }
+p, ul{ margin-top: 0.6667em; margin-right: 0px; margin-bottom: 0.6667em; margin-left: 0px; }
 h1, h2, h3, h4{ color: rgb(51, 51, 51); font-family: proxima-nova-condensed, sans-serif; margin-top: 1em; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px; letter-spacing: 1px; line-height: 1.2; font-weight: 600; text-rendering: optimizelegibility; }
 h1{ font-size: 2.66667rem; font-weight: 300; margin-top: 0.25em; margin-right: 0px; margin-bottom: 0.25em; margin-left: 0px; text-transform: uppercase; padding-bottom: 10px; }
 @media screen and (min-width: 768px){
@@ -23,7 +20,6 @@ h3{ font-size: 1.73333rem; }
 h4{ font-size: 1.46667rem; }
 ul{ padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-left: 24px; }
 ul ul{ margin-top: 0px; margin-bottom: 0px; }
- pre{ padding-top: 0px; padding-right: 3px; padding-bottom: 2px; padding-left: 3px; font-family: Monaco, Menlo, Consolas, 'Courier New', monospace; font-size: 0.75em; color: rgb(51, 51, 51); border-top-left-radius: 3px 3px; border-top-right-radius: 3px 3px; border-bottom-right-radius: 3px 3px; border-bottom-left-radius: 3px 3px; }
 hr{ clear: both; margin-top: 1.5em; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; border-right-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(255, 255, 255); }
 *{ box-sizing: border-box; }
 img{ max-width: 100%; height: auto; }
@@ -34,12 +30,14 @@ img{ display: inline-block; vertical-align: middle; }
 .division-topbar input[type="submit"]{ -webkit-appearance: button; cursor: pointer; }
 .division-topbar input[type="search"]{ -webkit-appearance: textfield; box-sizing: border-box; }
 .division-topbar *{ box-sizing: border-box; }
+.division-topbar ::before, .division-topbar ::after{ box-sizing: border-box; }
 .division-topbar img{ vertical-align: middle; height: auto; max-width: 100%; }
 .division-topbar a{ text-decoration: none; }
 .clearfix{ }
 .clearfix::before{ content: ' '; display: table; }
 .clearfix::after{ content: ' '; display: table; clear: both; }
 .wrapper{ margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; max-width: 980px; position: relative; }
+.division-topbar{ background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; line-height: 1.5; position: relative; background-position: initial initial; background-repeat: initial initial; }
 .uiowa, .directory-toggle{ line-height: 43px; }
 .uiowa{ display: block; float: left; opacity: 0.7; width: 177px; }
 .directory-toggle{ float: right; width: 253px; }
@@ -163,6 +161,7 @@ input{ margin-left: 0px; width: 100%; }
 @media screen and (min-width: 480px){
 .hero-link{ float: right; font-size: 0.8rem; }
 }
+.home-highlights{ background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(242, 242, 242); padding-top: 5em; padding-right: 0px; padding-bottom: 5em; padding-left: 0px; background-position: initial initial; background-repeat: initial initial; }
 .module{ background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); -webkit-box-shadow: rgba(0, 0, 0, 0.398438) 0px 1px 1px; box-shadow: rgba(0, 0, 0, 0.398438) 0px 1px 1px; border-top-left-radius: 2px 2px; border-top-right-radius: 2px 2px; border-bottom-right-radius: 2px 2px; border-bottom-left-radius: 2px 2px; margin-bottom: 1em; min-height: 305px; background-position: initial initial; background-repeat: initial initial; }
 @media screen and (min-width: 480px){
 .module{ float: left; margin-left: 2.7624309392265194%; margin-bottom: 0px; overflow-x: hidden; overflow-y: hidden; width: 31.491712707182323%; -webkit-transition-property: all; -webkit-transition-duration: 0.2s; -webkit-transition-timing-function: ease-out; -webkit-transition-delay: initial; }
@@ -247,6 +246,7 @@ body{ background-image: initial; background-attachment: initial; background-orig
 @media screen and (min-width: 768px){
 .main-content { background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: solid; border-right-color: rgb(221, 221, 221); width: 72%; position: relative; padding-top: 2em; padding-right: 2em; padding-bottom: 3em; padding-left: 2em; background-position: initial initial; background-repeat: initial initial; }
 }
+.header{ background-image: url(../../../division-project/images/nav_yellow.gif); background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); position: relative; background-position: 0% 100%; background-repeat: repeat no-repeat; }
 .header h1{ margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; }
 .logo{ color: rgb(34, 34, 34); display: block; font-family: proxima-nova-condensed, sans-serif; font-size: 1.93333rem; font-weight: 600; letter-spacing: 1px; line-height: 1.1; margin-top: 0.5em; margin-right: 0px; margin-bottom: 0.2em; margin-left: 0px; text-align: center; text-decoration: none; text-transform: uppercase; text-rendering: optimizelegibility; }
 @media screen and (min-width: 480px){
@@ -263,12 +263,11 @@ body{ background-image: initial; background-attachment: initial; background-orig
 *{ background-image: initial !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important; background-color: transparent !important; color: rgb(0, 0, 0) !important; box-shadow: none !important; text-shadow: none !important; background-position: initial initial !important; background-repeat: initial initial !important; }
 body{ font-size: 13px; line-height: 1.4; }
 a{ text-decoration: underline; }
-pre{ border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(153, 153, 153); border-right-color: rgb(153, 153, 153); border-bottom-color: rgb(153, 153, 153); border-left-color: rgb(153, 153, 153); page-break-inside: avoid; }
  img{ page-break-inside: avoid; }
 img{ max-width: 100% !important; }
 p, h2, h3{ orphans: 3; widows: 3; }
 h2, h3{ page-break-after: avoid; }
-.hide-print{ display: none; }
+.hide-print, .division-topbar{ display: none; }
 .logo{ font-size: 40px; text-align: left; }
 h1{ border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; font-size: 34px; text-transform: none; }
 }
