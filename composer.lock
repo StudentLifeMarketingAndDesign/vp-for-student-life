@@ -149,12 +149,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jonom/silverstripe-focuspoint.git",
-                "reference": "db02ec0c1cc1da39a10b6e35db07bec97ead5de5"
+                "reference": "cc6bfdac821f79280046814fb033a4c9766a0da8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jonom/silverstripe-focuspoint/zipball/db02ec0c1cc1da39a10b6e35db07bec97ead5de5",
-                "reference": "db02ec0c1cc1da39a10b6e35db07bec97ead5de5",
+                "url": "https://api.github.com/repos/jonom/silverstripe-focuspoint/zipball/cc6bfdac821f79280046814fb033a4c9766a0da8",
+                "reference": "cc6bfdac821f79280046814fb033a4c9766a0da8",
                 "shasum": ""
             },
             "require": {
@@ -180,7 +180,7 @@
                 "image",
                 "silverstripe"
             ],
-            "time": "2015-03-23 18:51:44"
+            "time": "2015-03-23 19:08:48"
         },
         {
             "name": "md/ac-json-events",
@@ -252,12 +252,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "e3bd72d2a69970d337863ed7fc7d7160fac5d52e"
+                "reference": "1dacb306fbbd059bcd2813f6430519222a6353ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/e3bd72d2a69970d337863ed7fc7d7160fac5d52e",
-                "reference": "e3bd72d2a69970d337863ed7fc7d7160fac5d52e",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/1dacb306fbbd059bcd2813f6430519222a6353ca",
+                "reference": "1dacb306fbbd059bcd2813f6430519222a6353ca",
                 "shasum": ""
             },
             "require": {
@@ -294,7 +294,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-03-23 19:03:10"
+            "time": "2015-03-24 15:35:51"
         },
         {
             "name": "md/rss-display",
@@ -777,12 +777,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-spamprotection.git",
-                "reference": "ae391bcfb26b4c9b5b8da629b01d3f4405857cf6"
+                "reference": "4478e61390a902462b1f450e418100835b3b7536"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-spamprotection/zipball/ae391bcfb26b4c9b5b8da629b01d3f4405857cf6",
-                "reference": "ae391bcfb26b4c9b5b8da629b01d3f4405857cf6",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-spamprotection/zipball/4478e61390a902462b1f450e418100835b3b7536",
+                "reference": "4478e61390a902462b1f450e418100835b3b7536",
                 "shasum": ""
             },
             "require": {
@@ -810,7 +810,7 @@
                 "silverstripe",
                 "spamprotection"
             ],
-            "time": "2015-03-22 22:35:25"
+            "time": "2015-03-23 23:26:52"
         },
         {
             "name": "silverstripe/staticpublishqueue",
