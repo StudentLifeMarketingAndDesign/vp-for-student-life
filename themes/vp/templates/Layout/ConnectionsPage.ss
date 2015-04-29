@@ -19,7 +19,11 @@
         </section>
         <section class="sec-content hide-print">
         	<%-- include SideNav --%>
-        	<% include BlogSideBar %>
+        	
+        	<% include SideNav %>
+        	<div class="mod">
+        		<% include ConnectionsSignupForm %>
+        	</div>
         </section>
     </div>
 </div>
