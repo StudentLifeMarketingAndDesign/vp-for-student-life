@@ -220,12 +220,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-bar.git",
-                "reference": "92415bc19c5105312c5939a5539a1a03a28a8611"
+                "reference": "1cf03adb6bc4005d2872065e86a8298d706443cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-bar/zipball/92415bc19c5105312c5939a5539a1a03a28a8611",
-                "reference": "92415bc19c5105312c5939a5539a1a03a28a8611",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-bar/zipball/1cf03adb6bc4005d2872065e86a8298d706443cd",
+                "reference": "1cf03adb6bc4005d2872065e86a8298d706443cd",
                 "shasum": ""
             },
             "require": {
@@ -244,7 +244,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-bar/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-bar/issues"
             },
-            "time": "2015-04-20 15:14:19"
+            "time": "2015-05-06 20:09:33"
         },
         {
             "name": "md/division-project",
@@ -252,12 +252,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "03ed33f0981303776ed3f458f227fcac1ef0908c"
+                "reference": "a2149c8fd60285e2643a1dd7df5c36cdea233da5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/03ed33f0981303776ed3f458f227fcac1ef0908c",
-                "reference": "03ed33f0981303776ed3f458f227fcac1ef0908c",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/a2149c8fd60285e2643a1dd7df5c36cdea233da5",
+                "reference": "a2149c8fd60285e2643a1dd7df5c36cdea233da5",
                 "shasum": ""
             },
             "require": {
@@ -294,7 +294,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-04-29 21:14:17"
+            "time": "2015-05-06 19:58:29"
         },
         {
             "name": "md/rss-display",
@@ -777,12 +777,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-spamprotection.git",
-                "reference": "747a801ba5e394867c9891bdb8c53e92878a700b"
+                "reference": "9c649f0b6c56eec4c85bcd66094d165ef6333375"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-spamprotection/zipball/747a801ba5e394867c9891bdb8c53e92878a700b",
-                "reference": "747a801ba5e394867c9891bdb8c53e92878a700b",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-spamprotection/zipball/9c649f0b6c56eec4c85bcd66094d165ef6333375",
+                "reference": "9c649f0b6c56eec4c85bcd66094d165ef6333375",
                 "shasum": ""
             },
             "require": {
@@ -813,7 +813,7 @@
                 "silverstripe",
                 "spamprotection"
             ],
-            "time": "2015-03-24 23:59:49"
+            "time": "2015-05-05 05:19:21"
         },
         {
             "name": "silverstripe/staticpublishqueue",
@@ -944,12 +944,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-userforms.git",
-                "reference": "15f1df242ba30798562c72e4604fb466ae888e25"
+                "reference": "740530d4e613b4460d6bcedb2984a9047d0508d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/15f1df242ba30798562c72e4604fb466ae888e25",
-                "reference": "15f1df242ba30798562c72e4604fb466ae888e25",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/740530d4e613b4460d6bcedb2984a9047d0508d3",
+                "reference": "740530d4e613b4460d6bcedb2984a9047d0508d3",
                 "shasum": ""
             },
             "require": {
@@ -980,49 +980,7 @@
                 "silverstripe",
                 "userforms"
             ],
-            "time": "2015-04-28 05:26:19"
-        },
-        {
-            "name": "silverstripe/widgets",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-widgets.git",
-                "reference": "59e4ba50f255626547f00b96572cab28fec4830f"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-widgets/zipball/59e4ba50f255626547f00b96572cab28fec4830f",
-                "reference": "59e4ba50f255626547f00b96572cab28fec4830f",
-                "shasum": ""
-            },
-            "require": {
-                "silverstripe/cms": ">=3.1",
-                "silverstripe/framework": ">=3.1"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~3.7@stable"
-            },
-            "type": "silverstripe-module",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.1.x-dev"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "authors": [
-                {
-                    "name": "Ingo Schommer",
-                    "email": "ingo@silverstripe.com"
-                }
-            ],
-            "description": "Widgets are small pieces of functionality such as showing the latest Comments or Flickr Photos. They normally display on the sidebar of your website.",
-            "keywords": [
-                "blog",
-                "silverstripe",
-                "widgets"
-            ],
-            "time": "2015-03-06 02:50:23"
+            "time": "2015-04-30 07:43:17"
         },
         {
             "name": "simplepie/simplepie",
@@ -1120,12 +1078,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/unclecheese/silverstripe-event-calendar.git",
-                "reference": "5f7211b00fd405dafecfc79f7b06a02f63cb580d"
+                "reference": "dabcc14af88a70caa052925a67e44a1511af359c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/5f7211b00fd405dafecfc79f7b06a02f63cb580d",
-                "reference": "5f7211b00fd405dafecfc79f7b06a02f63cb580d",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/dabcc14af88a70caa052925a67e44a1511af359c",
+                "reference": "dabcc14af88a70caa052925a67e44a1511af359c",
                 "shasum": ""
             },
             "require": {
@@ -1155,7 +1113,7 @@
                 "events",
                 "silverstripe"
             ],
-            "time": "2015-04-11 04:53:26"
+            "time": "2015-05-05 22:14:07"
         },
         {
             "name": "undefinedoffset/sortablegridfield",
