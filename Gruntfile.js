@@ -29,15 +29,10 @@ module.exports = function(grunt) {
 
     concat: {
       js:{
-        src: ['division-project/bower_components/jquery/jquery.js',
-          'division-project/bower_components/jquery.equalheights/jquery.equalheights.js',
-          'division-project/bower_components/fitvids/jquery.fitvids.js',
-          'division-project/bower_components/flexslider/jquery.flexslider.js',
-          'division-project/bower_components/blazy/blazy.js',
-          'division-bar/js/division-bar.js',
+        src: ['division-project/build/build.src.js',
           '<%=globalConfig.themeDir %>/js/*.js', 
           'division-project/js/*.js'],
-        dest: '<%=globalConfig.themeDir %>/build/build-src.js'
+        dest: '<%=globalConfig.themeDir %>/build/build.src.js'
       }
     },
 
@@ -50,7 +45,7 @@ module.exports = function(grunt) {
       },
       my_target:{
         files:{
-        '<%=globalConfig.themeDir %>/build/build.js': ['<%=globalConfig.themeDir %>/build/build-src.js'],
+        '<%=globalConfig.themeDir %>/build/build.js': ['<%=globalConfig.themeDir %>/build/build.src.js'],
         }
       }
     },

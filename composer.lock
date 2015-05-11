@@ -183,6 +183,40 @@
             "time": "2015-03-23 19:08:48"
         },
         {
+            "name": "madmatt/silverstripe-flickr",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/madmatt/silverstripe-flickr.git",
+                "reference": "63f1d453dfd7b78389cdd117ea7199cd8a5f4647"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/madmatt/silverstripe-flickr/zipball/63f1d453dfd7b78389cdd117ea7199cd8a5f4647",
+                "reference": "63f1d453dfd7b78389cdd117ea7199cd8a5f4647",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "~3.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~3.7"
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "installer-name": "flickr"
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "madmatt",
+                    "email": "signups@madman.net.nz"
+                }
+            ],
+            "description": "Provides simple bindings for the Flickr API, converting API responses into SilverStripe objects",
+            "time": "2015-04-29 01:26:56"
+        },
+        {
             "name": "md/ac-json-events",
             "version": "dev-master",
             "source": {
@@ -252,17 +286,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "29b16435edb9ba70208e35b1b5ba8626d69007db"
+                "reference": "6ea3840b558deab3286a559321a71be70e22088c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/29b16435edb9ba70208e35b1b5ba8626d69007db",
-                "reference": "29b16435edb9ba70208e35b1b5ba8626d69007db",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/6ea3840b558deab3286a559321a71be70e22088c",
+                "reference": "6ea3840b558deab3286a559321a71be70e22088c",
                 "shasum": ""
             },
             "require": {
                 "colymba/gridfield-bulk-editing-tools": "*",
                 "jonom/focuspoint": "*",
+                "madmatt/silverstripe-flickr": "*",
                 "md/ac-json-events": "dev-master",
                 "md/division-bar": "*",
                 "md/rss-display": "*",
@@ -294,7 +329,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-05-07 16:16:48"
+            "time": "2015-05-07 17:27:51"
         },
         {
             "name": "md/rss-display",

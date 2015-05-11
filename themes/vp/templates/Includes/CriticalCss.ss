@@ -111,6 +111,16 @@ input{ margin-left: 0px; width: 100%; }
 .col-1-4{ width: 25%; }
 .col-1-2{ width: 50%; }
 }
+html, body{ height: 100%; }
+html{ box-sizing: border-box; }
+*{ box-sizing: inherit; }
+html, body{ font-size: 15px; }
+body{ background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); color: rgb(34, 34, 34); cursor: auto; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-style: normal; font-weight: normal; line-height: 1.5; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; position: relative; background-position: initial initial; background-repeat: initial initial; }
+img{ max-width: 100%; height: auto; }
+img{ }
+.clearfix::before, .clearfix::after{ content: ' '; display: table; }
+.clearfix::after{ clear: both; }
+img{ display: inline-block; vertical-align: middle; }
 .hero .container{ height: inherit; position: relative; }
 @media screen and (min-width: 768px){
 .hero .container{ text-align: right; }
@@ -217,6 +227,7 @@ input{ margin-left: 0px; width: 100%; }
 .footer img{ max-width: 266px; }
 .footer .dsl-footer{ height: 72px; }
 .footer .dsl-footer img{ margin-top: -20px; }
+ .footer h4{ color: white; }
 @media screen and (min-width: 480px){
 .footer p{ font-size: 0.86667rem; }
 }
