@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "hash": "2b68e2e832318444c5ec9e7be40cff3f",
@@ -335,12 +335,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr.git",
-                "reference": "3d82293b1ca08ff81db679d08799c6c805ac74fb"
+                "reference": "4d07a1e9f647d4598c8f77efce97fd0aa56b56bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-flickr/zipball/3d82293b1ca08ff81db679d08799c6c805ac74fb",
-                "reference": "3d82293b1ca08ff81db679d08799c6c805ac74fb",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-flickr/zipball/4d07a1e9f647d4598c8f77efce97fd0aa56b56bd",
+                "reference": "4d07a1e9f647d4598c8f77efce97fd0aa56b56bd",
                 "shasum": ""
             },
             "require": {
@@ -363,7 +363,7 @@
             "support": {
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr/tree/master"
             },
-            "time": "2015-05-29 16:08:51"
+            "time": "2015-05-29 16:29:02"
         },
         {
             "name": "normann/gridfieldpaginatorwithshowall",
