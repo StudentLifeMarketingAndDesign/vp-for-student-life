@@ -75,10 +75,21 @@ module.exports = function(grunt) {
                     filename: "<%=globalConfig.themeDir %>/css/master.css", // Using path.resolve( path.join( ... ) ) is a good idea here
                     buffer: 800*1024,
                     ignoreConsole: false,
-                    forceInclude: ['.img-container', '.main-content']
+                    forceInclude: ['.img-container', '.main-content', '.sec-content', '.sec-nav', '.sec-nav ul', '.sec-nav a', '.section-title', '.margin-top', '.gradient', '.img-fifty-top']
                 }
             }
+        },
+      cssmin: {
+        options: {
+          shorthandCompacting: false,
+          roundingPrecision: -1
+        },
+        target: {
+          files: {
+            '<%=globalConfig.themeDir %>/templates/Includes/CriticalCss.ss': ['<%=globalConfig.themeDir %>/templates/Includes/CriticalCss.ss']
+          }
         }
+      }
   });
 
   // Load the plugin that provides the "uglify" task.
@@ -88,9 +99,9 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-simple-watch');
   grunt.loadNpmTasks('grunt-criticalcss');
-
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
   // Default task(s).
   // Note: order of tasks is very important
-  grunt.registerTask('default', ['sass', 'concat', 'uglify', 'criticalcss', 'watch']);
+  grunt.registerTask('default', ['sass', 'concat', 'uglify', 'criticalcss','cssmin', 'watch']);
 
 };
