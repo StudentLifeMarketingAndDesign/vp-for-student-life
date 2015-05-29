@@ -30,8 +30,7 @@ module.exports = function(grunt) {
     concat: {
       js:{
         src: ['division-project/build/build.src.js',
-          '<%=globalConfig.themeDir %>/js/*.js', 
-          'division-project/js/*.js'],
+          '<%=globalConfig.themeDir %>/js/*.js'],
         dest: '<%=globalConfig.themeDir %>/build/build.src.js'
       }
     },
