@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "dcacce140809157b09ad51eaccedd795",
+    "hash": "4374955c972bb0bba544b1067bd7ec3d",
     "packages": [
         {
             "name": "colymba/gridfield-bulk-editing-tools",
@@ -248,16 +248,16 @@
         },
         {
             "name": "md/division-project",
-            "version": "2.0.3",
+            "version": "2.0.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "b321d5e39b85144fa0b508cbf276ed51ffaf8da8"
+                "reference": "f408e7caa6965abad3f704535615513144b90022"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b321d5e39b85144fa0b508cbf276ed51ffaf8da8",
-                "reference": "b321d5e39b85144fa0b508cbf276ed51ffaf8da8",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/f408e7caa6965abad3f704535615513144b90022",
+                "reference": "f408e7caa6965abad3f704535615513144b90022",
                 "shasum": ""
             },
             "require": {
@@ -292,10 +292,10 @@
             "type": "silverstripe-module",
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.3",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-05-29 16:43:57"
+            "time": "2015-05-29 19:07:18"
         },
         {
             "name": "md/rss-display",
