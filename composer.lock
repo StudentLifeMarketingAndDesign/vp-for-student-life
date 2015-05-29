@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "hash": "2b68e2e832318444c5ec9e7be40cff3f",
@@ -188,12 +188,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events.git",
-                "reference": "a431403eb8fae7df711615212f0bea965136a0a8"
+                "reference": "54748377908a31c6cfe2ec3cfbb25a58b4ad0c0b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/a431403eb8fae7df711615212f0bea965136a0a8",
-                "reference": "a431403eb8fae7df711615212f0bea965136a0a8",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/54748377908a31c6cfe2ec3cfbb25a58b4ad0c0b",
+                "reference": "54748377908a31c6cfe2ec3cfbb25a58b4ad0c0b",
                 "shasum": ""
             },
             "require": {
@@ -212,7 +212,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/issues"
             },
-            "time": "2015-05-12 18:44:15"
+            "time": "2015-05-29 14:55:18"
         },
         {
             "name": "md/division-bar",
@@ -335,12 +335,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr.git",
-                "reference": "9db2c345732a70d0b95e18225b2a9104dc8888a8"
+                "reference": "3d82293b1ca08ff81db679d08799c6c805ac74fb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-flickr/zipball/9db2c345732a70d0b95e18225b2a9104dc8888a8",
-                "reference": "9db2c345732a70d0b95e18225b2a9104dc8888a8",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-flickr/zipball/3d82293b1ca08ff81db679d08799c6c805ac74fb",
+                "reference": "3d82293b1ca08ff81db679d08799c6c805ac74fb",
                 "shasum": ""
             },
             "require": {
@@ -363,7 +363,7 @@
             "support": {
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr/tree/master"
             },
-            "time": "2015-05-28 20:53:26"
+            "time": "2015-05-29 16:08:51"
         },
         {
             "name": "normann/gridfieldpaginatorwithshowall",
