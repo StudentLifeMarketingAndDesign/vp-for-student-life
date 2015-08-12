@@ -20,3 +20,7 @@ i18n::set_locale('en_US');
 FulltextSearchable::enable();
 // Enable nested URLs for this site (e.g. page/sub-page/)
 if (class_exists('SiteTree')) SiteTree::enable_nested_urls();
+
+if(Director::isLive()) {
+	Director::forceSSL(array('/^Security/','/^admin/'));
+}
