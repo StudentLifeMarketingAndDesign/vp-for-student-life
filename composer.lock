@@ -292,12 +292,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "1e40b298ffd5555f69649ca2e9b544735356d024"
+                "reference": "9bd9f40decf9cc4fd685f3438009d43459253cd9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/1e40b298ffd5555f69649ca2e9b544735356d024",
-                "reference": "1e40b298ffd5555f69649ca2e9b544735356d024",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/9bd9f40decf9cc4fd685f3438009d43459253cd9",
+                "reference": "9bd9f40decf9cc4fd685f3438009d43459253cd9",
                 "shasum": ""
             },
             "require": {
@@ -337,7 +337,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.1.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2015-09-22 16:33:22"
+            "time": "2015-10-02 19:21:43"
         },
         {
             "name": "md/rss-display",
@@ -482,16 +482,16 @@
         },
         {
             "name": "silverstripe-australia/gridfieldextensions",
-            "version": "1.1.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe-australia/silverstripe-gridfieldextensions.git",
-                "reference": "302f7c0dc1ca929d7aa001453eaa16491afd4d5b"
+                "reference": "fe13e8590f21453a84386d5a1504e874a6cd04de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-gridfieldextensions/zipball/302f7c0dc1ca929d7aa001453eaa16491afd4d5b",
-                "reference": "302f7c0dc1ca929d7aa001453eaa16491afd4d5b",
+                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-gridfieldextensions/zipball/fe13e8590f21453a84386d5a1504e874a6cd04de",
+                "reference": "fe13e8590f21453a84386d5a1504e874a6cd04de",
                 "shasum": ""
             },
             "require": {
@@ -503,6 +503,9 @@
             "type": "silverstripe-module",
             "extra": {
                 "installer-name": "gridfieldextensions",
+                "branch-alias": {
+                    "dev-master": "1.2.x-dev"
+                },
                 "screenshots": [
                     "docs/en/_images/editable-rows.png",
                     "docs/en/_images/add-existing-search.png"
@@ -523,12 +526,12 @@
                 }
             ],
             "description": "A collection of useful grid field components",
-            "homepage": "http://github.com/ajshort/silverstripe-gridfieldextensions",
+            "homepage": "http://github.com/silverstripe-australia/silverstripe-gridfieldextensions",
             "keywords": [
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2015-03-04 01:28:24"
+            "time": "2015-09-28 09:06:01"
         },
         {
             "name": "silverstripe-themes/simple",
@@ -1253,12 +1256,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/thisisbd/silverstripe-maintenance-mode.git",
-                "reference": "8bc8d72e7e6c2f7fb7969f458bca8a62b1ff5464"
+                "reference": "69bd3e4a265c762ce0b54dd846fb4fef894f4196"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thisisbd/silverstripe-maintenance-mode/zipball/8bc8d72e7e6c2f7fb7969f458bca8a62b1ff5464",
-                "reference": "8bc8d72e7e6c2f7fb7969f458bca8a62b1ff5464",
+                "url": "https://api.github.com/repos/thisisbd/silverstripe-maintenance-mode/zipball/69bd3e4a265c762ce0b54dd846fb4fef894f4196",
+                "reference": "69bd3e4a265c762ce0b54dd846fb4fef894f4196",
                 "shasum": ""
             },
             "require": {
@@ -1290,7 +1293,7 @@
                 "under construction",
                 "utility page"
             ],
-            "time": "2015-09-09 19:06:01"
+            "time": "2015-09-26 14:31:22"
         },
         {
             "name": "unclecheese/betterbuttons",
@@ -1377,12 +1380,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/UndefinedOffset/SortableGridField.git",
-                "reference": "282ea74a764d247f70c1c73c1400bcc322aade08"
+                "reference": "c224c331730ed42ad8eb5301915185a0360aae8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/UndefinedOffset/SortableGridField/zipball/282ea74a764d247f70c1c73c1400bcc322aade08",
-                "reference": "282ea74a764d247f70c1c73c1400bcc322aade08",
+                "url": "https://api.github.com/repos/UndefinedOffset/SortableGridField/zipball/c224c331730ed42ad8eb5301915185a0360aae8e",
+                "reference": "c224c331730ed42ad8eb5301915185a0360aae8e",
                 "shasum": ""
             },
             "require": {
@@ -1409,7 +1412,7 @@
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2015-08-29 17:54:46"
+            "time": "2015-09-18 19:03:06"
         }
     ],
     "packages-dev": [],
