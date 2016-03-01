@@ -55,12 +55,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "6213d900e92647831f7a406d5c530ea1f3d4360e"
+                "reference": "b3d1f3125a77af66d2bfd934c775150e4c9aecc3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/6213d900e92647831f7a406d5c530ea1f3d4360e",
-                "reference": "6213d900e92647831f7a406d5c530ea1f3d4360e",
+                "url": "https://api.github.com/repos/composer/installers/zipball/b3d1f3125a77af66d2bfd934c775150e4c9aecc3",
+                "reference": "b3d1f3125a77af66d2bfd934c775150e4c9aecc3",
                 "shasum": ""
             },
             "require": {
@@ -145,7 +145,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-01-27 12:54:22"
+            "time": "2016-02-27 14:38:36"
         },
         {
             "name": "jonom/focuspoint",
@@ -296,12 +296,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "3db235c522551dda12e2c34da7880cb0ca85c2cd"
+                "reference": "b0abb15a31de6164789be356c0c8ec4002595c4f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/3db235c522551dda12e2c34da7880cb0ca85c2cd",
-                "reference": "3db235c522551dda12e2c34da7880cb0ca85c2cd",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b0abb15a31de6164789be356c0c8ec4002595c4f",
+                "reference": "b0abb15a31de6164789be356c0c8ec4002595c4f",
                 "shasum": ""
             },
             "require": {
@@ -318,8 +318,8 @@
                 "silverstripe-australia/gridfieldextensions": "*",
                 "silverstripe-themes/simple": "*",
                 "silverstripe/blog": "2.*",
-                "silverstripe/cms": "3.3.0",
-                "silverstripe/framework": "3.3.0",
+                "silverstripe/cms": "3.3.1",
+                "silverstripe/framework": "3.3.1",
                 "silverstripe/googlesitemaps": "*",
                 "silverstripe/installer": "*",
                 "silverstripe/mathspamprotection": "*",
@@ -340,7 +340,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/3.3.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2016-02-26 15:56:07"
+            "time": "2016-02-29 22:33:22"
         },
         {
             "name": "md/rss-display",
@@ -380,12 +380,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr.git",
-                "reference": "43a76b76a8fbf587bed959d1d10ecca5ac0cfbd5"
+                "reference": "61f510ead7789bb6d96fdde4b6524f2560fa7cd5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-flickr/zipball/43a76b76a8fbf587bed959d1d10ecca5ac0cfbd5",
-                "reference": "43a76b76a8fbf587bed959d1d10ecca5ac0cfbd5",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-flickr/zipball/61f510ead7789bb6d96fdde4b6524f2560fa7cd5",
+                "reference": "61f510ead7789bb6d96fdde4b6524f2560fa7cd5",
                 "shasum": ""
             },
             "require": {
@@ -408,7 +408,7 @@
             "support": {
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr/tree/master"
             },
-            "time": "2015-06-05 16:08:55"
+            "time": "2016-02-29 19:23:33"
         },
         {
             "name": "normann/gridfieldpaginatorwithshowall",
@@ -624,16 +624,16 @@
         },
         {
             "name": "silverstripe/cms",
-            "version": "3.3.0",
+            "version": "3.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-cms.git",
-                "reference": "a5444c3eeba6b6288b246e0e7e65594f2b98c18b"
+                "reference": "77d506547c8c8be6132c26d3125f9138e1eacfbb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/a5444c3eeba6b6288b246e0e7e65594f2b98c18b",
-                "reference": "a5444c3eeba6b6288b246e0e7e65594f2b98c18b",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-cms/zipball/77d506547c8c8be6132c26d3125f9138e1eacfbb",
+                "reference": "77d506547c8c8be6132c26d3125f9138e1eacfbb",
                 "shasum": ""
             },
             "require": {
@@ -674,20 +674,20 @@
                 "cms",
                 "silverstripe"
             ],
-            "time": "2016-02-24 03:06:03"
+            "time": "2016-02-29 02:01:55"
         },
         {
             "name": "silverstripe/framework",
-            "version": "3.3.0",
+            "version": "3.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-framework.git",
-                "reference": "0ec021dac89590fd103696737a1d65a3c543786e"
+                "reference": "fb582332010873c1ec03f5644263667f615b1f98"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/0ec021dac89590fd103696737a1d65a3c543786e",
-                "reference": "0ec021dac89590fd103696737a1d65a3c543786e",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/fb582332010873c1ec03f5644263667f615b1f98",
+                "reference": "fb582332010873c1ec03f5644263667f615b1f98",
                 "shasum": ""
             },
             "require": {
@@ -728,7 +728,7 @@
                 "framework",
                 "silverstripe"
             ],
-            "time": "2016-02-24 03:30:34"
+            "time": "2016-02-29 02:23:25"
         },
         {
             "name": "silverstripe/googlesitemaps",
