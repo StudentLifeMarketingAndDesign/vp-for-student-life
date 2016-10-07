@@ -161,12 +161,12 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/johngrogg/ics-parser.git",
+                "url": "https://github.com/u01jmg3/ics-parser.git",
                 "reference": "fe46d0d6d89066679594b101812590ad8517a635"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johngrogg/ics-parser/zipball/fe46d0d6d89066679594b101812590ad8517a635",
+                "url": "https://api.github.com/repos/u01jmg3/ics-parser/zipball/fe46d0d6d89066679594b101812590ad8517a635",
                 "reference": "fe46d0d6d89066679594b101812590ad8517a635",
                 "shasum": ""
             },
@@ -359,12 +359,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "582d3317e0ac8bcf143d62785c5873394bc6bf1a"
+                "reference": "40d43bdcf8037a9ffc69cfada14028915dfbb7b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/582d3317e0ac8bcf143d62785c5873394bc6bf1a",
-                "reference": "582d3317e0ac8bcf143d62785c5873394bc6bf1a",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/40d43bdcf8037a9ffc69cfada14028915dfbb7b7",
+                "reference": "40d43bdcf8037a9ffc69cfada14028915dfbb7b7",
                 "shasum": ""
             },
             "require": {
@@ -404,7 +404,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/3.4.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2016-09-20 19:58:39"
+            "time": "2016-10-07 20:01:10"
         },
         {
             "name": "md/rss-display",
@@ -792,12 +792,12 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe-labs/silverstripe-googlesitemaps.git",
+                "url": "https://github.com/wilr/silverstripe-googlesitemaps.git",
                 "reference": "bb7fbb8308e5d0c5bd39d557e1d1df7397044df3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe-labs/silverstripe-googlesitemaps/zipball/bb7fbb8308e5d0c5bd39d557e1d1df7397044df3",
+                "url": "https://api.github.com/repos/wilr/silverstripe-googlesitemaps/zipball/bb7fbb8308e5d0c5bd39d557e1d1df7397044df3",
                 "reference": "bb7fbb8308e5d0c5bd39d557e1d1df7397044df3",
                 "shasum": ""
             },
