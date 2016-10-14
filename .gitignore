@@ -42,5 +42,8 @@ maintenance-mode/
 tagfield/
 reports/
 siteconfig/
-
 secureassets/
+silverstripe-image-optionset/
+silverstripe-page-gallery/
+silverstripe-typekit/
+npm_debug.log

@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "50fdd947a47e27e4ed23c7f09f4134c8",
-    "content-hash": "d6c67b3490c9fe7f58bd1a57659f114e",
+    "hash": "e3ba7c5fd34c98a04783475a1bac4007",
+    "content-hash": "8792746f0ef825d17a710cb5aada776a",
     "packages": [
         {
             "name": "colymba/gridfield-bulk-editing-tools",
@@ -355,16 +355,16 @@
         },
         {
             "name": "md/division-project",
-            "version": "3.4.x-dev",
+            "version": "4.0.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "40d43bdcf8037a9ffc69cfada14028915dfbb7b7"
+                "reference": "3d5d72f9ad8718477e55d769323dced0d49d6e98"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/40d43bdcf8037a9ffc69cfada14028915dfbb7b7",
-                "reference": "40d43bdcf8037a9ffc69cfada14028915dfbb7b7",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/3d5d72f9ad8718477e55d769323dced0d49d6e98",
+                "reference": "3d5d72f9ad8718477e55d769323dced0d49d6e98",
                 "shasum": ""
             },
             "require": {
@@ -393,18 +393,20 @@
                 "silverstripe/userforms": "3.*",
                 "silverstripe/widgets": "*",
                 "simplepie/simplepie": "*",
+                "studiobonito/silverstripe-typekit": "*",
                 "thisisbd/silverstripe-maintenance-mode": "*",
                 "unclecheese/betterbuttons": "*",
                 "unclecheese/eventcalendar": "*",
+                "unclecheese/silverstripe-page-gallery": "dev-master",
                 "undefinedoffset/sortablegridfield": "*"
             },
             "type": "silverstripe-module",
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/3.4.x",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2016-10-07 20:01:10"
+            "time": "2016-10-14 00:44:13"
         },
         {
             "name": "md/rss-display",
@@ -1444,6 +1446,93 @@
             "time": "2016-08-31 01:21:39"
         },
         {
+            "name": "studiobonito/silverstripe-typekit",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/studiobonito/silverstripe-typekit.git",
+                "reference": "de3c0d75fc773f851455683adfce6254ca7cef80"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/studiobonito/silverstripe-typekit/zipball/de3c0d75fc773f851455683adfce6254ca7cef80",
+                "reference": "de3c0d75fc773f851455683adfce6254ca7cef80",
+                "shasum": ""
+            },
+            "type": "silverstripe-module",
+            "autoload": {
+                "psr-4": {
+                    "StudioBonito\\SilverStripe\\TypeKit\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Tom Densham",
+                    "email": "tom.densham@studiobonito.co.uk"
+                }
+            ],
+            "description": "Provide TypeKit integration for SilverStripe CMS.",
+            "keywords": [
+                "silverstripe",
+                "typekit",
+                "typography"
+            ],
+            "time": "2014-07-31 10:20:30"
+        },
+        {
+            "name": "symfony/process",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/process.git",
+                "reference": "fbaacdfc701a0ad50622eee45cfa2112f0ee144e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/process/zipball/fbaacdfc701a0ad50622eee45cfa2112f0ee144e",
+                "reference": "fbaacdfc701a0ad50622eee45cfa2112f0ee144e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.9"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.2-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Process\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony Process Component",
+            "homepage": "https://symfony.com",
+            "time": "2016-10-01 14:21:27"
+        },
+        {
             "name": "thisisbd/silverstripe-maintenance-mode",
             "version": "dev-master",
             "source": {
@@ -1575,6 +1664,83 @@
                 "silverstripe"
             ],
             "time": "2016-08-24 01:46:13"
+        },
+        {
+            "name": "unclecheese/silverstripe-image-optionset",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/unclecheese/silverstripe-image-optionset.git",
+                "reference": "af2773881317919fede4d73423f0765e468ccb4a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-image-optionset/zipball/af2773881317919fede4d73423f0765e468ccb4a",
+                "reference": "af2773881317919fede4d73423f0765e468ccb4a",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "~3.1"
+            },
+            "type": "silverstripe-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GNU"
+            ],
+            "authors": [
+                {
+                    "name": "Uncle Cheese",
+                    "email": "unclecheese@leftandmain.com"
+                }
+            ],
+            "description": "Provides a list of selectable items that use images as the primary label instead of text.",
+            "keywords": [
+                "image",
+                "optionsetfield",
+                "radio",
+                "silverstripe"
+            ],
+            "time": "2016-05-13 03:53:25"
+        },
+        {
+            "name": "unclecheese/silverstripe-page-gallery",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/unclecheese/silverstripe-page-gallery.git",
+                "reference": "9a956225ba332cbc69799da2d165d37a128821a3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-page-gallery/zipball/9a956225ba332cbc69799da2d165d37a128821a3",
+                "reference": "9a956225ba332cbc69799da2d165d37a128821a3",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/cms": "~3.1",
+                "silverstripe/framework": "~3.1",
+                "symfony/process": "^3.0",
+                "unclecheese/silverstripe-image-optionset": "*"
+            },
+            "type": "silverstripe-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GNU"
+            ],
+            "authors": [
+                {
+                    "name": "Uncle Cheese",
+                    "email": "unclecheese@leftandmain.com"
+                }
+            ],
+            "description": "Displays screenshots of rendered templates when selecting a page type.",
+            "keywords": [
+                "page",
+                "screenshot",
+                "silverstripe",
+                "template"
+            ],
+            "time": "2016-05-16 20:31:12"
         },
         {
             "name": "undefinedoffset/sortablegridfield",

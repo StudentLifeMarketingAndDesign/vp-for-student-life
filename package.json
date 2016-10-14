@@ -1,14 +1,8 @@
 {
   "name": "division-project",
-  "version": "0.1.1",
-  "devDependencies": {
-    "grunt": "*",
-    "grunt-contrib-concat": "*",
-    "grunt-contrib-uglify": "*",
-    "grunt-contrib-sass": "*",
-    "grunt-contrib-watch": "*",
-    "grunt-simple-watch": "*",
-    "grunt-criticalcss": "*",
-    "grunt-contrib-cssmin": "*"
+  "version": "4.0.0",
+  "scripts": {
+    "start": "cd division-project && npm install && npm start",
+    "build": "cd division-project && npm install && npm start"
   }
 }
