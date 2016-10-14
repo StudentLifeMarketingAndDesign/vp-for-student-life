@@ -313,12 +313,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "66c8cb1df0cccf634756ddd9c618322d7dba2fa3"
+                "reference": "46598ad6e5cec2a5db440ec8aab035158032b4a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/66c8cb1df0cccf634756ddd9c618322d7dba2fa3",
-                "reference": "66c8cb1df0cccf634756ddd9c618322d7dba2fa3",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/46598ad6e5cec2a5db440ec8aab035158032b4a1",
+                "reference": "46598ad6e5cec2a5db440ec8aab035158032b4a1",
                 "shasum": ""
             },
             "require": {
@@ -330,6 +330,7 @@
                 "md/silverstripe-flickr": "*",
                 "normann/gridfieldpaginatorwithshowall": "*",
                 "php": ">=5.3.2",
+                "rywa/silverstripe-foundation-forms": "dev-master",
                 "sheadawson/quickaddnew": "*",
                 "silverstripe-australia/gridfieldextensions": "*",
                 "silverstripe-themes/simple": "*",
@@ -359,7 +360,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2016-10-14 00:47:56"
+            "time": "2016-10-14 04:22:35"
         },
         {
             "name": "md/rss-display",
@@ -464,6 +465,52 @@
                 "silverstripe"
             ],
             "time": "2013-09-25 18:47:47"
+        },
+        {
+            "name": "rywa/silverstripe-foundation-forms",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ryanwachtl/silverstripe-foundation-forms.git",
+                "reference": "6aa7fa8af131134806a8a8a6e74f8b5b0adf65b4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ryanwachtl/silverstripe-foundation-forms/zipball/6aa7fa8af131134806a8a8a6e74f8b5b0adf65b4",
+                "reference": "6aa7fa8af131134806a8a8a6e74f8b5b0adf65b4",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "*",
+                "silverstripe/framework": "~3.1"
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "installer-name": "foundationforms",
+                "branch-alias": {
+                    "dev-master": "1.1.x-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT Open Source License"
+            ],
+            "authors": [
+                {
+                    "name": "Ryan Wachtl",
+                    "email": "ryan@beyondusability.pro",
+                    "homepage": "http://beyondusability.pro",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Add ZURB Foundation framework forms compatibility to SilverStripe 3",
+            "keywords": [
+                "Forms",
+                "foundation",
+                "silverstripe",
+                "zurb foundation"
+            ],
+            "time": "2016-06-13 02:03:17"
         },
         {
             "name": "sheadawson/quickaddnew",
