@@ -2,7 +2,7 @@
   "name": "division-project",
   "version": "4.0.0",
   "scripts": {
-    "start": "cd division-project && npm install && npm start",
-    "build": "cd division-project && npm install && npm start"
+    "start": "cd division-project && bower install && npm install && npm start",
+    "build": "cd division-project && bower install && npm install && npm start"
   }
 }
