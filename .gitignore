@@ -48,3 +48,5 @@ silverstripe-page-gallery/
 silverstripe-typekit/
 npm_debug.log
 foundationforms
+silverstripe-green/
+silverstripe-serialised-dbfields/
