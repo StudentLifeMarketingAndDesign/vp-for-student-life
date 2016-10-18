@@ -313,12 +313,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "383b1645ecfa9caf56e52cf4a35fd4a702179a59"
+                "reference": "e3fb7a337eeae0e4971a3111e8b6752c2f27d93c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/383b1645ecfa9caf56e52cf4a35fd4a702179a59",
-                "reference": "383b1645ecfa9caf56e52cf4a35fd4a702179a59",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/e3fb7a337eeae0e4971a3111e8b6752c2f27d93c",
+                "reference": "e3fb7a337eeae0e4971a3111e8b6752c2f27d93c",
                 "shasum": ""
             },
             "require": {
@@ -351,6 +351,7 @@
                 "thisisbd/silverstripe-maintenance-mode": "*",
                 "unclecheese/betterbuttons": "*",
                 "unclecheese/eventcalendar": "*",
+                "unclecheese/silverstripe-green": "*",
                 "unclecheese/silverstripe-page-gallery": "dev-master",
                 "undefinedoffset/sortablegridfield": "*"
             },
@@ -360,7 +361,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2016-10-17 23:49:53"
+            "time": "2016-10-18 03:25:56"
         },
         {
             "name": "md/rss-display",
@@ -1497,6 +1498,55 @@
             "time": "2014-07-31 10:20:30"
         },
         {
+            "name": "symfony/finder",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/finder.git",
+                "reference": "df6823821a90eec42c3040b4b06ba8b2af89ae30"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/df6823821a90eec42c3040b4b06ba8b2af89ae30",
+                "reference": "df6823821a90eec42c3040b4b06ba8b2af89ae30",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.9"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.2-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Finder\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony Finder Component",
+            "homepage": "https://symfony.com",
+            "time": "2016-09-28 00:11:20"
+        },
+        {
             "name": "symfony/process",
             "version": "dev-master",
             "source": {
@@ -1679,6 +1729,49 @@
             "time": "2016-09-28 20:38:35"
         },
         {
+            "name": "unclecheese/silverstripe-green",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/unclecheese/silverstripe-green.git",
+                "reference": "2af8921e56805d28ff8df6c72e4feb86413e0298"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-green/zipball/2af8921e56805d28ff8df6c72e4feb86413e0298",
+                "reference": "2af8921e56805d28ff8df6c72e4feb86413e0298",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "~3.1",
+                "symfony/finder": "^3.1",
+                "unclecheese/silverstripe-serialised-dbfields": "dev-master"
+            },
+            "require-dev": {
+                "symfony/filesystem": "~3.1"
+            },
+            "type": "silverstripe-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Uncle Cheese",
+                    "email": "unclecheese@leftandmain.com"
+                }
+            ],
+            "description": "A micro-framework for SilverStripe that offers a design-driven approach to creating unique templates",
+            "homepage": "https://github.com/unclecheese/silverstripe-green",
+            "keywords": [
+                "design",
+                "json",
+                "silverstripe",
+                "yaml"
+            ],
+            "time": "2016-10-13 07:31:22"
+        },
+        {
             "name": "unclecheese/silverstripe-image-optionset",
             "version": "dev-master",
             "source": {
@@ -1754,6 +1847,47 @@
                 "template"
             ],
             "time": "2016-05-16 20:31:12"
+        },
+        {
+            "name": "unclecheese/silverstripe-serialised-dbfields",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/unclecheese/silverstripe-serialised-dbfields.git",
+                "reference": "b54fd65f6b5cebb7917fcbdf81e0176a33b9b69d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-serialised-dbfields/zipball/b54fd65f6b5cebb7917fcbdf81e0176a33b9b69d",
+                "reference": "b54fd65f6b5cebb7917fcbdf81e0176a33b9b69d",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "~3.1"
+            },
+            "suggest": {
+                "nathancox/codeeditorfield": "Provides a robust code editor for editing your serialised data in the CMS"
+            },
+            "type": "silverstripe-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Uncle Cheese",
+                    "email": "unclecheese@leftandmain.com"
+                }
+            ],
+            "description": "Provides serialised data (YAML, JSON) in text fields that are traverseable as nested ViewableData objects.",
+            "homepage": "https://github.com/unclecheese/silverstripe-serialised-dbfields",
+            "keywords": [
+                "dbfield",
+                "json",
+                "silverstripe",
+                "yaml"
+            ],
+            "time": "2016-10-13 01:06:25"
         },
         {
             "name": "undefinedoffset/sortablegridfield",
