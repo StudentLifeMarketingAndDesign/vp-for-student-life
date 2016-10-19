@@ -359,12 +359,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "40d43bdcf8037a9ffc69cfada14028915dfbb7b7"
+                "reference": "d62198940c994c4d64557d0c23986636d0ec4588"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/40d43bdcf8037a9ffc69cfada14028915dfbb7b7",
-                "reference": "40d43bdcf8037a9ffc69cfada14028915dfbb7b7",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/d62198940c994c4d64557d0c23986636d0ec4588",
+                "reference": "d62198940c994c4d64557d0c23986636d0ec4588",
                 "shasum": ""
             },
             "require": {
@@ -396,6 +396,7 @@
                 "thisisbd/silverstripe-maintenance-mode": "*",
                 "unclecheese/betterbuttons": "*",
                 "unclecheese/eventcalendar": "*",
+                "unclecheese/silverstripe-blog-sortable-categories": "*",
                 "undefinedoffset/sortablegridfield": "*"
             },
             "type": "silverstripe-module",
@@ -404,7 +405,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/3.4.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2016-10-07 20:01:10"
+            "time": "2016-10-19 16:46:22"
         },
         {
             "name": "md/rss-display",
@@ -1575,6 +1576,47 @@
                 "silverstripe"
             ],
             "time": "2016-08-24 01:46:13"
+        },
+        {
+            "name": "unclecheese/silverstripe-blog-sortable-categories",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/unclecheese/silverstripe-blog-sortable-categories.git",
+                "reference": "471cd55f48228706f18da4bcd6d3e83e809b33c1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-blog-sortable-categories/zipball/471cd55f48228706f18da4bcd6d3e83e809b33c1",
+                "reference": "471cd55f48228706f18da4bcd6d3e83e809b33c1",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe-australia/gridfieldextensions": "^1.2",
+                "silverstripe/blog": "^2.2"
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "installer-name": "blog-sortable-categories"
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Uncle Cheese",
+                    "email": "unclecheese@leftandmain.com"
+                }
+            ],
+            "description": "Makes the categories in silverstripe/blog orderable",
+            "keywords": [
+                "blog",
+                "categories",
+                "silverstripe",
+                "sortable"
+            ],
+            "time": "2015-12-16 02:08:30"
         },
         {
             "name": "undefinedoffset/sortablegridfield",
