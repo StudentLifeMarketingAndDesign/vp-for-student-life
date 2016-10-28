@@ -313,12 +313,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "f602a8bd5db9a10fa16804eaf5dcbb511ee6b612"
+                "reference": "38d1f52930c6a07f1d449d5544a2296cb46a97f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/f602a8bd5db9a10fa16804eaf5dcbb511ee6b612",
-                "reference": "f602a8bd5db9a10fa16804eaf5dcbb511ee6b612",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/38d1f52930c6a07f1d449d5544a2296cb46a97f2",
+                "reference": "38d1f52930c6a07f1d449d5544a2296cb46a97f2",
                 "shasum": ""
             },
             "require": {
@@ -354,7 +354,6 @@
                 "unclecheese/betterbuttons": "*",
                 "unclecheese/display-logic": "*",
                 "unclecheese/eventcalendar": "*",
-                "unclecheese/silverstripe-green": "*",
                 "unclecheese/silverstripe-page-gallery": "dev-master",
                 "undefinedoffset/sortablegridfield": "*",
                 "unisolutions/silverstripe-copybutton": "*"
@@ -365,7 +364,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2016-10-28 20:01:09"
+            "time": "2016-10-28 20:05:02"
         },
         {
             "name": "md/rss-display",
