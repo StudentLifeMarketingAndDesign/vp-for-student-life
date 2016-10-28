@@ -1,8 +1,0 @@
-Page:
-  extensions:
-    - DivisionPage
-Page_Controller:
-  extensions:
-    - DivisionPage_Controller
-
-

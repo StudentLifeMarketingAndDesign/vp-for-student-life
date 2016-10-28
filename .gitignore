@@ -51,3 +51,7 @@ foundationforms
 silverstripe-green/
 silverstripe-serialised-dbfields/
 display_logic
+blocks/
+copybutton/
+gridfieldsitetreebuttons/
+multivaluefield/
