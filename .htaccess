@@ -67,7 +67,7 @@ RewriteRule .* staticpublisher/main.php?url=%1&%{QUERY_STRING} [L]
 ### SILVERSTRIPE END ###
 
 
-#php_value error_reporting 2147483647
+php_value error_reporting 2147483647
 php_flag display_errors on
 php_value post_max_size 100M
 php_value upload_max_filesize 40M

@@ -22,7 +22,7 @@ PATHS:
   # Paths to static assets that aren't images, CSS, or JavaScript
   assets:
     - "src/**/*"
-    - "!src/{images,scripts,scss}/**/*"
+    - "!src/{images,scripts,scss,templates}/**/*"
   # Paths to Sass libraries, which can then be loaded with @import
   sass:
     - "src/scss/"
