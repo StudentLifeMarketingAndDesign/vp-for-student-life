@@ -31,6 +31,9 @@ ErrorDocument 500 /assets/error-500.html
   SetEnv HTTP_MOD_REWRITE On
   RewriteEngine On
 
+  RewriteRule ^constitution$ - [L]
+  RewriteRule ^constitution/.* - [L]
+
   RewriteCond %{REQUEST_URI} ^(.*)$
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_URI} !\.php$
@@ -42,3 +45,4 @@ ErrorDocument 500 /assets/error-500.html
 
 </IfModule>
 ### SILVERSTRIPE END ###
+php_flag display_errors on
