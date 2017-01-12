@@ -51,16 +51,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "dev-master",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "87933d75bdab747400138a7e0381760bb9b64dde"
+                "reference": "d78064c68299743e0161004f2de3a0204e33b804"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/87933d75bdab747400138a7e0381760bb9b64dde",
-                "reference": "87933d75bdab747400138a7e0381760bb9b64dde",
+                "url": "https://api.github.com/repos/composer/installers/zipball/d78064c68299743e0161004f2de3a0204e33b804",
+                "reference": "d78064c68299743e0161004f2de3a0204e33b804",
                 "shasum": ""
             },
             "require": {
@@ -104,12 +104,10 @@
                 "Dolibarr",
                 "Hurad",
                 "ImageCMS",
-                "Kanboard",
                 "MODX Evo",
                 "Mautic",
                 "OXID",
                 "Plentymarkets",
-                "Porto",
                 "RadPHP",
                 "SMF",
                 "Thelia",
@@ -156,7 +154,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-12-23 18:55:51"
+            "time": "2016-08-13 20:53:52"
         },
         {
             "name": "johngrogg/ics-parser",
@@ -1517,12 +1515,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/unclecheese/silverstripe-gridfield-betterbuttons.git",
-                "reference": "a703795fce8d4d50400c9ac2b82601fde1b67074"
+                "reference": "5aab65439630236fd122968a59013fb8d5a6d667"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-gridfield-betterbuttons/zipball/a703795fce8d4d50400c9ac2b82601fde1b67074",
-                "reference": "a703795fce8d4d50400c9ac2b82601fde1b67074",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-gridfield-betterbuttons/zipball/5aab65439630236fd122968a59013fb8d5a6d667",
+                "reference": "5aab65439630236fd122968a59013fb8d5a6d667",
                 "shasum": ""
             },
             "require": {
@@ -1545,7 +1543,7 @@
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2016-09-16 00:03:03"
+            "time": "2017-01-12 08:54:06"
         },
         {
             "name": "unclecheese/eventcalendar",
@@ -1553,12 +1551,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/unclecheese/silverstripe-event-calendar.git",
-                "reference": "3575f4df874aaebfea68ebe16615d381531ffbe2"
+                "reference": "524383e240ceeb9a20dc99dea17de2327059baf7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/3575f4df874aaebfea68ebe16615d381531ffbe2",
-                "reference": "3575f4df874aaebfea68ebe16615d381531ffbe2",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/524383e240ceeb9a20dc99dea17de2327059baf7",
+                "reference": "524383e240ceeb9a20dc99dea17de2327059baf7",
                 "shasum": ""
             },
             "require": {
@@ -1589,7 +1587,7 @@
                 "events",
                 "silverstripe"
             ],
-            "time": "2016-11-12 11:05:22"
+            "time": "2017-01-12 02:35:24"
         },
         {
             "name": "unclecheese/silverstripe-blog-sortable-categories",
