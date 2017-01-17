@@ -51,16 +51,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "v1.2.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "d78064c68299743e0161004f2de3a0204e33b804"
+                "reference": "87933d75bdab747400138a7e0381760bb9b64dde"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/d78064c68299743e0161004f2de3a0204e33b804",
-                "reference": "d78064c68299743e0161004f2de3a0204e33b804",
+                "url": "https://api.github.com/repos/composer/installers/zipball/87933d75bdab747400138a7e0381760bb9b64dde",
+                "reference": "87933d75bdab747400138a7e0381760bb9b64dde",
                 "shasum": ""
             },
             "require": {
@@ -104,10 +104,12 @@
                 "Dolibarr",
                 "Hurad",
                 "ImageCMS",
+                "Kanboard",
                 "MODX Evo",
                 "Mautic",
                 "OXID",
                 "Plentymarkets",
+                "Porto",
                 "RadPHP",
                 "SMF",
                 "Thelia",
@@ -154,7 +156,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-08-13 20:53:52"
+            "time": "2016-12-23 18:55:51"
         },
         {
             "name": "johngrogg/ics-parser",
@@ -1551,12 +1553,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/unclecheese/silverstripe-event-calendar.git",
-                "reference": "524383e240ceeb9a20dc99dea17de2327059baf7"
+                "reference": "e1dd3f4699f1e0943089634df4c14343afa4266b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/524383e240ceeb9a20dc99dea17de2327059baf7",
-                "reference": "524383e240ceeb9a20dc99dea17de2327059baf7",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/e1dd3f4699f1e0943089634df4c14343afa4266b",
+                "reference": "e1dd3f4699f1e0943089634df4c14343afa4266b",
                 "shasum": ""
             },
             "require": {
@@ -1587,7 +1589,7 @@
                 "events",
                 "silverstripe"
             ],
-            "time": "2017-01-12 02:35:24"
+            "time": "2017-01-12 22:49:58"
         },
         {
             "name": "unclecheese/silverstripe-blog-sortable-categories",
