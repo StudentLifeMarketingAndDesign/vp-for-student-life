@@ -16,6 +16,7 @@ UNCSS_OPTIONS:
 
 # Gulp will reference these paths when it copies files
 PATHS:
+  project: "division-project-4"
   theme: "../themes/division-subtheme"
   # Path to theme folder
   dist: "dist"  
@@ -60,6 +61,12 @@ PATHS:
     - "bower_components/foundation-sites/js/foundation.toggler.js"
     - "bower_components/foundation-sites/js/foundation.tooltip.js"
 
+    # add'l libraries:
+    - "bower_components/foundation-sites/js/foundation.util.*.js"
+    # - "bower_components/jquery-auto-complete/jquery.auto-complete.js"
+    # - "bower_components/devbridge-autocomplete/dist/jquery.autocomplete.js"
+
     # Division Project Scripts:
+    - "src/scripts/lib/*.js"
     - "src/scripts/!(app).js"
     - "src/scripts/app.js"
