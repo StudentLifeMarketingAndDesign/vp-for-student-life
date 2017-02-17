@@ -55,12 +55,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "5efe9e074aa998c64664d5817b1c9b0e0d031daf"
+                "reference": "4c2a460d3ecf57fe2986790164d0b6ad95d4657e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/5efe9e074aa998c64664d5817b1c9b0e0d031daf",
-                "reference": "5efe9e074aa998c64664d5817b1c9b0e0d031daf",
+                "url": "https://api.github.com/repos/composer/installers/zipball/4c2a460d3ecf57fe2986790164d0b6ad95d4657e",
+                "reference": "4c2a460d3ecf57fe2986790164d0b6ad95d4657e",
                 "shasum": ""
             },
             "require": {
@@ -157,7 +157,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-02-03 15:28:57"
+            "time": "2017-02-16 09:38:47"
         },
         {
             "name": "johngrogg/ics-parser",
@@ -316,12 +316,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "2263442b43b4ed9d506768fa340727a7a2d585dc"
+                "reference": "a58c2a128dcf7e0fd79125cdca8e440e4ffaaffe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/2263442b43b4ed9d506768fa340727a7a2d585dc",
-                "reference": "2263442b43b4ed9d506768fa340727a7a2d585dc",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/a58c2a128dcf7e0fd79125cdca8e440e4ffaaffe",
+                "reference": "a58c2a128dcf7e0fd79125cdca8e440e4ffaaffe",
                 "shasum": ""
             },
             "require": {
@@ -365,7 +365,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-02-10 22:57:38"
+            "time": "2017-02-17 20:42:38"
         },
         {
             "name": "md/rss-display",
