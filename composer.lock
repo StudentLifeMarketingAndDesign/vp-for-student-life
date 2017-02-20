@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "99ec2370ae8bcce31195121a4d91ca73",
-    "content-hash": "31d5ac3bf1305acfc65f8eb0ebcfe038",
+    "hash": "9885898dfb3d410d078742cacc81f0a7",
+    "content-hash": "94a698b86a374ee82eec10a3608df306",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -399,12 +399,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "1ae15b9a1579d8ef2c1630898525ef80d83b3f69"
+                "reference": "e1a00a5359cb254fb31d47a68a841e6eb1907408"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/1ae15b9a1579d8ef2c1630898525ef80d83b3f69",
-                "reference": "1ae15b9a1579d8ef2c1630898525ef80d83b3f69",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/e1a00a5359cb254fb31d47a68a841e6eb1907408",
+                "reference": "e1a00a5359cb254fb31d47a68a841e6eb1907408",
                 "shasum": ""
             },
             "require": {
@@ -421,7 +421,7 @@
                 "sheadawson/silverstripe-blocks": "1.1.1",
                 "silverstripe-australia/gridfieldextensions": "*",
                 "silverstripe-themes/simple": "*",
-                "silverstripe/activedirectory": "3.*",
+                "silverstripe/activedirectory": "dev-master#7d582a54c7a6db817c581af27c48f85ff27d7998",
                 "silverstripe/blog": "2.*",
                 "silverstripe/cms": "3.5.1",
                 "silverstripe/framework": "3.5.1",
@@ -449,7 +449,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x-ss-ad",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-02-17 21:23:01"
+            "time": "2017-02-17 21:35:47"
         },
         {
             "name": "md/rss-display",
@@ -915,16 +915,16 @@
         },
         {
             "name": "silverstripe/activedirectory",
-            "version": "3.x-dev",
+            "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-activedirectory.git",
-                "reference": "29c658736832ba4d76e74b8cf42be4600b6630c4"
+                "url": "https://github.com/sosumi/silverstripe-activedirectory.git",
+                "reference": "7d582a54c7a6db817c581af27c48f85ff27d7998"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-activedirectory/zipball/29c658736832ba4d76e74b8cf42be4600b6630c4",
-                "reference": "29c658736832ba4d76e74b8cf42be4600b6630c4",
+                "url": "https://api.github.com/repos/sosumi/silverstripe-activedirectory/zipball/7d582a54c7a6db817c581af27c48f85ff27d7998",
+                "reference": "7d582a54c7a6db817c581af27c48f85ff27d7998",
                 "shasum": ""
             },
             "require": {
@@ -940,12 +940,6 @@
                 "phpunit/phpunit": "~4.8"
             },
             "type": "silverstripe-module",
-            "extra": {
-                "branch-alias": {
-                    "3.x-dev": "3.0.x-dev"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -961,15 +955,18 @@
             ],
             "description": "Adds Active Directory support to SilverStripe including user synchronisation and SSO/LDAP authentication",
             "keywords": [
-                "SSO",
                 "active",
                 "ad",
                 "directory",
                 "ldap",
                 "saml",
-                "silverstripe"
+                "silverstripe",
+                "sso"
             ],
-            "time": "2017-02-14 14:33:08"
+            "support": {
+                "source": "https://github.com/sosumi/silverstripe-activedirectory/tree/master"
+            },
+            "time": "2016-12-01 20:02:26"
         },
         {
             "name": "silverstripe/blog",
