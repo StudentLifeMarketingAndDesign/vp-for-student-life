@@ -399,12 +399,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "e1a00a5359cb254fb31d47a68a841e6eb1907408"
+                "reference": "31e3105f9df7511f01825e396c2fcb8feac00d7c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/e1a00a5359cb254fb31d47a68a841e6eb1907408",
-                "reference": "e1a00a5359cb254fb31d47a68a841e6eb1907408",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/31e3105f9df7511f01825e396c2fcb8feac00d7c",
+                "reference": "31e3105f9df7511f01825e396c2fcb8feac00d7c",
                 "shasum": ""
             },
             "require": {
@@ -449,7 +449,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x-ss-ad",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-02-17 21:35:47"
+            "time": "2017-02-21 22:06:59"
         },
         {
             "name": "md/rss-display",
@@ -1251,12 +1251,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe-australia/silverstripe-multivaluefield.git",
-                "reference": "200055c8edb08e8607bf0a829475a32b9d9b2bf1"
+                "reference": "f647b1c8897b7e0662817855f365087ba59fc8ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-multivaluefield/zipball/200055c8edb08e8607bf0a829475a32b9d9b2bf1",
-                "reference": "200055c8edb08e8607bf0a829475a32b9d9b2bf1",
+                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-multivaluefield/zipball/f647b1c8897b7e0662817855f365087ba59fc8ad",
+                "reference": "f647b1c8897b7e0662817855f365087ba59fc8ad",
                 "shasum": ""
             },
             "require": {
@@ -1284,7 +1284,7 @@
                 "formfield",
                 "silverstripe"
             ],
-            "time": "2016-07-26 00:58:14"
+            "time": "2017-02-21 04:08:54"
         },
         {
             "name": "silverstripe/queuedjobs",
