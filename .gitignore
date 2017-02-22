@@ -60,3 +60,4 @@ multivaluefield/
 display_logic
 activedirectory/
 queuedjobs/
+MigrateUsersToAdTask.php
