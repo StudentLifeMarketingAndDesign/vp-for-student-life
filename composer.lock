@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9885898dfb3d410d078742cacc81f0a7",
-    "content-hash": "94a698b86a374ee82eec10a3608df306",
+    "hash": "a7e1aeeb7ddf2e06c598898fb32f9bf8",
+    "content-hash": "5137349db2b2acc3fae6264ea5531857",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -399,12 +399,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "31e3105f9df7511f01825e396c2fcb8feac00d7c"
+                "reference": "074765daaed6c4c538c1968d37e9db9c975d437b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/31e3105f9df7511f01825e396c2fcb8feac00d7c",
-                "reference": "31e3105f9df7511f01825e396c2fcb8feac00d7c",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/074765daaed6c4c538c1968d37e9db9c975d437b",
+                "reference": "074765daaed6c4c538c1968d37e9db9c975d437b",
                 "shasum": ""
             },
             "require": {
@@ -421,7 +421,7 @@
                 "sheadawson/silverstripe-blocks": "1.1.1",
                 "silverstripe-australia/gridfieldextensions": "*",
                 "silverstripe-themes/simple": "*",
-                "silverstripe/activedirectory": "dev-master#7d582a54c7a6db817c581af27c48f85ff27d7998",
+                "silverstripe/activedirectory": "3.*",
                 "silverstripe/blog": "2.*",
                 "silverstripe/cms": "3.5.1",
                 "silverstripe/framework": "3.5.1",
@@ -449,7 +449,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x-ss-ad",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-02-21 22:06:59"
+            "time": "2017-02-22 15:54:33"
         },
         {
             "name": "md/rss-display",
@@ -915,16 +915,16 @@
         },
         {
             "name": "silverstripe/activedirectory",
-            "version": "dev-master",
+            "version": "3.x-dev",
             "source": {
                 "type": "git",
-                "url": "https://github.com/sosumi/silverstripe-activedirectory.git",
-                "reference": "7d582a54c7a6db817c581af27c48f85ff27d7998"
+                "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-activedirectory.git",
+                "reference": "8925ec8805715cbac1accf7e8759e5bdd02b36da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sosumi/silverstripe-activedirectory/zipball/7d582a54c7a6db817c581af27c48f85ff27d7998",
-                "reference": "7d582a54c7a6db817c581af27c48f85ff27d7998",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-activedirectory/zipball/8925ec8805715cbac1accf7e8759e5bdd02b36da",
+                "reference": "8925ec8805715cbac1accf7e8759e5bdd02b36da",
                 "shasum": ""
             },
             "require": {
@@ -940,6 +940,11 @@
                 "phpunit/phpunit": "~4.8"
             },
             "type": "silverstripe-module",
+            "extra": {
+                "branch-alias": {
+                    "3.x-dev": "3.0.x-dev"
+                }
+            },
             "license": [
                 "BSD-3-Clause"
             ],
@@ -964,9 +969,9 @@
                 "sso"
             ],
             "support": {
-                "source": "https://github.com/sosumi/silverstripe-activedirectory/tree/master"
+                "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-activedirectory/tree/3"
             },
-            "time": "2016-12-01 20:02:26"
+            "time": "2017-02-22 15:45:41"
         },
         {
             "name": "silverstripe/blog",
