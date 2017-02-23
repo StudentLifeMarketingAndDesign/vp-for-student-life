@@ -59,4 +59,7 @@ blocks/
 multivaluefield/
 display_logic
 npm-debug.log
+activedirectory/
+queuedjobs/
 MigrateUsersToAdTask.php
+
