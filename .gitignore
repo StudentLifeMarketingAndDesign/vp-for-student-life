@@ -58,3 +58,5 @@ multivaluefield/
 blocks/
 multivaluefield/
 display_logic
+npm-debug.log
+MigrateUsersToAdTask.php
