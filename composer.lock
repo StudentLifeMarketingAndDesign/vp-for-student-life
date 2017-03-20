@@ -86,16 +86,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "dev-master",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "4c2a460d3ecf57fe2986790164d0b6ad95d4657e"
+                "reference": "d78064c68299743e0161004f2de3a0204e33b804"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/4c2a460d3ecf57fe2986790164d0b6ad95d4657e",
-                "reference": "4c2a460d3ecf57fe2986790164d0b6ad95d4657e",
+                "url": "https://api.github.com/repos/composer/installers/zipball/d78064c68299743e0161004f2de3a0204e33b804",
+                "reference": "d78064c68299743e0161004f2de3a0204e33b804",
                 "shasum": ""
             },
             "require": {
@@ -139,13 +139,10 @@
                 "Dolibarr",
                 "Hurad",
                 "ImageCMS",
-                "Kanboard",
                 "MODX Evo",
                 "Mautic",
-                "Maya",
                 "OXID",
                 "Plentymarkets",
-                "Porto",
                 "RadPHP",
                 "SMF",
                 "Thelia",
@@ -192,7 +189,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-02-16 09:38:47"
+            "time": "2016-08-13 20:53:52"
         },
         {
             "name": "jeremeamia/SuperClosure",
@@ -399,12 +396,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "29b47ab4b04982766b659a1173a98a22a7eab79e"
+                "reference": "674672eaba2da3802cdfb92e4e392c9d92b4c21e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/29b47ab4b04982766b659a1173a98a22a7eab79e",
-                "reference": "29b47ab4b04982766b659a1173a98a22a7eab79e",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/674672eaba2da3802cdfb92e4e392c9d92b4c21e",
+                "reference": "674672eaba2da3802cdfb92e4e392c9d92b4c21e",
                 "shasum": ""
             },
             "require": {
@@ -446,10 +443,10 @@
             "type": "silverstripe-module",
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x-ss-ad",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-02-23 22:04:57"
+            "time": "2017-02-23 22:23:41"
         },
         {
             "name": "md/rss-display",
@@ -1252,16 +1249,16 @@
         },
         {
             "name": "silverstripe/multivaluefield",
-            "version": "2.3.x-dev",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe-australia/silverstripe-multivaluefield.git",
-                "reference": "f647b1c8897b7e0662817855f365087ba59fc8ad"
+                "reference": "200055c8edb08e8607bf0a829475a32b9d9b2bf1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-multivaluefield/zipball/f647b1c8897b7e0662817855f365087ba59fc8ad",
-                "reference": "f647b1c8897b7e0662817855f365087ba59fc8ad",
+                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-multivaluefield/zipball/200055c8edb08e8607bf0a829475a32b9d9b2bf1",
+                "reference": "200055c8edb08e8607bf0a829475a32b9d9b2bf1",
                 "shasum": ""
             },
             "require": {
@@ -1289,7 +1286,7 @@
                 "formfield",
                 "silverstripe"
             ],
-            "time": "2017-02-21 04:08:54"
+            "time": "2016-07-26 00:58:14"
         },
         {
             "name": "silverstripe/queuedjobs",
