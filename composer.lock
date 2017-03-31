@@ -403,16 +403,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "06bc5a5034369d6cb2a7c6569267bf1cca3c6cb7"
+                "reference": "2402630cee46b5d2ec736d70425790ea905f6bce"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/06bc5a5034369d6cb2a7c6569267bf1cca3c6cb7",
-                "reference": "06bc5a5034369d6cb2a7c6569267bf1cca3c6cb7",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/2402630cee46b5d2ec736d70425790ea905f6bce",
+                "reference": "2402630cee46b5d2ec736d70425790ea905f6bce",
                 "shasum": ""
             },
             "require": {
-                "colymba/gridfield-bulk-editing-tools": "*",
+                "colymba/gridfield-bulk-editing-tools": "2.1.*",
                 "jonom/focuspoint": "*",
                 "jonom/silverstripe-betternavigator": "3.*",
                 "md/ac-json-events": "dev-master",
@@ -453,7 +453,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-03-27 21:56:41"
+            "time": "2017-03-31 20:19:45"
         },
         {
             "name": "md/rss-display",
@@ -1638,12 +1638,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-tagfield.git",
-                "reference": "e205fb4f6d4f52755ef866fd6b27ffaf3400d49b"
+                "reference": "b6077221ac92f86d4042428e8da29a92f567fa2c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-tagfield/zipball/e205fb4f6d4f52755ef866fd6b27ffaf3400d49b",
-                "reference": "e205fb4f6d4f52755ef866fd6b27ffaf3400d49b",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-tagfield/zipball/b6077221ac92f86d4042428e8da29a92f567fa2c",
+                "reference": "b6077221ac92f86d4042428e8da29a92f567fa2c",
                 "shasum": ""
             },
             "require": {
@@ -1672,7 +1672,7 @@
                 "silverstripe",
                 "tag"
             ],
-            "time": "2016-12-20 15:25:21"
+            "time": "2017-03-30 16:11:29"
         },
         {
             "name": "silverstripe/timepickerfield",
