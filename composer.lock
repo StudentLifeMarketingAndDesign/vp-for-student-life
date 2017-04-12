@@ -371,12 +371,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events.git",
-                "reference": "44ce668e2925d0de9f5e1994cc0282ac20fbcf9e"
+                "reference": "b6961b8a36763e6c26a61f49a0ac07500ef7da95"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/44ce668e2925d0de9f5e1994cc0282ac20fbcf9e",
-                "reference": "44ce668e2925d0de9f5e1994cc0282ac20fbcf9e",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/b6961b8a36763e6c26a61f49a0ac07500ef7da95",
+                "reference": "b6961b8a36763e6c26a61f49a0ac07500ef7da95",
                 "shasum": ""
             },
             "require": {
@@ -395,7 +395,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/issues"
             },
-            "time": "2016-10-19 16:07:13"
+            "time": "2017-04-04 21:46:49"
         },
         {
             "name": "md/division-project",
@@ -403,12 +403,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "bcead1a5d4137b488159de0e6e5bb7e789940d5a"
+                "reference": "f93d8611225e65a7de94caa7992bf3ce51084d73"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/bcead1a5d4137b488159de0e6e5bb7e789940d5a",
-                "reference": "bcead1a5d4137b488159de0e6e5bb7e789940d5a",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/f93d8611225e65a7de94caa7992bf3ce51084d73",
+                "reference": "f93d8611225e65a7de94caa7992bf3ce51084d73",
                 "shasum": ""
             },
             "require": {
@@ -450,10 +450,10 @@
             "type": "silverstripe-module",
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x-offcanvas",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-04-03 15:37:33"
+            "time": "2017-04-12 15:07:56"
         },
         {
             "name": "md/rss-display",
@@ -746,12 +746,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sheadawson/silverstripe-quickaddnew.git",
-                "reference": "b7fc2474fc258dd547281f718bf56c2ccd5382db"
+                "reference": "f90a9ec8bfd01ec61c9b5ef1e602230ca8ce3a9d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sheadawson/silverstripe-quickaddnew/zipball/b7fc2474fc258dd547281f718bf56c2ccd5382db",
-                "reference": "b7fc2474fc258dd547281f718bf56c2ccd5382db",
+                "url": "https://api.github.com/repos/sheadawson/silverstripe-quickaddnew/zipball/f90a9ec8bfd01ec61c9b5ef1e602230ca8ce3a9d",
+                "reference": "f90a9ec8bfd01ec61c9b5ef1e602230ca8ce3a9d",
                 "shasum": ""
             },
             "require": {
@@ -775,7 +775,7 @@
                 "Forms",
                 "silverstripe"
             ],
-            "time": "2016-10-14 00:14:43"
+            "time": "2017-04-06 07:52:20"
         },
         {
             "name": "sheadawson/silverstripe-blocks",
@@ -1375,16 +1375,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-reports.git",
-                "reference": "b10955d98584df546f6d05a91576923368378d06"
+                "reference": "c1d26965140321217b347956ddbb77be4b8eb47d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-reports/zipball/b10955d98584df546f6d05a91576923368378d06",
-                "reference": "b10955d98584df546f6d05a91576923368378d06",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-reports/zipball/c1d26965140321217b347956ddbb77be4b8eb47d",
+                "reference": "c1d26965140321217b347956ddbb77be4b8eb47d",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.3,<7",
+                "php": ">=5.3.3,<7.2",
                 "silverstripe/framework": "~3.3"
             },
             "require-dev": {
@@ -1417,7 +1417,7 @@
                 "reports",
                 "silverstripe"
             ],
-            "time": "2016-11-28 14:14:09"
+            "time": "2017-04-03 23:03:05"
         },
         {
             "name": "silverstripe/secureassets",
@@ -1827,12 +1827,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplepie/simplepie.git",
-                "reference": "eb6dd2d578dd62a1eec68b60cdda8c4a38a8de49"
+                "reference": "59e7204610d3a8989822eba1c0cbf1d1680bd10d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplepie/simplepie/zipball/eb6dd2d578dd62a1eec68b60cdda8c4a38a8de49",
-                "reference": "eb6dd2d578dd62a1eec68b60cdda8c4a38a8de49",
+                "url": "https://api.github.com/repos/simplepie/simplepie/zipball/59e7204610d3a8989822eba1c0cbf1d1680bd10d",
+                "reference": "59e7204610d3a8989822eba1c0cbf1d1680bd10d",
                 "shasum": ""
             },
             "require": {
@@ -1879,7 +1879,7 @@
                 "feeds",
                 "rss"
             ],
-            "time": "2017-02-28 01:12:12"
+            "time": "2017-04-06 03:36:48"
         },
         {
             "name": "studiobonito/silverstripe-typekit",
@@ -2061,12 +2061,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/unclecheese/silverstripe-event-calendar.git",
-                "reference": "70b603befc7d92acbade78cab4940b24cff192f8"
+                "reference": "8312aba223e8a10586ed7daa2f0681255adc88ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/70b603befc7d92acbade78cab4940b24cff192f8",
-                "reference": "70b603befc7d92acbade78cab4940b24cff192f8",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/8312aba223e8a10586ed7daa2f0681255adc88ad",
+                "reference": "8312aba223e8a10586ed7daa2f0681255adc88ad",
                 "shasum": ""
             },
             "require": {
@@ -2097,7 +2097,7 @@
                 "events",
                 "silverstripe"
             ],
-            "time": "2017-03-22 01:04:34"
+            "time": "2017-04-10 22:24:50"
         },
         {
             "name": "undefinedoffset/sortablegridfield",
