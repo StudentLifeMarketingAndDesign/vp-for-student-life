@@ -62,4 +62,4 @@ npm-debug.log
 activedirectory/
 queuedjobs/
 MigrateUsersToAdTask.php
-
+cache
