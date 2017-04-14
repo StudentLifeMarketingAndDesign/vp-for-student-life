@@ -20,5 +20,8 @@ if (class_exists('SiteTree')) SiteTree::enable_nested_urls();
 if(Director::isLive()) {
 	//Director::forceSSL();
 	
+}else{
+
 }
+SS_Log::add_writer(new SS_LogFileWriter('./silverstripe-errors.log'), SS_Log::ERR);
 Authenticator::set_default_authenticator('SAMLAuthenticator');
