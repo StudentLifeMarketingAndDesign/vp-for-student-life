@@ -371,12 +371,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events.git",
-                "reference": "b6961b8a36763e6c26a61f49a0ac07500ef7da95"
+                "reference": "e6dac05b0f20c336963adfccd140d031c6cb3a92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/b6961b8a36763e6c26a61f49a0ac07500ef7da95",
-                "reference": "b6961b8a36763e6c26a61f49a0ac07500ef7da95",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/e6dac05b0f20c336963adfccd140d031c6cb3a92",
+                "reference": "e6dac05b0f20c336963adfccd140d031c6cb3a92",
                 "shasum": ""
             },
             "require": {
@@ -395,7 +395,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/issues"
             },
-            "time": "2017-04-04 21:46:49"
+            "time": "2017-04-12 19:06:46"
         },
         {
             "name": "md/division-project",
@@ -403,12 +403,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "f93d8611225e65a7de94caa7992bf3ce51084d73"
+                "reference": "ab9bde45b484417e3efffa80f23cde6cecb97052"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/f93d8611225e65a7de94caa7992bf3ce51084d73",
-                "reference": "f93d8611225e65a7de94caa7992bf3ce51084d73",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/ab9bde45b484417e3efffa80f23cde6cecb97052",
+                "reference": "ab9bde45b484417e3efffa80f23cde6cecb97052",
                 "shasum": ""
             },
             "require": {
@@ -453,7 +453,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-04-12 15:07:56"
+            "time": "2017-04-14 17:15:47"
         },
         {
             "name": "md/rss-display",
@@ -646,26 +646,29 @@
         },
         {
             "name": "onelogin/php-saml",
-            "version": "2.4.0",
+            "version": "2.10.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/onelogin/php-saml.git",
-                "reference": "0e2e7fd5610c6c4bb922718ad98cc21f18df89da"
+                "reference": "3319d7707f342e38291eee6b01a4a5f8df1b333b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/onelogin/php-saml/zipball/0e2e7fd5610c6c4bb922718ad98cc21f18df89da",
-                "reference": "0e2e7fd5610c6c4bb922718ad98cc21f18df89da",
+                "url": "https://api.github.com/repos/onelogin/php-saml/zipball/3319d7707f342e38291eee6b01a4a5f8df1b333b",
+                "reference": "3319d7707f342e38291eee6b01a4a5f8df1b333b",
                 "shasum": ""
             },
             "require": {
+                "ext-dom": "*",
+                "ext-mcrypt": "*",
+                "ext-openssl": "*",
                 "php": ">=5.3.2"
             },
             "require-dev": {
                 "pdepend/pdepend": "1.1.0",
                 "phploc/phploc": "*",
-                "phpunit/phpunit": "3.7.31",
-                "satooshi/php-coveralls": "dev-master",
+                "phpunit/phpunit": "4.8",
+                "satooshi/php-coveralls": "1.0.1",
                 "sebastian/phpcpd": "*",
                 "squizlabs/php_codesniffer": "*"
             },
@@ -693,7 +696,7 @@
                 "onelogin",
                 "saml"
             ],
-            "time": "2015-03-03 19:11:04"
+            "time": "2017-03-13 09:56:49"
         },
         {
             "name": "ramsey/array_column",
@@ -2105,12 +2108,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/UndefinedOffset/SortableGridField.git",
-                "reference": "94e916b4d91c7c0672a138a6c0a5e82a17c69f91"
+                "reference": "06517fc3af599c003fa977420900f084dfc0372c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/UndefinedOffset/SortableGridField/zipball/94e916b4d91c7c0672a138a6c0a5e82a17c69f91",
-                "reference": "94e916b4d91c7c0672a138a6c0a5e82a17c69f91",
+                "url": "https://api.github.com/repos/UndefinedOffset/SortableGridField/zipball/06517fc3af599c003fa977420900f084dfc0372c",
+                "reference": "06517fc3af599c003fa977420900f084dfc0372c",
                 "shasum": ""
             },
             "require": {
@@ -2137,7 +2140,7 @@
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2016-11-24 14:01:29"
+            "time": "2017-04-13 13:22:49"
         },
         {
             "name": "unisolutions/silverstripe-copybutton",
