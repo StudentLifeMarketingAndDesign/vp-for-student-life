@@ -63,3 +63,4 @@ activedirectory/
 queuedjobs/
 MigrateUsersToAdTask.php
 cache
+fbpagefeed/

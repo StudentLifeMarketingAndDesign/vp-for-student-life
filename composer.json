@@ -42,7 +42,11 @@
         {
              "type": "vcs",
              "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-activedirectory"
-          }
+        },
+        {
+             "type": "vcs",
+             "url": "https://github.com/StudentLifeMarketingAndDesign/fbpagefeed"
+        }
     ]
 
 }
