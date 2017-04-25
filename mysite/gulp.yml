@@ -33,7 +33,7 @@ PATHS:
   # Paths to JavaScript libraries, which are compined into one file
   javascript:
     # Libraries requried by Foundation
-    - "bower_components/jquery/dist/jquery.js"
+    #- "bower_components/jquery/dist/jquery.js"
     - "bower_components/what-input/dist/what-input.js"
     # Background Videos:
     #- "bower_components/vide/dist/jquery.vide.js"
@@ -51,7 +51,7 @@ PATHS:
     # - "bower_components/foundation-sites/js/foundation.equalizer.js"
     - "bower_components/foundation-sites/js/foundation.interchange.js"
     # - "bower_components/foundation-sites/js/foundation.magellan.js"
-    - "bower_components/foundation-sites/js/foundation.offcanvas.js"
+    # - "bower_components/foundation-sites/js/foundation.offcanvas.js"
     # - "bower_components/foundation-sites/js/foundation.orbit.js"
     # - "bower_components/foundation-sites/js/foundation.responsiveMenu.js"
     # - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
@@ -64,11 +64,11 @@ PATHS:
 
     # add'l libraries:
     - "bower_components/foundation-sites/js/foundation.util.*.js"
-    - "bower_components/vanilla-lazyload/dist/lazyload.min.js"
+    - "bower_components/vanilla-lazyload/dist/lazyload.transpiled.js"
     # - "bower_components/jquery-auto-complete/jquery.auto-complete.js"
     # - "bower_components/devbridge-autocomplete/dist/jquery.autocomplete.js"
 
     # Division Project Scripts:
     - "src/scripts/lib/*.js"
-    - "src/scripts/!(app).js"
+    # - "src/scripts/!(app).js"
     - "src/scripts/app.js"
