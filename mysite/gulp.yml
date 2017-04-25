@@ -64,7 +64,7 @@ PATHS:
 
     # add'l libraries:
     - "bower_components/foundation-sites/js/foundation.util.*.js"
-    - "bower_components/vanilla-lazyload/dist/lazyload.transpiled.min.js"
+    - "bower_components/vanilla-lazyload/dist/lazyload.transpiled.js"
     # - "bower_components/jquery-auto-complete/jquery.auto-complete.js"
     # - "bower_components/devbridge-autocomplete/dist/jquery.autocomplete.js"
 
