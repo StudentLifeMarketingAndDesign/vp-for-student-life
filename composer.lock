@@ -86,16 +86,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "v1.3.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "79ad876c7498c0bbfe7eed065b8651c93bfd6045"
+                "reference": "7a80a104e3da0a4dc0ce9a88fe09968b1b34aafb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/79ad876c7498c0bbfe7eed065b8651c93bfd6045",
-                "reference": "79ad876c7498c0bbfe7eed065b8651c93bfd6045",
+                "url": "https://api.github.com/repos/composer/installers/zipball/7a80a104e3da0a4dc0ce9a88fe09968b1b34aafb",
+                "reference": "7a80a104e3da0a4dc0ce9a88fe09968b1b34aafb",
                 "shasum": ""
             },
             "require": {
@@ -196,7 +196,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-04-24 06:37:16"
+            "time": "2017-04-24 15:53:06"
         },
         {
             "name": "facebook/graph-sdk",
@@ -461,12 +461,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "ed9cdc210fa713be4396d4be1a837b72bf64599d"
+                "reference": "188c2f1936f26b3fae53b155a920283c461f4d72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/ed9cdc210fa713be4396d4be1a837b72bf64599d",
-                "reference": "ed9cdc210fa713be4396d4be1a837b72bf64599d",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/188c2f1936f26b3fae53b155a920283c461f4d72",
+                "reference": "188c2f1936f26b3fae53b155a920283c461f4d72",
                 "shasum": ""
             },
             "require": {
@@ -512,7 +512,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-05-09 20:32:28"
+            "time": "2017-05-09 21:09:50"
         },
         {
             "name": "md/rss-display",
@@ -2152,12 +2152,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/unclecheese/silverstripe-event-calendar.git",
-                "reference": "5b6c6287214a79333ef11f7b8dcd1b7d831de837"
+                "reference": "b38b28be6a9f1ca58ce51f8441c00d4cb925cd3f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/5b6c6287214a79333ef11f7b8dcd1b7d831de837",
-                "reference": "5b6c6287214a79333ef11f7b8dcd1b7d831de837",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/b38b28be6a9f1ca58ce51f8441c00d4cb925cd3f",
+                "reference": "b38b28be6a9f1ca58ce51f8441c00d4cb925cd3f",
                 "shasum": ""
             },
             "require": {
@@ -2188,7 +2188,7 @@
                 "events",
                 "silverstripe"
             ],
-            "time": "2017-04-18 21:21:01"
+            "time": "2017-05-09 21:44:56"
         },
         {
             "name": "undefinedoffset/sortablegridfield",
