@@ -1,0 +1,77 @@
+# Your project's server will run on localhost:xxxx at this port
+PORT: 8000
+
+# Autoprefixer will make sure your CSS works with these browsers
+COMPATIBILITY:
+  - "last 2 versions"
+  - "ie >= 9"
+
+# UnCSS will use these settings
+UNCSS_OPTIONS:
+  html:
+    - "src/**/*.html"
+  ignore:
+    - !!js/regexp .foundation-mq
+    - !!js/regexp ^\.is-.*
+
+# Gulp will reference these paths when it copies files
+PATHS:
+  projectName: "division-project-4"
+  theme: "../themes/division-subtheme"
+  # Path to theme folder
+  dist: "dist"  
+  # Paths to static assets that aren't images, CSS, or JavaScript
+  assets:
+    - "src/**/*"
+    - "!src/{images,scripts,scss,templates}/**/*"
+    - "!src/{images,scripts,scss,templates}"
+    - "!../themes/division-subtheme/src/{images,scripts,scss,templates}/**/*"
+    - "!../themes/division-subtheme/src/{images,scripts,scss,templates}"
+  # Paths to Sass libraries, which can then be loaded with @import
+  sass:
+    - "src/scss/"
+    - "bower_components/foundation-sites/scss"
+    - "bower_components/motion-ui/src"
+    - "bower_components/"
+  # Paths to JavaScript libraries, which are compined into one file
+  javascript:
+    # Libraries requried by Foundation
+    #- "bower_components/jquery/dist/jquery.js"
+    - "bower_components/what-input/dist/what-input.js"
+    # Background Videos:
+    #- "bower_components/vide/dist/jquery.vide.js"
+    # Core Foundation files
+    - "bower_components/foundation-sites/js/foundation.core.js"
+    - "bower_components/foundation-sites/js/foundation.util.*.js"
+    # Individual Foundation components
+    # If you aren't using a component, just remove it from the list
+    # - "bower_components/foundation-sites/js/foundation.abide.js"
+    - "bower_components/foundation-sites/js/foundation.accordion.js"
+    # - "bower_components/foundation-sites/js/foundation.accordionMenu.js"
+    # - "bower_components/foundation-sites/js/foundation.drilldown.js"
+    # - "bower_components/foundation-sites/js/foundation.dropdown.js"
+    # - "bower_components/foundation-sites/js/foundation.dropdownMenu.js"
+    # - "bower_components/foundation-sites/js/foundation.equalizer.js"
+    - "bower_components/foundation-sites/js/foundation.interchange.js"
+    # - "bower_components/foundation-sites/js/foundation.magellan.js"
+    # - "bower_components/foundation-sites/js/foundation.offcanvas.js"
+    # - "bower_components/foundation-sites/js/foundation.orbit.js"
+    # - "bower_components/foundation-sites/js/foundation.responsiveMenu.js"
+    # - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
+    # - "bower_components/foundation-sites/js/foundation.reveal.js"
+    # - "bower_components/foundation-sites/js/foundation.slider.js"
+    # - "bower_components/foundation-sites/js/foundation.sticky.js"
+    - "bower_components/foundation-sites/js/foundation.tabs.js"
+    # - "bower_components/foundation-sites/js/foundation.toggler.js"
+    # - "bower_components/foundation-sites/js/foundation.tooltip.js"
+
+    # add'l libraries:
+    - "bower_components/foundation-sites/js/foundation.util.*.js"
+    - "bower_components/vanilla-lazyload/dist/lazyload.transpiled.js"
+    # - "bower_components/jquery-auto-complete/jquery.auto-complete.js"
+    # - "bower_components/devbridge-autocomplete/dist/jquery.autocomplete.js"
+
+    # Division Project Scripts:
+    - "src/scripts/lib/*.js"
+    # - "src/scripts/!(app).js"
+    - "src/scripts/app.js"

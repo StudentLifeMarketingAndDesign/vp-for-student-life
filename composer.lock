@@ -4,9 +4,44 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "561e8376a4abbfa38d25043bb41978bf",
-    "content-hash": "b75e5681e565f3f4ecab65bbb37c10e3",
+    "hash": "95dabbc471ef91d88c5485f5c6cdea00",
+    "content-hash": "8dc001dc9cc0174aef20db6a89657fa6",
     "packages": [
+        {
+            "name": "asyncphp/doorman",
+            "version": "1.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/asyncphp/doorman.git",
+                "reference": "ada79add074d69fa70561c2ac0f7ded0c817e770"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/asyncphp/doorman/zipball/ada79add074d69fa70561c2ac0f7ded0c817e770",
+                "reference": "ada79add074d69fa70561c2ac0f7ded0c817e770",
+                "shasum": ""
+            },
+            "require": {
+                "jeremeamia/superclosure": "^1.0",
+                "php": ">=5.3.3",
+                "ramsey/array_column": "^1.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "AsyncPHP\\Doorman\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Child process management",
+            "time": "2015-09-04 02:46:41"
+        },
         {
             "name": "colymba/gridfield-bulk-editing-tools",
             "version": "2.1.x-dev",
@@ -55,12 +90,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "fda8fe5c90d7612927f4533dab7d54df6d345028"
+                "reference": "7a80a104e3da0a4dc0ce9a88fe09968b1b34aafb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/fda8fe5c90d7612927f4533dab7d54df6d345028",
-                "reference": "fda8fe5c90d7612927f4533dab7d54df6d345028",
+                "url": "https://api.github.com/repos/composer/installers/zipball/7a80a104e3da0a4dc0ce9a88fe09968b1b34aafb",
+                "reference": "7a80a104e3da0a4dc0ce9a88fe09968b1b34aafb",
                 "shasum": ""
             },
             "require": {
@@ -161,7 +196,113 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-03-13 09:27:45"
+            "time": "2017-04-24 15:53:06"
+        },
+        {
+            "name": "facebook/graph-sdk",
+            "version": "5.5.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/facebook/php-graph-sdk.git",
+                "reference": "93d7dc87e55a541d2e27d38f3aed40abbffdf6e1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/facebook/php-graph-sdk/zipball/93d7dc87e55a541d2e27d38f3aed40abbffdf6e1",
+                "reference": "93d7dc87e55a541d2e27d38f3aed40abbffdf6e1",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.4|^7.0"
+            },
+            "require-dev": {
+                "guzzlehttp/guzzle": "~5.0",
+                "mockery/mockery": "~0.8",
+                "phpunit/phpunit": "~4.0"
+            },
+            "suggest": {
+                "guzzlehttp/guzzle": "Allows for implementation of the Guzzle HTTP client",
+                "paragonie/random_compat": "Provides a better CSPRNG option in PHP 5"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "5.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Facebook\\": "src/Facebook/"
+                },
+                "files": [
+                    "src/Facebook/polyfills.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Facebook Platform"
+            ],
+            "authors": [
+                {
+                    "name": "Facebook",
+                    "homepage": "https://github.com/facebook/php-graph-sdk/contributors"
+                }
+            ],
+            "description": "Facebook SDK for PHP",
+            "homepage": "https://github.com/facebook/php-graph-sdk",
+            "keywords": [
+                "facebook",
+                "sdk"
+            ],
+            "time": "2017-04-20 14:15:02"
+        },
+        {
+            "name": "jeremeamia/SuperClosure",
+            "version": "1.0.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeremeamia/super_closure.git",
+                "reference": "4d89ca74994feab128ea46d5b3add92e6cb84554"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeremeamia/super_closure/zipball/4d89ca74994feab128ea46d5b3add92e6cb84554",
+                "reference": "4d89ca74994feab128ea46d5b3add92e6cb84554",
+                "shasum": ""
+            },
+            "require": {
+                "nikic/php-parser": "~0.9",
+                "php": ">=5.3.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~3.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Jeremeamia\\SuperClosure": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jeremy Lindblom"
+                }
+            ],
+            "description": "Doing interesting things with closures like serialization.",
+            "homepage": "https://github.com/jeremeamia/super_closure",
+            "keywords": [
+                "closure",
+                "function",
+                "parser",
+                "serializable",
+                "serialize",
+                "tokenizer"
+            ],
+            "time": "2015-01-10 01:09:28"
         },
         {
             "name": "johngrogg/ics-parser",
@@ -209,12 +350,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/jonom/silverstripe-focuspoint.git",
-                "reference": "716a44b2d7f72d190121fa1e15da1f0b17ec147c"
+                "reference": "7afe1e9a7ef4e8c0c5264bf080ee3f028d1d1206"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jonom/silverstripe-focuspoint/zipball/716a44b2d7f72d190121fa1e15da1f0b17ec147c",
-                "reference": "716a44b2d7f72d190121fa1e15da1f0b17ec147c",
+                "url": "https://api.github.com/repos/jonom/silverstripe-focuspoint/zipball/7afe1e9a7ef4e8c0c5264bf080ee3f028d1d1206",
+                "reference": "7afe1e9a7ef4e8c0c5264bf080ee3f028d1d1206",
                 "shasum": ""
             },
             "require": {
@@ -240,7 +381,7 @@
                 "image",
                 "silverstripe"
             ],
-            "time": "2017-03-22 23:16:19"
+            "time": "2017-04-24 17:39:38"
         },
         {
             "name": "jonom/silverstripe-betternavigator",
@@ -315,64 +456,34 @@
             "time": "2017-04-12 19:06:46"
         },
         {
-            "name": "md/division-bar",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/StudentLifeMarketingAndDesign/division-bar.git",
-                "reference": "22913ca8e3e4398f3042a4c076da682f7d2550b7"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-bar/zipball/22913ca8e3e4398f3042a4c076da682f7d2550b7",
-                "reference": "22913ca8e3e4398f3042a4c076da682f7d2550b7",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.2",
-                "silverstripe/cms": "3.*",
-                "silverstripe/framework": "3.*"
-            },
-            "type": "silverstripe-module",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "0.1.x-dev"
-                }
-            },
-            "description": "The University of Iowa Division of Student Life Bar",
-            "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-bar/tree/master",
-                "issues": "https://github.com/StudentLifeMarketingAndDesign/division-bar/issues"
-            },
-            "time": "2016-10-14 20:47:47"
-        },
-        {
             "name": "md/division-project",
-            "version": "1.3.x-dev",
+            "version": "2.0.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "f5a326378cf458302e8d985ad1b7cc56b038b2d2"
+                "reference": "449f4e27cc7628dc97c7a191c2d3dfcad75af2b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/f5a326378cf458302e8d985ad1b7cc56b038b2d2",
-                "reference": "f5a326378cf458302e8d985ad1b7cc56b038b2d2",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/449f4e27cc7628dc97c7a191c2d3dfcad75af2b1",
+                "reference": "449f4e27cc7628dc97c7a191c2d3dfcad75af2b1",
                 "shasum": ""
             },
             "require": {
-                "colymba/gridfield-bulk-editing-tools": "*",
+                "colymba/gridfield-bulk-editing-tools": "2.1.*",
                 "jonom/focuspoint": "*",
                 "jonom/silverstripe-betternavigator": "3.*",
                 "md/ac-json-events": "dev-master",
-                "md/division-bar": "dev-master",
                 "md/rss-display": "*",
-                "md/silverstripe-flickr": "*",
+                "micschk/silverstripe-gridfieldsitetreebuttons": "*",
                 "normann/gridfieldpaginatorwithshowall": "*",
+                "olliepop/fbpagefeed": "dev-master",
                 "php": ">=5.3.2",
                 "sheadawson/quickaddnew": "*",
+                "sheadawson/silverstripe-blocks": "1.1.1",
                 "silverstripe-australia/gridfieldextensions": "*",
                 "silverstripe-themes/simple": "*",
+                "silverstripe/activedirectory": "3.*",
                 "silverstripe/blog": "2.*",
                 "silverstripe/cms": "3.5.3",
                 "silverstripe/framework": "3.5.3",
@@ -386,19 +497,21 @@
                 "silverstripe/userforms": "4.*",
                 "silverstripe/widgets": "*",
                 "simplepie/simplepie": "*",
+                "studiobonito/silverstripe-typekit": "*",
                 "thisisbd/silverstripe-maintenance-mode": "*",
                 "unclecheese/betterbuttons": "1.3.*",
+                "unclecheese/display-logic": "*",
                 "unclecheese/eventcalendar": "1.*",
-                "unclecheese/silverstripe-blog-sortable-categories": "*",
-                "undefinedoffset/sortablegridfield": "*"
+                "undefinedoffset/sortablegridfield": "*",
+                "unisolutions/silverstripe-copybutton": "*"
             },
             "type": "silverstripe-module",
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/1.3.x",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-04-19 16:21:04"
+            "time": "2017-05-16 13:54:57"
         },
         {
             "name": "md/rss-display",
@@ -433,40 +546,89 @@
             "time": "2015-04-28 20:02:10"
         },
         {
-            "name": "md/silverstripe-flickr",
+            "name": "micschk/silverstripe-gridfieldsitetreebuttons",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr.git",
-                "reference": "61f510ead7789bb6d96fdde4b6524f2560fa7cd5"
+                "url": "https://github.com/micschk/silverstripe-gridfieldsitetreebuttons.git",
+                "reference": "6ba43b25137f391dc1ed83d4fb4a605e79d188a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-flickr/zipball/61f510ead7789bb6d96fdde4b6524f2560fa7cd5",
-                "reference": "61f510ead7789bb6d96fdde4b6524f2560fa7cd5",
+                "url": "https://api.github.com/repos/micschk/silverstripe-gridfieldsitetreebuttons/zipball/6ba43b25137f391dc1ed83d4fb4a605e79d188a2",
+                "reference": "6ba43b25137f391dc1ed83d4fb4a605e79d188a2",
                 "shasum": ""
             },
             "require": {
-                "silverstripe/framework": "~3.1"
+                "silverstripe/cms": "~3.0",
+                "silverstripe/framework": "~3.0"
             },
-            "require-dev": {
-                "phpunit/phpunit": "~3.7"
+            "suggest": {
+                "micschk/silverstripe-excludechildren": "Hide subpages from sitetree (manage them from a gridfield instead)"
             },
             "type": "silverstripe-module",
             "extra": {
-                "installer-name": "flickr"
+                "installer-name": "gridfieldsitetreebuttons"
             },
+            "notification-url": "https://packagist.org/downloads/",
             "authors": [
                 {
-                    "name": "madmatt",
-                    "email": "signups@madman.net.nz"
+                    "name": "micschk"
                 }
             ],
-            "description": "Provides simple bindings for the Flickr API, converting API responses into SilverStripe objects",
-            "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr/tree/master"
+            "description": "Modifies GridFields & GridField detail forms to use standard page edit form (with versioning, history & settings). Simple alternative for versionedgridfield.",
+            "keywords": [
+                "excludechildren",
+                "gridfield",
+                "silverstripe",
+                "sitetree"
+            ],
+            "time": "2015-06-30 04:20:44"
+        },
+        {
+            "name": "nikic/php-parser",
+            "version": "0.9.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nikic/PHP-Parser.git",
+                "reference": "ef70767475434bdb3615b43c327e2cae17ef12eb"
             },
-            "time": "2016-02-29 19:23:33"
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/ef70767475434bdb3615b43c327e2cae17ef12eb",
+                "reference": "ef70767475434bdb3615b43c327e2cae17ef12eb",
+                "shasum": ""
+            },
+            "require": {
+                "ext-tokenizer": "*",
+                "php": ">=5.2"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.9-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "PHPParser": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Nikita Popov"
+                }
+            ],
+            "description": "A PHP parser written in PHP",
+            "keywords": [
+                "parser",
+                "php"
+            ],
+            "time": "2014-07-23 18:24:17"
         },
         {
             "name": "normann/gridfieldpaginatorwithshowall",
@@ -503,6 +665,134 @@
                 "silverstripe"
             ],
             "time": "2013-09-25 18:47:47"
+        },
+        {
+            "name": "olliepop/fbpagefeed",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/StudentLifeMarketingAndDesign/fbpagefeed.git",
+                "reference": "d24460a66932f729183c9386ae12ad01e3be0a16"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/fbpagefeed/zipball/d24460a66932f729183c9386ae12ad01e3be0a16",
+                "reference": "d24460a66932f729183c9386ae12ad01e3be0a16",
+                "shasum": ""
+            },
+            "require": {
+                "facebook/graph-sdk": "^5.4",
+                "php": ">=5.3.2",
+                "silverstripe/cms": ">=3.1.0",
+                "silverstripe/framework": ">=3.1.0"
+            },
+            "type": "silverstripe-module",
+            "description": "Retrieves posts from a Facebook page for a SilverStripe site, pulling posts and storing them via CliController task",
+            "homepage": "https://github.com/olliepop/fbpagefeed",
+            "support": {
+                "issues": "https://github.com/olliepop/fbpagefeed/issues",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/fbpagefeed/tree/fb-sdk5.4"
+            },
+            "time": "2017-04-18 16:51:55"
+        },
+        {
+            "name": "onelogin/php-saml",
+            "version": "2.10.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/onelogin/php-saml.git",
+                "reference": "3319d7707f342e38291eee6b01a4a5f8df1b333b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/onelogin/php-saml/zipball/3319d7707f342e38291eee6b01a4a5f8df1b333b",
+                "reference": "3319d7707f342e38291eee6b01a4a5f8df1b333b",
+                "shasum": ""
+            },
+            "require": {
+                "ext-dom": "*",
+                "ext-mcrypt": "*",
+                "ext-openssl": "*",
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "pdepend/pdepend": "1.1.0",
+                "phploc/phploc": "*",
+                "phpunit/phpunit": "4.8",
+                "satooshi/php-coveralls": "1.0.1",
+                "sebastian/phpcpd": "*",
+                "squizlabs/php_codesniffer": "*"
+            },
+            "suggest": {
+                "ext-gettext": "Install gettext and php5-gettext libs to handle translations",
+                "ext-mcrypt": "Install mcrypt and php5-mcrypt libs in order to support encryption",
+                "lib-openssl": "Install openssl lib in order to handle with x509 certs (require to support sign and encryption)"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "extlib/xmlseclibs",
+                    "lib/Saml",
+                    "lib/Saml2"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "OneLogin PHP SAML Toolkit",
+            "homepage": "https://onelogin.zendesk.com/hc/en-us/sections/200245634-SAML-Toolkits",
+            "keywords": [
+                "SAML2",
+                "onelogin",
+                "saml"
+            ],
+            "time": "2017-03-13 09:56:49"
+        },
+        {
+            "name": "ramsey/array_column",
+            "version": "1.1.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ramsey/array_column.git",
+                "reference": "f8e52eb28e67eb50e613b451dd916abcf783c1db"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ramsey/array_column/zipball/f8e52eb28e67eb50e613b451dd916abcf783c1db",
+                "reference": "f8e52eb28e67eb50e613b451dd916abcf783c1db",
+                "shasum": ""
+            },
+            "require-dev": {
+                "jakub-onderka/php-parallel-lint": "0.8.*",
+                "phpunit/phpunit": "~4.5",
+                "satooshi/php-coveralls": "0.6.*",
+                "squizlabs/php_codesniffer": "~2.2"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/array_column.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ben Ramsey",
+                    "homepage": "http://benramsey.com"
+                }
+            ],
+            "description": "Provides functionality for array_column() to projects using PHP earlier than version 5.5.",
+            "homepage": "https://github.com/ramsey/array_column",
+            "keywords": [
+                "array",
+                "array_column",
+                "column"
+            ],
+            "time": "2015-03-20 22:07:39"
         },
         {
             "name": "sheadawson/quickaddnew",
@@ -542,17 +832,63 @@
             "time": "2017-04-06 07:52:20"
         },
         {
+            "name": "sheadawson/silverstripe-blocks",
+            "version": "1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sheadawson/silverstripe-blocks.git",
+                "reference": "40617e4f965c806c0f178e13d11c91e66be7c0f7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sheadawson/silverstripe-blocks/zipball/40617e4f965c806c0f178e13d11c91e66be7c0f7",
+                "reference": "40617e4f965c806c0f178e13d11c91e66be7c0f7",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "*",
+                "silverstripe-australia/gridfieldextensions": "~1.0",
+                "silverstripe/cms": "~3.1",
+                "silverstripe/framework": "~3.1",
+                "silverstripe/multivaluefield": "~2.0",
+                "unclecheese/betterbuttons": "~1.2"
+            },
+            "suggest": {
+                "micschk/silverstripe-gridfieldsitetreebuttons": "Edit pages directly from a Block's 'used on page' list",
+                "unisolutions/silverstripe-copybutton": "Duplicate Blocks in Block Admin"
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "installer-name": "blocks"
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Shea Dawson",
+                    "email": "shea@silverstripe.com.au"
+                }
+            ],
+            "description": "An alternative to the SilverStripe Widgets module.",
+            "homepage": "http://github.com/sheadawson/silverstripe-blocks",
+            "keywords": [
+                "blocks",
+                "silverstripe",
+                "widgets"
+            ],
+            "time": "2016-11-08 22:48:10"
+        },
+        {
             "name": "silverstripe-australia/gridfieldextensions",
             "version": "1.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe-australia/silverstripe-gridfieldextensions.git",
-                "reference": "e62422fdb3c6f6db340a4e9775ac93e5a00fe4d9"
+                "reference": "5c1f9cca01dedbcefb8e56eedf51e0b33f7a1f9e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-gridfieldextensions/zipball/e62422fdb3c6f6db340a4e9775ac93e5a00fe4d9",
-                "reference": "e62422fdb3c6f6db340a4e9775ac93e5a00fe4d9",
+                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-gridfieldextensions/zipball/5c1f9cca01dedbcefb8e56eedf51e0b33f7a1f9e",
+                "reference": "5c1f9cca01dedbcefb8e56eedf51e0b33f7a1f9e",
                 "shasum": ""
             },
             "require": {
@@ -592,7 +928,7 @@
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2017-01-30 01:05:02"
+            "time": "2017-05-03 04:48:33"
         },
         {
             "name": "silverstripe-themes/simple",
@@ -634,6 +970,66 @@
                 "theme"
             ],
             "time": "2017-02-01 23:56:41"
+        },
+        {
+            "name": "silverstripe/activedirectory",
+            "version": "3.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-activedirectory.git",
+                "reference": "fc1603a2a6e836fcb62579ab429f728e2302fd19"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-activedirectory/zipball/fc1603a2a6e836fcb62579ab429f728e2302fd19",
+                "reference": "fc1603a2a6e836fcb62579ab429f728e2302fd19",
+                "shasum": ""
+            },
+            "require": {
+                "onelogin/php-saml": "2.*@stable",
+                "php": ">=5.4",
+                "silverstripe/framework": "~3.1",
+                "silverstripe/queuedjobs": "~2.6@stable",
+                "zendframework/zend-authentication": "2.5.1",
+                "zendframework/zend-ldap": "2.5.1",
+                "zendframework/zend-session": "2.5.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~4.8"
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "branch-alias": {
+                    "3.x-dev": "3.0.x-dev"
+                }
+            },
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Sean Harvey",
+                    "email": "sean@silverstripe.com"
+                },
+                {
+                    "name": "Stig Lindqvist",
+                    "email": "stig@silverstripe.com"
+                }
+            ],
+            "description": "Adds Active Directory support to SilverStripe including user synchronisation and SSO/LDAP authentication",
+            "keywords": [
+                "active",
+                "ad",
+                "directory",
+                "ldap",
+                "saml",
+                "silverstripe",
+                "sso"
+            ],
+            "support": {
+                "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-activedirectory/tree/3"
+            },
+            "time": "2017-05-09 19:46:58"
         },
         {
             "name": "silverstripe/blog",
@@ -842,12 +1238,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-lumberjack.git",
-                "reference": "e85feffec01c414024bd1ba9e6cd668f2056631b"
+                "reference": "bb2a0f7e17187347c6b5ad8e15391bbfcbd19a66"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-lumberjack/zipball/e85feffec01c414024bd1ba9e6cd668f2056631b",
-                "reference": "e85feffec01c414024bd1ba9e6cd668f2056631b",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-lumberjack/zipball/bb2a0f7e17187347c6b5ad8e15391bbfcbd19a66",
+                "reference": "bb2a0f7e17187347c6b5ad8e15391bbfcbd19a66",
                 "shasum": ""
             },
             "require": {
@@ -860,7 +1256,7 @@
             "type": "silverstripe-module",
             "extra": {
                 "branch-alias": {
-                    "1.x-dev": "1.2.x-dev"
+                    "1.x-dev": "1.4.x-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -874,7 +1270,7 @@
                 }
             ],
             "description": "A module to make managing pages in a GridField easy without losing any of the functionality that you're used to in the CMS.",
-            "time": "2016-11-16 04:32:56"
+            "time": "2017-05-16 03:07:31"
         },
         {
             "name": "silverstripe/mathspamprotection",
@@ -911,6 +1307,83 @@
                 "spamprotection"
             ],
             "time": "2016-02-03 15:47:25"
+        },
+        {
+            "name": "silverstripe/multivaluefield",
+            "version": "2.4.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/silverstripe-australia/silverstripe-multivaluefield.git",
+                "reference": "3b9f19dce08c57c8ecb057903f584617f566f1b2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-multivaluefield/zipball/3b9f19dce08c57c8ecb057903f584617f566f1b2",
+                "reference": "3b9f19dce08c57c8ecb057903f584617f566f1b2",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "~3.1"
+            },
+            "type": "silverstripe-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Marcus Nyeholt",
+                    "email": "marcus@silverstripe.com.au"
+                }
+            ],
+            "description": "A DB field + form fields for storing multiple values in a single property (serialized).",
+            "keywords": [
+                "dbfield",
+                "formfield",
+                "silverstripe"
+            ],
+            "time": "2017-03-01 04:23:26"
+        },
+        {
+            "name": "silverstripe/queuedjobs",
+            "version": "2.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/silverstripe-australia/silverstripe-queuedjobs.git",
+                "reference": "d8cc024886bbc2eb9af35c552f700464a649342e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/silverstripe-australia/silverstripe-queuedjobs/zipball/d8cc024886bbc2eb9af35c552f700464a649342e",
+                "reference": "d8cc024886bbc2eb9af35c552f700464a649342e",
+                "shasum": ""
+            },
+            "require": {
+                "asyncphp/doorman": "~1.2",
+                "silverstripe/framework": "~3.1",
+                "silverstripe/multivaluefield": "~2.0"
+            },
+            "type": "silverstripe-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Marcus Nyeholt",
+                    "email": "marcus@silverstripe.com.au"
+                },
+                {
+                    "name": "Damian Mooyman",
+                    "email": "damian@silverstripe.com"
+                }
+            ],
+            "description": "A framework for defining and running background jobs in a queued manner",
+            "keywords": [
+                "jobs",
+                "silverstripe"
+            ],
+            "time": "2017-01-13 05:17:31"
         },
         {
             "name": "silverstripe/recaptcha",
@@ -956,12 +1429,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-reports.git",
-                "reference": "c1d26965140321217b347956ddbb77be4b8eb47d"
+                "reference": "7172eecd083276760d3776b76b816de27d0c7bf8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-reports/zipball/c1d26965140321217b347956ddbb77be4b8eb47d",
-                "reference": "c1d26965140321217b347956ddbb77be4b8eb47d",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-reports/zipball/7172eecd083276760d3776b76b816de27d0c7bf8",
+                "reference": "7172eecd083276760d3776b76b816de27d0c7bf8",
                 "shasum": ""
             },
             "require": {
@@ -974,7 +1447,7 @@
             "type": "silverstripe-module",
             "extra": {
                 "branch-alias": {
-                    "3.x-dev": "3.6.x-dev"
+                    "3.x-dev": "3.7.x-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -998,7 +1471,7 @@
                 "reports",
                 "silverstripe"
             ],
-            "time": "2017-04-03 23:03:05"
+            "time": "2017-04-21 15:13:40"
         },
         {
             "name": "silverstripe/secureassets",
@@ -1006,12 +1479,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-secureassets.git",
-                "reference": "3856e8baada0c9b084ca58d170b7a8b1a7176290"
+                "reference": "23764d16f58f39f530121352b3f9fef9529aa8d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-secureassets/zipball/3856e8baada0c9b084ca58d170b7a8b1a7176290",
-                "reference": "3856e8baada0c9b084ca58d170b7a8b1a7176290",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-secureassets/zipball/23764d16f58f39f530121352b3f9fef9529aa8d7",
+                "reference": "23764d16f58f39f530121352b3f9fef9529aa8d7",
                 "shasum": ""
             },
             "require": {
@@ -1044,7 +1517,7 @@
                 "secure",
                 "silverstripe"
             ],
-            "time": "2016-12-20 15:01:30"
+            "time": "2017-05-15 21:14:59"
         },
         {
             "name": "silverstripe/segment-field",
@@ -1091,12 +1564,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-siteconfig.git",
-                "reference": "838c2e950ac18a7d7395aa6df9c0feed612bf8d2"
+                "reference": "f2f4dafb10be6c401222abf575156c55b3dcca31"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-siteconfig/zipball/838c2e950ac18a7d7395aa6df9c0feed612bf8d2",
-                "reference": "838c2e950ac18a7d7395aa6df9c0feed612bf8d2",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-siteconfig/zipball/f2f4dafb10be6c401222abf575156c55b3dcca31",
+                "reference": "f2f4dafb10be6c401222abf575156c55b3dcca31",
                 "shasum": ""
             },
             "require": {
@@ -1106,7 +1579,7 @@
             "extra": {
                 "installer-name": "siteconfig",
                 "branch-alias": {
-                    "3.x-dev": "3.6.x-dev"
+                    "3.x-dev": "3.7.x-dev"
                 }
             },
             "autoload": {
@@ -1126,7 +1599,7 @@
                 "silverstripe",
                 "siteconfig"
             ],
-            "time": "2016-12-22 00:19:14"
+            "time": "2017-05-08 15:36:11"
         },
         {
             "name": "silverstripe/spamprotection",
@@ -1261,12 +1734,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sheadawson/silverstripe-timepickerfield.git",
-                "reference": "d99d1ef4b8bee8d7097102225c926a5913ea87b8"
+                "reference": "19700b96ca300126cc35ef2e2acc769cd4c30383"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sheadawson/silverstripe-timepickerfield/zipball/d99d1ef4b8bee8d7097102225c926a5913ea87b8",
-                "reference": "d99d1ef4b8bee8d7097102225c926a5913ea87b8",
+                "url": "https://api.github.com/repos/sheadawson/silverstripe-timepickerfield/zipball/19700b96ca300126cc35ef2e2acc769cd4c30383",
+                "reference": "19700b96ca300126cc35ef2e2acc769cd4c30383",
                 "shasum": ""
             },
             "require": {
@@ -1293,7 +1766,7 @@
                 "silverstripe",
                 "time"
             ],
-            "time": "2016-03-22 19:37:51"
+            "time": "2017-05-04 00:32:37"
         },
         {
             "name": "silverstripe/userforms",
@@ -1301,12 +1774,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-userforms.git",
-                "reference": "3e9a2713104cf0d9770d711098ea55767cd3a071"
+                "reference": "6fd952c737b9517f45c50a592f50aad7a4a2f65f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/3e9a2713104cf0d9770d711098ea55767cd3a071",
-                "reference": "3e9a2713104cf0d9770d711098ea55767cd3a071",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-userforms/zipball/6fd952c737b9517f45c50a592f50aad7a4a2f65f",
+                "reference": "6fd952c737b9517f45c50a592f50aad7a4a2f65f",
                 "shasum": ""
             },
             "require": {
@@ -1357,7 +1830,7 @@
                 "silverstripe",
                 "userforms"
             ],
-            "time": "2017-02-03 15:17:09"
+            "time": "2017-05-15 06:03:51"
         },
         {
             "name": "silverstripe/widgets",
@@ -1463,6 +1936,44 @@
             "time": "2017-04-19 01:40:44"
         },
         {
+            "name": "studiobonito/silverstripe-typekit",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/studiobonito/silverstripe-typekit.git",
+                "reference": "de3c0d75fc773f851455683adfce6254ca7cef80"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/studiobonito/silverstripe-typekit/zipball/de3c0d75fc773f851455683adfce6254ca7cef80",
+                "reference": "de3c0d75fc773f851455683adfce6254ca7cef80",
+                "shasum": ""
+            },
+            "type": "silverstripe-module",
+            "autoload": {
+                "psr-4": {
+                    "StudioBonito\\SilverStripe\\TypeKit\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Tom Densham",
+                    "email": "tom.densham@studiobonito.co.uk"
+                }
+            ],
+            "description": "Provide TypeKit integration for SilverStripe CMS.",
+            "keywords": [
+                "silverstripe",
+                "typekit",
+                "typography"
+            ],
+            "time": "2014-07-31 10:20:30"
+        },
+        {
             "name": "thisisbd/silverstripe-maintenance-mode",
             "version": "dev-master",
             "source": {
@@ -1552,17 +2063,64 @@
             "time": "2017-01-20 08:51:05"
         },
         {
-            "name": "unclecheese/eventcalendar",
-            "version": "1.0.20",
+            "name": "unclecheese/display-logic",
+            "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/unclecheese/silverstripe-event-calendar.git",
-                "reference": "5b6c6287214a79333ef11f7b8dcd1b7d831de837"
+                "url": "https://github.com/unclecheese/silverstripe-display-logic.git",
+                "reference": "b3552c42abcb64c85dbdf9b47cbb49b92b2ebdc4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/5b6c6287214a79333ef11f7b8dcd1b7d831de837",
-                "reference": "5b6c6287214a79333ef11f7b8dcd1b7d831de837",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-display-logic/zipball/b3552c42abcb64c85dbdf9b47cbb49b92b2ebdc4",
+                "reference": "b3552c42abcb64c85dbdf9b47cbb49b92b2ebdc4",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "^3.1"
+            },
+            "replace": {
+                "silverstripe/display-logic": "*"
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "installer-name": "display_logic",
+                "branch-alias": {
+                    "dev-master": "1.4.x-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Uncle Cheese",
+                    "email": "unclecheese@leftandmain.com"
+                }
+            ],
+            "description": "Allows assignment of conditions for display and hide of specific form fields based on client side behavior.",
+            "keywords": [
+                "Forms",
+                "cms",
+                "display",
+                "logic",
+                "silverstripe"
+            ],
+            "time": "2017-01-06 09:46:49"
+        },
+        {
+            "name": "unclecheese/eventcalendar",
+            "version": "1.0.21",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/unclecheese/silverstripe-event-calendar.git",
+                "reference": "b38b28be6a9f1ca58ce51f8441c00d4cb925cd3f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/b38b28be6a9f1ca58ce51f8441c00d4cb925cd3f",
+                "reference": "b38b28be6a9f1ca58ce51f8441c00d4cb925cd3f",
                 "shasum": ""
             },
             "require": {
@@ -1593,48 +2151,7 @@
                 "events",
                 "silverstripe"
             ],
-            "time": "2017-04-18 21:21:01"
-        },
-        {
-            "name": "unclecheese/silverstripe-blog-sortable-categories",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/unclecheese/silverstripe-blog-sortable-categories.git",
-                "reference": "471cd55f48228706f18da4bcd6d3e83e809b33c1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-blog-sortable-categories/zipball/471cd55f48228706f18da4bcd6d3e83e809b33c1",
-                "reference": "471cd55f48228706f18da4bcd6d3e83e809b33c1",
-                "shasum": ""
-            },
-            "require": {
-                "silverstripe-australia/gridfieldextensions": "^1.2",
-                "silverstripe/blog": "^2.2"
-            },
-            "type": "silverstripe-module",
-            "extra": {
-                "installer-name": "blog-sortable-categories"
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Uncle Cheese",
-                    "email": "unclecheese@leftandmain.com"
-                }
-            ],
-            "description": "Makes the categories in silverstripe/blog orderable",
-            "keywords": [
-                "blog",
-                "categories",
-                "silverstripe",
-                "sortable"
-            ],
-            "time": "2015-12-16 02:08:30"
+            "time": "2017-05-09 21:44:56"
         },
         {
             "name": "undefinedoffset/sortablegridfield",
@@ -1642,12 +2159,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/UndefinedOffset/SortableGridField.git",
-                "reference": "8ba6c2f3f6513aa38782736f90956539cdf8993b"
+                "reference": "2d8cd6540f2c948cbe0c8f73adab7fd9e2aec803"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/UndefinedOffset/SortableGridField/zipball/8ba6c2f3f6513aa38782736f90956539cdf8993b",
-                "reference": "8ba6c2f3f6513aa38782736f90956539cdf8993b",
+                "url": "https://api.github.com/repos/UndefinedOffset/SortableGridField/zipball/2d8cd6540f2c948cbe0c8f73adab7fd9e2aec803",
+                "reference": "2d8cd6540f2c948cbe0c8f73adab7fd9e2aec803",
                 "shasum": ""
             },
             "require": {
@@ -1674,15 +2191,387 @@
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2017-04-18 12:35:21"
+            "time": "2017-05-11 15:17:40"
+        },
+        {
+            "name": "unisolutions/silverstripe-copybutton",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/unisolutions/silverstripe-copybutton.git",
+                "reference": "1962f8e532d366fbb1d8c8ede02417541f21c06a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/unisolutions/silverstripe-copybutton/zipball/1962f8e532d366fbb1d8c8ede02417541f21c06a",
+                "reference": "1962f8e532d366fbb1d8c8ede02417541f21c06a",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "3.*"
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "installer-name": "copybutton"
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Elvinas Liutkevičius",
+                    "email": "elvinas@unisolutions.eu"
+                }
+            ],
+            "description": "Adds copy button to the GridField.",
+            "keywords": [
+                "button",
+                "copy",
+                "silverstripe"
+            ],
+            "time": "2016-02-09 09:34:19"
+        },
+        {
+            "name": "zendframework/zend-authentication",
+            "version": "2.5.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zendframework/zend-authentication.git",
+                "reference": "7078362a412d5c4ef0e961551f97027eb9aa3152"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zendframework/zend-authentication/zipball/7078362a412d5c4ef0e961551f97027eb9aa3152",
+                "reference": "7078362a412d5c4ef0e961551f97027eb9aa3152",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.23",
+                "zendframework/zend-stdlib": "~2.5"
+            },
+            "require-dev": {
+                "fabpot/php-cs-fixer": "1.7.*",
+                "phpunit/phpunit": "~4.0",
+                "zendframework/zend-crypt": "~2.5",
+                "zendframework/zend-db": "~2.5",
+                "zendframework/zend-http": "~2.5",
+                "zendframework/zend-ldap": "~2.5",
+                "zendframework/zend-session": "~2.5",
+                "zendframework/zend-uri": "~2.5",
+                "zendframework/zend-validator": "~2.5"
+            },
+            "suggest": {
+                "zendframework/zend-crypt": "Zend\\Crypt component",
+                "zendframework/zend-db": "Zend\\Db component",
+                "zendframework/zend-http": "Zend\\Http component",
+                "zendframework/zend-ldap": "Zend\\Ldap component",
+                "zendframework/zend-session": "Zend\\Session component",
+                "zendframework/zend-uri": "Zend\\Uri component",
+                "zendframework/zend-validator": "Zend\\Validator component"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.5-dev",
+                    "dev-develop": "2.6-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Zend\\Authentication\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "provides an API for authentication and includes concrete authentication adapters for common use case scenarios",
+            "homepage": "https://github.com/zendframework/zend-authentication",
+            "keywords": [
+                "Authentication",
+                "zf2"
+            ],
+            "time": "2015-06-03 15:31:59"
+        },
+        {
+            "name": "zendframework/zend-eventmanager",
+            "version": "dev-release-2.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zendframework/zend-eventmanager.git",
+                "reference": "3d41b6129fb4916d483671cea9f77e4f90ae85d3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zendframework/zend-eventmanager/zipball/3d41b6129fb4916d483671cea9f77e4f90ae85d3",
+                "reference": "3d41b6129fb4916d483671cea9f77e4f90ae85d3",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.5 || ^7.0",
+                "zendframework/zend-stdlib": "^2.7"
+            },
+            "require-dev": {
+                "athletic/athletic": "dev-master",
+                "fabpot/php-cs-fixer": "1.7.*",
+                "phpunit/phpunit": "~4.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-release-2.6": "2.6-dev",
+                    "dev-master": "3.0-dev",
+                    "dev-develop": "3.1-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Zend\\EventManager\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "homepage": "https://github.com/zendframework/zend-eventmanager",
+            "keywords": [
+                "eventmanager",
+                "zf2"
+            ],
+            "time": "2016-02-18 20:49:05"
+        },
+        {
+            "name": "zendframework/zend-hydrator",
+            "version": "dev-release-1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zendframework/zend-hydrator.git",
+                "reference": "22652e1661a5a10b3f564cf7824a2206cf5a4a65"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zendframework/zend-hydrator/zipball/22652e1661a5a10b3f564cf7824a2206cf5a4a65",
+                "reference": "22652e1661a5a10b3f564cf7824a2206cf5a4a65",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.5 || ^7.0",
+                "zendframework/zend-stdlib": "^2.7 || ^3.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~4.0",
+                "squizlabs/php_codesniffer": "^2.0@dev",
+                "zendframework/zend-eventmanager": "^2.6.2 || ^3.0",
+                "zendframework/zend-filter": "^2.6",
+                "zendframework/zend-inputfilter": "^2.6",
+                "zendframework/zend-serializer": "^2.6.1",
+                "zendframework/zend-servicemanager": "^2.7.5 || ^3.0.3"
+            },
+            "suggest": {
+                "zendframework/zend-eventmanager": "^2.6.2 || ^3.0, to support aggregate hydrator usage",
+                "zendframework/zend-filter": "^2.6, to support naming strategy hydrator usage",
+                "zendframework/zend-serializer": "^2.6.1, to use the SerializableStrategy",
+                "zendframework/zend-servicemanager": "^2.7.5 || ^3.0.3, to support hydrator plugin manager usage"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-release-1.0": "1.0-dev",
+                    "dev-release-1.1": "1.1-dev",
+                    "dev-master": "2.0-dev",
+                    "dev-develop": "2.1-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Zend\\Hydrator\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "homepage": "https://github.com/zendframework/zend-hydrator",
+            "keywords": [
+                "hydrator",
+                "zf2"
+            ],
+            "time": "2016-02-18 22:38:26"
+        },
+        {
+            "name": "zendframework/zend-ldap",
+            "version": "2.5.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zendframework/zend-ldap.git",
+                "reference": "c647a86224030543401634dbafd514074b49b2b6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zendframework/zend-ldap/zipball/c647a86224030543401634dbafd514074b49b2b6",
+                "reference": "c647a86224030543401634dbafd514074b49b2b6",
+                "shasum": ""
+            },
+            "require": {
+                "ext-ldap": "*",
+                "php": ">=5.3.23",
+                "zendframework/zend-stdlib": "~2.5"
+            },
+            "require-dev": {
+                "fabpot/php-cs-fixer": "1.7.*",
+                "phpunit/phpunit": "~4.0",
+                "zendframework/zend-config": "~2.5",
+                "zendframework/zend-eventmanager": "~2.5"
+            },
+            "suggest": {
+                "zendframework/zend-eventmanager": "Zend\\EventManager component"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.5-dev",
+                    "dev-develop": "2.6-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Zend\\Ldap\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory",
+            "homepage": "https://github.com/zendframework/zend-ldap",
+            "keywords": [
+                "ldap",
+                "zf2"
+            ],
+            "time": "2015-06-03 15:32:02"
+        },
+        {
+            "name": "zendframework/zend-session",
+            "version": "2.5.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zendframework/zend-session.git",
+                "reference": "986b1507b9f13ea3dc16e3cb44a4d7f9c882de80"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zendframework/zend-session/zipball/986b1507b9f13ea3dc16e3cb44a4d7f9c882de80",
+                "reference": "986b1507b9f13ea3dc16e3cb44a4d7f9c882de80",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.23",
+                "zendframework/zend-eventmanager": "~2.5",
+                "zendframework/zend-stdlib": "~2.5"
+            },
+            "require-dev": {
+                "fabpot/php-cs-fixer": "1.7.*",
+                "phpunit/phpunit": "~4.0",
+                "zendframework/zend-cache": "~2.5",
+                "zendframework/zend-db": "~2.5",
+                "zendframework/zend-http": "~2.5",
+                "zendframework/zend-servicemanager": "~2.5",
+                "zendframework/zend-validator": "~2.5"
+            },
+            "suggest": {
+                "zendframework/zend-cache": "Zend\\Cache component",
+                "zendframework/zend-db": "Zend\\Db component",
+                "zendframework/zend-eventmanager": "Zend\\EventManager component",
+                "zendframework/zend-http": "Zend\\Http component",
+                "zendframework/zend-servicemanager": "Zend\\ServiceManager component",
+                "zendframework/zend-validator": "Zend\\Validator component"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.5-dev",
+                    "dev-develop": "2.6-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Zend\\Session\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "manage and preserve session data, a logical complement of cookie data, across multiple page requests by the same client",
+            "homepage": "https://github.com/zendframework/zend-session",
+            "keywords": [
+                "session",
+                "zf2"
+            ],
+            "time": "2015-06-03 15:32:03"
+        },
+        {
+            "name": "zendframework/zend-stdlib",
+            "version": "dev-release-2.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zendframework/zend-stdlib.git",
+                "reference": "0e44eb46788f65e09e077eb7f44d2659143bcc1f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zendframework/zend-stdlib/zipball/0e44eb46788f65e09e077eb7f44d2659143bcc1f",
+                "reference": "0e44eb46788f65e09e077eb7f44d2659143bcc1f",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.5 || ^7.0",
+                "zendframework/zend-hydrator": "~1.1"
+            },
+            "require-dev": {
+                "athletic/athletic": "~0.1",
+                "fabpot/php-cs-fixer": "1.7.*",
+                "phpunit/phpunit": "~4.0",
+                "zendframework/zend-config": "~2.5",
+                "zendframework/zend-eventmanager": "~2.5",
+                "zendframework/zend-filter": "~2.5",
+                "zendframework/zend-inputfilter": "~2.5",
+                "zendframework/zend-serializer": "~2.5",
+                "zendframework/zend-servicemanager": "~2.5"
+            },
+            "suggest": {
+                "zendframework/zend-eventmanager": "To support aggregate hydrator usage",
+                "zendframework/zend-filter": "To support naming strategy hydrator usage",
+                "zendframework/zend-serializer": "Zend\\Serializer component",
+                "zendframework/zend-servicemanager": "To support hydrator plugin manager usage"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-release-2.7": "2.7-dev",
+                    "dev-master": "3.0-dev",
+                    "dev-develop": "3.1-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Zend\\Stdlib\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "homepage": "https://github.com/zendframework/zend-stdlib",
+            "keywords": [
+                "stdlib",
+                "zf2"
+            ],
+            "time": "2016-04-12 21:17:31"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "md/division-project": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
