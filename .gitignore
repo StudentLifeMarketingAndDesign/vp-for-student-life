@@ -65,4 +65,5 @@ queuedjobs/
 MigrateUsersToAdTask.php
 cache
 fbpagefeed/
-
+nocaptcha.yml
+nocaptcha
