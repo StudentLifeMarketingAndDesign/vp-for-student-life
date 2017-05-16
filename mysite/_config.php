@@ -4,7 +4,7 @@ global $project;
 $project = 'mysite';
 
 global $database;
-$database = 'vp-dp4';
+$database = 'vp';
  
 // Use _ss_environment.php file for configuration
 require_once("conf/ConfigureFromEnv.php");

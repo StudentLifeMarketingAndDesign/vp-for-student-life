@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4bbede179af6d77d794ded69e628609b",
-    "content-hash": "48afd7485137880dc5bcb1d144871d52",
+    "hash": "95dabbc471ef91d88c5485f5c6cdea00",
+    "content-hash": "8dc001dc9cc0174aef20db6a89657fa6",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -457,7 +457,7 @@
         },
         {
             "name": "md/division-project",
-            "version": "4.0.x-dev",
+            "version": "2.0.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
