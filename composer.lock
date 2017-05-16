@@ -461,12 +461,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "f351d77c50bca0b3296daba551468dbb2f8bfa7f"
+                "reference": "449f4e27cc7628dc97c7a191c2d3dfcad75af2b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/f351d77c50bca0b3296daba551468dbb2f8bfa7f",
-                "reference": "f351d77c50bca0b3296daba551468dbb2f8bfa7f",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/449f4e27cc7628dc97c7a191c2d3dfcad75af2b1",
+                "reference": "449f4e27cc7628dc97c7a191c2d3dfcad75af2b1",
                 "shasum": ""
             },
             "require": {
@@ -511,7 +511,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/4.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-05-15 14:38:57"
+            "time": "2017-05-16 13:54:57"
         },
         {
             "name": "md/rss-display",
@@ -1238,12 +1238,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-lumberjack.git",
-                "reference": "e85feffec01c414024bd1ba9e6cd668f2056631b"
+                "reference": "bb2a0f7e17187347c6b5ad8e15391bbfcbd19a66"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-lumberjack/zipball/e85feffec01c414024bd1ba9e6cd668f2056631b",
-                "reference": "e85feffec01c414024bd1ba9e6cd668f2056631b",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-lumberjack/zipball/bb2a0f7e17187347c6b5ad8e15391bbfcbd19a66",
+                "reference": "bb2a0f7e17187347c6b5ad8e15391bbfcbd19a66",
                 "shasum": ""
             },
             "require": {
@@ -1256,7 +1256,7 @@
             "type": "silverstripe-module",
             "extra": {
                 "branch-alias": {
-                    "1.x-dev": "1.2.x-dev"
+                    "1.x-dev": "1.4.x-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -1270,7 +1270,7 @@
                 }
             ],
             "description": "A module to make managing pages in a GridField easy without losing any of the functionality that you're used to in the CMS.",
-            "time": "2016-11-16 04:32:56"
+            "time": "2017-05-16 03:07:31"
         },
         {
             "name": "silverstripe/mathspamprotection",
@@ -1479,12 +1479,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-secureassets.git",
-                "reference": "3856e8baada0c9b084ca58d170b7a8b1a7176290"
+                "reference": "23764d16f58f39f530121352b3f9fef9529aa8d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-secureassets/zipball/3856e8baada0c9b084ca58d170b7a8b1a7176290",
-                "reference": "3856e8baada0c9b084ca58d170b7a8b1a7176290",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-secureassets/zipball/23764d16f58f39f530121352b3f9fef9529aa8d7",
+                "reference": "23764d16f58f39f530121352b3f9fef9529aa8d7",
                 "shasum": ""
             },
             "require": {
@@ -1517,7 +1517,7 @@
                 "secure",
                 "silverstripe"
             ],
-            "time": "2016-12-20 15:01:30"
+            "time": "2017-05-15 21:14:59"
         },
         {
             "name": "silverstripe/segment-field",
