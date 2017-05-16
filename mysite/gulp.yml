@@ -24,6 +24,9 @@ PATHS:
   assets:
     - "src/**/*"
     - "!src/{images,scripts,scss,templates}/**/*"
+    - "!src/{images,scripts,scss,templates}"
+    - "!../themes/division-subtheme/src/{images,scripts,scss,templates}/**/*"
+    - "!../themes/division-subtheme/src/{images,scripts,scss,templates}"
   # Paths to Sass libraries, which can then be loaded with @import
   sass:
     - "src/scss/"
