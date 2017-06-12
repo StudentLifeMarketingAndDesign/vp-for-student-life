@@ -4,7 +4,7 @@
     "minimum-stability": "dev",
 	"require": {
 		"php": ">=5.3.2",
-		"md/division-project": "2.0.x"
+		"md/division-project": "dev-2.0.x-ss-3.6"
 		
 
 	},
