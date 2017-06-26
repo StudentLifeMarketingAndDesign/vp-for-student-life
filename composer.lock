@@ -388,12 +388,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-betternavigator.git",
-                "reference": "4d26e4c48648f043322a69a01cb566f2840502c2"
+                "reference": "cf8d7ed69507421a52e278369f0048d389a60760"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-betternavigator/zipball/4d26e4c48648f043322a69a01cb566f2840502c2",
-                "reference": "4d26e4c48648f043322a69a01cb566f2840502c2",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-betternavigator/zipball/cf8d7ed69507421a52e278369f0048d389a60760",
+                "reference": "cf8d7ed69507421a52e278369f0048d389a60760",
                 "shasum": ""
             },
             "require": {
@@ -422,7 +422,7 @@
             "support": {
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-betternavigator/tree/3.x"
             },
-            "time": "2017-06-26 14:04:03"
+            "time": "2017-06-26 14:20:23"
         },
         {
             "name": "md/ac-json-events",
