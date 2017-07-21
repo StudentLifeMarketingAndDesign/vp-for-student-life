@@ -30,46 +30,32 @@ PATHS:
   # Paths to Sass libraries, which can then be loaded with @import
   sass:
     - "src/scss/"
-    - "bower_components/foundation-sites/scss"
-    - "bower_components/motion-ui/src"
-    - "bower_components/"
   # Paths to JavaScript libraries, which are compined into one file
   javascript:
-    # Libraries requried by Foundation
-    #- "bower_components/jquery/dist/jquery.js"
-    - "bower_components/what-input/dist/what-input.js"
-    # Background Videos:
-    #- "bower_components/vide/dist/jquery.vide.js"
     # Core Foundation files
-    - "bower_components/foundation-sites/js/foundation.core.js"
-    - "bower_components/foundation-sites/js/foundation.util.*.js"
+    - "src/scripts/lib/foundation/foundation.core.js"
+    - "src/scripts/lib/foundation/foundation.util.*.js"
     # Individual Foundation components
     # If you aren't using a component, just remove it from the list
-    # - "bower_components/foundation-sites/js/foundation.abide.js"
-    - "bower_components/foundation-sites/js/foundation.accordion.js"
-    # - "bower_components/foundation-sites/js/foundation.accordionMenu.js"
-    # - "bower_components/foundation-sites/js/foundation.drilldown.js"
-    # - "bower_components/foundation-sites/js/foundation.dropdown.js"
-    # - "bower_components/foundation-sites/js/foundation.dropdownMenu.js"
-    # - "bower_components/foundation-sites/js/foundation.equalizer.js"
-    - "bower_components/foundation-sites/js/foundation.interchange.js"
-    # - "bower_components/foundation-sites/js/foundation.magellan.js"
-    # - "bower_components/foundation-sites/js/foundation.offcanvas.js"
-    # - "bower_components/foundation-sites/js/foundation.orbit.js"
-    # - "bower_components/foundation-sites/js/foundation.responsiveMenu.js"
-    # - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
-    # - "bower_components/foundation-sites/js/foundation.reveal.js"
-    # - "bower_components/foundation-sites/js/foundation.slider.js"
-    # - "bower_components/foundation-sites/js/foundation.sticky.js"
-    - "bower_components/foundation-sites/js/foundation.tabs.js"
-    # - "bower_components/foundation-sites/js/foundation.toggler.js"
-    # - "bower_components/foundation-sites/js/foundation.tooltip.js"
-
-    # add'l libraries:
-    - "bower_components/foundation-sites/js/foundation.util.*.js"
-    - "bower_components/vanilla-lazyload/dist/lazyload.transpiled.js"
-    # - "bower_components/jquery-auto-complete/jquery.auto-complete.js"
-    # - "bower_components/devbridge-autocomplete/dist/jquery.autocomplete.js"
+    # - "src/scripts/lib/foundation/foundation.abide.js"
+    - "src/scripts/lib/foundation/foundation.accordion.js"
+    # - "src/scripts/lib/foundation/foundation.accordionMenu.js"
+    # - "src/scripts/lib/foundation/foundation.drilldown.js"
+    # - "src/scripts/lib/foundation/foundation.dropdown.js"
+    # - "src/scripts/lib/foundation/foundation.dropdownMenu.js"
+    # - "src/scripts/lib/foundation/foundation.equalizer.js"
+    - "src/scripts/lib/foundation/foundation.interchange.js"
+    # - "src/scripts/lib/foundation/foundation.magellan.js"
+    # - "src/scripts/lib/foundation/foundation.offcanvas.js"
+    # - "src/scripts/lib/foundation/foundation.orbit.js"
+    # - "src/scripts/lib/foundation/foundation.responsiveMenu.js"
+    # - "src/scripts/lib/foundation/foundation.responsiveToggle.js"
+    # - "src/scripts/lib/foundation/foundation.reveal.js"
+    # - "src/scripts/lib/foundation/foundation.slider.js"
+    # - "src/scripts/lib/foundation/foundation.sticky.js"
+    - "src/scripts/lib/foundation/foundation.tabs.js"
+    # - "src/scripts/lib/foundation/foundation.toggler.js"
+    # - "src/scripts/lib/foundation/foundation.tooltip.js"
 
     # Division Project Scripts:
     - "src/scripts/lib/*.js"
