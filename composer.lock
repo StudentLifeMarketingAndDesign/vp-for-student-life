@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+    "hash": "732d5086b1cd0c559aec05cfaea99902",
     "content-hash": "c0311dd82ff430fedd44e4664f3cd355",
     "packages": [
         {
@@ -85,16 +86,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "dev-master",
+            "version": "v1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "c568b9567deda672098b7adb7910c63f8bb278e3"
+                "reference": "79ad876c7498c0bbfe7eed065b8651c93bfd6045"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/c568b9567deda672098b7adb7910c63f8bb278e3",
-                "reference": "c568b9567deda672098b7adb7910c63f8bb278e3",
+                "url": "https://api.github.com/repos/composer/installers/zipball/79ad876c7498c0bbfe7eed065b8651c93bfd6045",
+                "reference": "79ad876c7498c0bbfe7eed065b8651c93bfd6045",
                 "shasum": ""
             },
             "require": {
@@ -140,7 +141,6 @@
                 "Hurad",
                 "ImageCMS",
                 "Kanboard",
-                "Lan Management System",
                 "MODX Evo",
                 "Mautic",
                 "Maya",
@@ -180,7 +180,6 @@
                 "mediawiki",
                 "modulework",
                 "moodle",
-                "osclass",
                 "phpbb",
                 "piwik",
                 "ppi",
@@ -197,20 +196,20 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-07-06 12:31:10"
+            "time": "2017-04-24 06:37:16"
         },
         {
             "name": "facebook/graph-sdk",
-            "version": "5.5.x-dev",
+            "version": "5.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/facebook/php-graph-sdk.git",
-                "reference": "7af9f275dee7fde814e11fe969fa2b9776c0e496"
+                "reference": "34f5e5993c67acd264017373f23848961585dcac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/facebook/php-graph-sdk/zipball/7af9f275dee7fde814e11fe969fa2b9776c0e496",
-                "reference": "7af9f275dee7fde814e11fe969fa2b9776c0e496",
+                "url": "https://api.github.com/repos/facebook/php-graph-sdk/zipball/34f5e5993c67acd264017373f23848961585dcac",
+                "reference": "34f5e5993c67acd264017373f23848961585dcac",
                 "shasum": ""
             },
             "require": {
@@ -255,7 +254,7 @@
                 "facebook",
                 "sdk"
             ],
-            "time": "2017-07-15 18:12:44"
+            "time": "2017-07-23 14:06:52"
         },
         {
             "name": "jeremeamia/SuperClosure",
@@ -343,7 +342,7 @@
                 "ical",
                 "ics"
             ],
-            "time": "2016-03-16T13:31:55+00:00"
+            "time": "2016-03-16 13:31:55"
         },
         {
             "name": "jonom/focuspoint",
@@ -382,7 +381,7 @@
                 "image",
                 "silverstripe"
             ],
-            "time": "2017-03-22T23:16:19+00:00"
+            "time": "2017-03-22 23:16:19"
         },
         {
             "name": "jonom/silverstripe-betternavigator",
@@ -464,12 +463,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "804d11ae3c5002f474d490f36b991fa332156752"
+                "reference": "3ce01e7f0e3803617d4d5050ae12f5557f13b659"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/804d11ae3c5002f474d490f36b991fa332156752",
-                "reference": "804d11ae3c5002f474d490f36b991fa332156752",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/3ce01e7f0e3803617d4d5050ae12f5557f13b659",
+                "reference": "3ce01e7f0e3803617d4d5050ae12f5557f13b659",
                 "shasum": ""
             },
             "require": {
@@ -516,7 +515,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-07-21 15:54:20"
+            "time": "2017-07-24 15:06:57"
         },
         {
             "name": "md/rss-display",
@@ -702,16 +701,16 @@
         },
         {
             "name": "onelogin/php-saml",
-            "version": "2.10.7",
+            "version": "2.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/onelogin/php-saml.git",
-                "reference": "b41f731803f303879f50fa76276908088197731c"
+                "reference": "818d6ee07e3797fd7e4006bff01bd2abc295cb65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/onelogin/php-saml/zipball/b41f731803f303879f50fa76276908088197731c",
-                "reference": "b41f731803f303879f50fa76276908088197731c",
+                "url": "https://api.github.com/repos/onelogin/php-saml/zipball/818d6ee07e3797fd7e4006bff01bd2abc295cb65",
+                "reference": "818d6ee07e3797fd7e4006bff01bd2abc295cb65",
                 "shasum": ""
             },
             "require": {
@@ -726,7 +725,7 @@
                 "phpunit/phpunit": "4.8",
                 "satooshi/php-coveralls": "1.0.1",
                 "sebastian/phpcpd": "*",
-                "squizlabs/php_codesniffer": "*"
+                "squizlabs/php_codesniffer": "2.9.0"
             },
             "suggest": {
                 "ext-gettext": "Install gettext and php5-gettext libs to handle translations",
@@ -752,7 +751,7 @@
                 "onelogin",
                 "saml"
             ],
-            "time": "2017-05-19T10:32:03+00:00"
+            "time": "2017-07-21 20:16:31"
         },
         {
             "name": "plato-creative/silverstripe-typekit",
@@ -845,7 +844,7 @@
                 "array_column",
                 "column"
             ],
-            "time": "2015-03-20T22:07:39+00:00"
+            "time": "2015-03-20 22:07:39"
         },
         {
             "name": "sheadawson/quickaddnew",
@@ -928,7 +927,7 @@
                 "silverstripe",
                 "widgets"
             ],
-            "time": "2016-11-08T22:48:10+00:00"
+            "time": "2016-11-08 22:48:10"
         },
         {
             "name": "silverstripe-australia/gridfieldextensions",
@@ -1083,7 +1082,7 @@
             "support": {
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-activedirectory/tree/3.0.4.4"
             },
-            "time": "2017-07-11T18:03:07+00:00"
+            "time": "2017-07-11 18:03:07"
         },
         {
             "name": "silverstripe/blog",
@@ -1190,7 +1189,7 @@
                 "cms",
                 "silverstripe"
             ],
-            "time": "2017-06-15T11:50:49+00:00"
+            "time": "2017-06-15 11:50:49"
         },
         {
             "name": "silverstripe/framework",
@@ -1244,7 +1243,7 @@
                 "framework",
                 "silverstripe"
             ],
-            "time": "2017-06-27T11:48:16+00:00"
+            "time": "2017-06-27 11:48:16"
         },
         {
             "name": "silverstripe/googlesitemaps",
@@ -1360,7 +1359,7 @@
                 "silverstripe",
                 "spamprotection"
             ],
-            "time": "2016-02-03T15:47:25+00:00"
+            "time": "2016-02-03 15:47:25"
         },
         {
             "name": "silverstripe/multivaluefield",
@@ -1491,7 +1490,7 @@
                 "reports",
                 "silverstripe"
             ],
-            "time": "2017-05-30T23:06:19+00:00"
+            "time": "2017-05-30 23:06:19"
         },
         {
             "name": "silverstripe/secureassets",
@@ -1576,7 +1575,7 @@
                 "segment",
                 "silverstripe"
             ],
-            "time": "2015-08-18T04:44:43+00:00"
+            "time": "2015-08-18 04:44:43"
         },
         {
             "name": "silverstripe/siteconfig",
@@ -1619,7 +1618,7 @@
                 "silverstripe",
                 "siteconfig"
             ],
-            "time": "2017-06-15T11:52:21+00:00"
+            "time": "2017-06-15 11:52:21"
         },
         {
             "name": "silverstripe/spamprotection",
@@ -2051,7 +2050,7 @@
                 "under construction",
                 "utility page"
             ],
-            "time": "2016-07-21T21:27:29+00:00"
+            "time": "2016-07-21 21:27:29"
         },
         {
             "name": "unclecheese/betterbuttons",
@@ -2134,7 +2133,7 @@
                 "logic",
                 "silverstripe"
             ],
-            "time": "2017-01-06T09:46:49+00:00"
+            "time": "2017-01-06 09:46:49"
         },
         {
             "name": "unclecheese/eventcalendar",
@@ -2178,7 +2177,7 @@
                 "events",
                 "silverstripe"
             ],
-            "time": "2017-05-30T02:20:42+00:00"
+            "time": "2017-05-30 02:20:42"
         },
         {
             "name": "undefinedoffset/silverstripe-nocaptcha",
@@ -2222,7 +2221,7 @@
                 "silverstripe",
                 "spamprotection"
             ],
-            "time": "2017-05-11T12:38:53+00:00"
+            "time": "2017-05-11 12:38:53"
         },
         {
             "name": "undefinedoffset/sortablegridfield",
@@ -2262,7 +2261,7 @@
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2017-04-21T12:32:43+00:00"
+            "time": "2017-04-21 12:32:43"
         },
         {
             "name": "unisolutions/silverstripe-copybutton",
@@ -2360,30 +2359,30 @@
                 "Authentication",
                 "zf2"
             ],
-            "time": "2016-02-28T15:02:34+00:00"
+            "time": "2016-02-28 15:02:34"
         },
         {
             "name": "zendframework/zend-eventmanager",
-            "version": "3.0.1",
+            "version": "dev-develop",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/zend-eventmanager.git",
-                "reference": "5c80bdee0e952be112dcec0968bad770082c3a6e"
+                "reference": "071016ade1deee5b8346ec9d8d48935437746c37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zendframework/zend-eventmanager/zipball/5c80bdee0e952be112dcec0968bad770082c3a6e",
-                "reference": "5c80bdee0e952be112dcec0968bad770082c3a6e",
+                "url": "https://api.github.com/repos/zendframework/zend-eventmanager/zipball/071016ade1deee5b8346ec9d8d48935437746c37",
+                "reference": "071016ade1deee5b8346ec9d8d48935437746c37",
                 "shasum": ""
             },
             "require": {
-                "php": "^5.5 || ^7.0"
+                "php": "^5.6 || ^7.0"
             },
             "require-dev": {
                 "athletic/athletic": "^0.1",
                 "container-interop/container-interop": "^1.1.0",
-                "phpunit/phpunit": "~4.0",
-                "squizlabs/php_codesniffer": "^2.0",
+                "phpunit/phpunit": "^6.0.7 || ^5.7.14",
+                "zendframework/zend-coding-standard": "~1.0.0",
                 "zendframework/zend-stdlib": "^2.7.3 || ^3.0"
             },
             "suggest": {
@@ -2393,8 +2392,8 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.0-dev",
-                    "dev-develop": "3.1-dev"
+                    "dev-master": "3.2-dev",
+                    "dev-develop": "3.3-dev"
                 }
             },
             "autoload": {
@@ -2414,7 +2413,7 @@
                 "events",
                 "zf2"
             ],
-            "time": "2016-02-18T20:53:00+00:00"
+            "time": "2017-07-11 19:19:12"
         },
         {
             "name": "zendframework/zend-ldap",
@@ -2467,7 +2466,7 @@
                 "ldap",
                 "zf2"
             ],
-            "time": "2017-03-06T20:39:12+00:00"
+            "time": "2017-03-06 20:39:12"
         },
         {
             "name": "zendframework/zend-session",
@@ -2533,35 +2532,35 @@
                 "session",
                 "zf2"
             ],
-            "time": "2017-06-19T15:23:03+00:00"
+            "time": "2017-06-19 15:23:03"
         },
         {
             "name": "zendframework/zend-stdlib",
-            "version": "3.0.1",
+            "version": "dev-develop",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/zend-stdlib.git",
-                "reference": "8bafa58574204bdff03c275d1d618aaa601588ae"
+                "reference": "16818ed8ee2a92a503c43883dcb6263fe6283ee8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zendframework/zend-stdlib/zipball/8bafa58574204bdff03c275d1d618aaa601588ae",
-                "reference": "8bafa58574204bdff03c275d1d618aaa601588ae",
+                "url": "https://api.github.com/repos/zendframework/zend-stdlib/zipball/16818ed8ee2a92a503c43883dcb6263fe6283ee8",
+                "reference": "16818ed8ee2a92a503c43883dcb6263fe6283ee8",
                 "shasum": ""
             },
             "require": {
-                "php": "^5.5 || ^7.0"
+                "php": "^5.6 || ^7.0"
             },
             "require-dev": {
                 "athletic/athletic": "~0.1",
-                "fabpot/php-cs-fixer": "1.7.*",
-                "phpunit/phpunit": "~4.0"
+                "phpunit/phpunit": "~4.0",
+                "squizlabs/php_codesniffer": "^2.6.2"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.0-dev",
-                    "dev-develop": "3.1-dev"
+                    "dev-master": "3.1-dev",
+                    "dev-develop": "3.2-dev"
                 }
             },
             "autoload": {
@@ -2578,7 +2577,7 @@
                 "stdlib",
                 "zf2"
             ],
-            "time": "2016-04-12T21:19:36+00:00"
+            "time": "2016-09-13 14:40:02"
         }
     ],
     "packages-dev": [],
