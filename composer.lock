@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "70aae4a59695504a3ef3e59f4ddfbf30",
+    "content-hash": "9e734d344a8807ef1049ea88ef9afc0d",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -85,16 +85,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "dev-master",
+            "version": "v1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "33decf7c820e379bcc0c9cc9231ad0b6f00baacc"
+                "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/33decf7c820e379bcc0c9cc9231ad0b6f00baacc",
-                "reference": "33decf7c820e379bcc0c9cc9231ad0b6f00baacc",
+                "url": "https://api.github.com/repos/composer/installers/zipball/9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
+                "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
                 "shasum": ""
             },
             "require": {
@@ -177,18 +177,15 @@
                 "lavalite",
                 "lithium",
                 "magento",
-                "majima",
                 "mako",
                 "mediawiki",
                 "modulework",
-                "modx",
                 "moodle",
                 "osclass",
                 "phpbb",
                 "piwik",
                 "ppi",
                 "puppet",
-                "pxcms",
                 "reindex",
                 "roundcube",
                 "shopware",
@@ -201,7 +198,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-10-19 08:12:54"
+            "time": "2017-08-09T07:53:48+00:00"
         },
         {
             "name": "embed/embed",
@@ -545,12 +542,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "ee37863b9f91417c86b9066d5adc06bc1ad3bf45"
+                "reference": "ff9be860291bce5339e2be590e8f0ad149c0701f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/ee37863b9f91417c86b9066d5adc06bc1ad3bf45",
-                "reference": "ee37863b9f91417c86b9066d5adc06bc1ad3bf45",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/ff9be860291bce5339e2be590e8f0ad149c0701f",
+                "reference": "ff9be860291bce5339e2be590e8f0ad149c0701f",
                 "shasum": ""
             },
             "require": {
@@ -560,6 +557,7 @@
                 "md/ac-json-events": "dev-master",
                 "md/division-analytics": "1.*",
                 "md/rss-display": "*",
+                "md/silverstripe-amp": "dev-master",
                 "micschk/silverstripe-gridfieldsitetreebuttons": "*",
                 "normann/gridfieldpaginatorwithshowall": "*",
                 "olliepop/fbpagefeed": "dev-master",
@@ -600,7 +598,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-10-26 17:38:39"
+            "time": "2017-10-27 14:22:51"
         },
         {
             "name": "md/rss-display",
@@ -633,6 +631,48 @@
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/rss-display/issues"
             },
             "time": "2015-04-28 20:02:10"
+        },
+        {
+            "name": "md/silverstripe-amp",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp.git",
+                "reference": "15c35faef5924d9a957d3970ac012168021c9a72"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-amp/zipball/15c35faef5924d9a957d3970ac012168021c9a72",
+                "reference": "15c35faef5924d9a957d3970ac012168021c9a72",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/cms": "~3.2",
+                "silverstripe/framework": "~3.2"
+            },
+            "type": "silverstripe-module",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Richard Rudy",
+                    "email": "iwant@designplusawesome.com"
+                }
+            ],
+            "description": "Module for converting SilverStripe Pages to Google AMP HTML",
+            "homepage": "http://github.com/thezenmonkey/silverstripe-amp",
+            "keywords": [
+                "AMPHTML",
+                "google",
+                "mobile",
+                "silverstripe"
+            ],
+            "support": {
+                "issues": "http://github.com/thezenmonkey/silverstripe-amp/issues",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp/tree/master"
+            },
+            "time": "2017-10-10 14:47:15"
         },
         {
             "name": "micschk/silverstripe-gridfieldsitetreebuttons",
