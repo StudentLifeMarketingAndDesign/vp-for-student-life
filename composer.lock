@@ -638,12 +638,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp.git",
-                "reference": "4dcf098dd1ba1b6fb2dbc2608d41d4d5b3a3df9d"
+                "reference": "dec270730ec5fe1d646944641dde272bdd473f20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-amp/zipball/4dcf098dd1ba1b6fb2dbc2608d41d4d5b3a3df9d",
-                "reference": "4dcf098dd1ba1b6fb2dbc2608d41d4d5b3a3df9d",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-amp/zipball/dec270730ec5fe1d646944641dde272bdd473f20",
+                "reference": "dec270730ec5fe1d646944641dde272bdd473f20",
                 "shasum": ""
             },
             "require": {
@@ -672,7 +672,7 @@
                 "issues": "http://github.com/thezenmonkey/silverstripe-amp/issues",
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp/tree/master"
             },
-            "time": "2017-10-27 15:12:15"
+            "time": "2017-10-27 15:16:03"
         },
         {
             "name": "micschk/silverstripe-gridfieldsitetreebuttons",
