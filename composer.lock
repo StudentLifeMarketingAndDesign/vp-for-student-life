@@ -542,12 +542,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "ff9be860291bce5339e2be590e8f0ad149c0701f"
+                "reference": "b2ae2f607bf297cd7a9fb170f5356062cf7cac7b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/ff9be860291bce5339e2be590e8f0ad149c0701f",
-                "reference": "ff9be860291bce5339e2be590e8f0ad149c0701f",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b2ae2f607bf297cd7a9fb170f5356062cf7cac7b",
+                "reference": "b2ae2f607bf297cd7a9fb170f5356062cf7cac7b",
                 "shasum": ""
             },
             "require": {
@@ -598,7 +598,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-10-27 14:22:51"
+            "time": "2017-10-31 16:18:44"
         },
         {
             "name": "md/rss-display",
@@ -638,12 +638,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp.git",
-                "reference": "dec270730ec5fe1d646944641dde272bdd473f20"
+                "reference": "1174c240f2afc29b1b5d5caae6856690443bbb55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-amp/zipball/dec270730ec5fe1d646944641dde272bdd473f20",
-                "reference": "dec270730ec5fe1d646944641dde272bdd473f20",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-amp/zipball/1174c240f2afc29b1b5d5caae6856690443bbb55",
+                "reference": "1174c240f2afc29b1b5d5caae6856690443bbb55",
                 "shasum": ""
             },
             "require": {
@@ -672,7 +672,7 @@
                 "issues": "http://github.com/thezenmonkey/silverstripe-amp/issues",
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp/tree/master"
             },
-            "time": "2017-10-27 15:16:03"
+            "time": "2017-10-31 17:26:52"
         },
         {
             "name": "micschk/silverstripe-gridfieldsitetreebuttons",
@@ -1167,12 +1167,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe-terraformers/silverstripe-youtubefield.git",
-                "reference": "2d8b01d0c7ba4b7707b20382f96781248fc7eee1"
+                "reference": "a205b94c55a7cf2aa343d095229958462bac2c08"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe-terraformers/silverstripe-youtubefield/zipball/2d8b01d0c7ba4b7707b20382f96781248fc7eee1",
-                "reference": "2d8b01d0c7ba4b7707b20382f96781248fc7eee1",
+                "url": "https://api.github.com/repos/silverstripe-terraformers/silverstripe-youtubefield/zipball/a205b94c55a7cf2aa343d095229958462bac2c08",
+                "reference": "a205b94c55a7cf2aa343d095229958462bac2c08",
                 "shasum": ""
             },
             "require": {
@@ -1198,7 +1198,7 @@
                 "silverstripe",
                 "youtube"
             ],
-            "time": "2017-01-18 02:08:59"
+            "time": "2017-10-29 23:11:58"
         },
         {
             "name": "silverstripe-themes/simple",
@@ -2271,16 +2271,16 @@
         },
         {
             "name": "thisisbd/silverstripe-maintenance-mode",
-            "version": "v1.0.5",
+            "version": "1.0.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dljoseph/silverstripe-maintenance-mode.git",
-                "reference": "a2f17acaf32310e97e8e3d3a4b3020bba1da36da"
+                "reference": "fbf69224a9cf3a058b2b67fcea4cb9f29e6a452e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dljoseph/silverstripe-maintenance-mode/zipball/a2f17acaf32310e97e8e3d3a4b3020bba1da36da",
-                "reference": "a2f17acaf32310e97e8e3d3a4b3020bba1da36da",
+                "url": "https://api.github.com/repos/dljoseph/silverstripe-maintenance-mode/zipball/fbf69224a9cf3a058b2b67fcea4cb9f29e6a452e",
+                "reference": "fbf69224a9cf3a058b2b67fcea4cb9f29e6a452e",
                 "shasum": ""
             },
             "require": {
@@ -2320,7 +2320,7 @@
                 "under construction",
                 "utility page"
             ],
-            "time": "2016-07-21T21:27:29+00:00"
+            "time": "2017-02-01 21:38:32"
         },
         {
             "name": "unclecheese/betterbuttons",
