@@ -896,12 +896,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "b2ae2f607bf297cd7a9fb170f5356062cf7cac7b"
+                "reference": "88eeabfa35e147c9815ae8dec1a349614f012a9c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b2ae2f607bf297cd7a9fb170f5356062cf7cac7b",
-                "reference": "b2ae2f607bf297cd7a9fb170f5356062cf7cac7b",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/88eeabfa35e147c9815ae8dec1a349614f012a9c",
+                "reference": "88eeabfa35e147c9815ae8dec1a349614f012a9c",
                 "shasum": ""
             },
             "require": {
@@ -952,7 +952,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-10-31 16:18:44"
+            "time": "2017-11-03 15:59:32"
         },
         {
             "name": "md/rss-display",
@@ -992,12 +992,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp.git",
-                "reference": "f74799b43c421068bfb78039e5db94e8a30ef3eb"
+                "reference": "9d6e3384c158988627710101c080e2711817f0b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-amp/zipball/f74799b43c421068bfb78039e5db94e8a30ef3eb",
-                "reference": "f74799b43c421068bfb78039e5db94e8a30ef3eb",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-amp/zipball/9d6e3384c158988627710101c080e2711817f0b2",
+                "reference": "9d6e3384c158988627710101c080e2711817f0b2",
                 "shasum": ""
             },
             "require": {
@@ -1027,7 +1027,7 @@
                 "issues": "http://github.com/thezenmonkey/silverstripe-amp/issues",
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp/tree/master"
             },
-            "time": "2017-10-31 21:25:40"
+            "time": "2017-11-01 15:30:43"
         },
         {
             "name": "micschk/silverstripe-gridfieldsitetreebuttons",
@@ -1850,12 +1850,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-blog.git",
-                "reference": "f29b73f532a878ae370cfae1d0ac6fa264a821d8"
+                "reference": "ffc0ab7f3890e573e18147ed8b687e7214128fe2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-blog/zipball/f29b73f532a878ae370cfae1d0ac6fa264a821d8",
-                "reference": "f29b73f532a878ae370cfae1d0ac6fa264a821d8",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-blog/zipball/ffc0ab7f3890e573e18147ed8b687e7214128fe2",
+                "reference": "ffc0ab7f3890e573e18147ed8b687e7214128fe2",
                 "shasum": ""
             },
             "require": {
@@ -1895,7 +1895,7 @@
                 "news",
                 "silverstripe"
             ],
-            "time": "2017-09-28 03:46:58"
+            "time": "2017-11-03 02:35:11"
         },
         {
             "name": "silverstripe/cms",
