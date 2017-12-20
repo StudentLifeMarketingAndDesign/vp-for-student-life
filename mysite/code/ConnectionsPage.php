@@ -1,4 +1,7 @@
 <?php
+
+use SilverStripe\ORM\PaginatedList;
+use PageController;
 class ConnectionsPage extends Page {
 
 	private static $db = array(
@@ -8,7 +11,7 @@ class ConnectionsPage extends Page {
 	);
 
 }
-class ConnectionsPage_Controller extends Page_Controller {
+class ConnectionsPage_Controller extends PageController {
 
 	public function init() {
 		parent::init();

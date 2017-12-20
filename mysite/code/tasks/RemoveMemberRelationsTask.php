@@ -1,5 +1,8 @@
 <?php
 
+use SilverStripe\Blog\Model\BlogPost;
+use SilverStripe\Dev\BuildTask;
+
 	class RemoveMemberRelationsTask extends BuildTask {
 
 

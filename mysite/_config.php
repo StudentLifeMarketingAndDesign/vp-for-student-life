@@ -1,5 +1,12 @@
 <?php
 
+use SilverStripe\ORM\Connect\MySQLDatabase;
+use SilverStripe\i18n\i18n;
+use SilverStripe\ORM\Search\FulltextSearchable;
+use SilverStripe\CMS\Model\SiteTree;
+use SilverStripe\Control\Director;
+use SilverStripe\Security\Authenticator;
+
 global $project;
 $project = 'mysite';
 
@@ -15,7 +22,7 @@ MySQLDatabase::set_connection_charset('utf8');
 i18n::set_locale('en_US');
 FulltextSearchable::enable();
 // Enable nested URLs for this site (e.g. page/sub-page/)
-if (class_exists('SiteTree')) SiteTree::enable_nested_urls();
+if (class_exists(SiteTree::class)) SiteTree::enable_nested_urls();
 
 if(Director::isLive()) {
 	Director::forceSSL();
