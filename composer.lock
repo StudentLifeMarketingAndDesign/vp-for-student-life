@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "9e734d344a8807ef1049ea88ef9afc0d",
+    "content-hash": "09f5ba8df17252c3a44761d434ca8482",
     "packages": [
         {
             "name": "asyncphp/doorman",
@@ -840,12 +840,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events.git",
-                "reference": "1583604cd24db9951bcd27c8ae72db8b53c01571"
+                "reference": "b13c31226af0ed2e8355d31ae6a2eac820f923bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/1583604cd24db9951bcd27c8ae72db8b53c01571",
-                "reference": "1583604cd24db9951bcd27c8ae72db8b53c01571",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/b13c31226af0ed2e8355d31ae6a2eac820f923bb",
+                "reference": "b13c31226af0ed2e8355d31ae6a2eac820f923bb",
                 "shasum": ""
             },
             "require": {
@@ -864,7 +864,62 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/issues"
             },
-            "time": "2017-10-12 21:40:31"
+            "time": "2018-01-31 16:16:28"
+        },
+        {
+            "name": "md/blog",
+            "version": "2.x-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-blog.git",
+                "reference": "76c3cf9eaf4fdfdb79e868910eda54e2afd98936"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-blog/zipball/76c3cf9eaf4fdfdb79e868910eda54e2afd98936",
+                "reference": "76c3cf9eaf4fdfdb79e868910eda54e2afd98936",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/cms": "^3.2.0",
+                "silverstripe/lumberjack": "~1.1",
+                "silverstripe/tagfield": "^1.0"
+            },
+            "replace": {
+                "micmania1/silverstripe-blog": "*"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~3.7@stable"
+            },
+            "suggest": {
+                "silverstripe/comments": "This module adds comments to your blog.",
+                "silverstripe/widgets": "Some widgets come with the blog which are compatible with the widgets module."
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "branch-alias": {
+                    "2.x-dev": "2.6.x-dev"
+                }
+            },
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Michael Strong",
+                    "email": "github@michaelstrong.co.uk"
+                }
+            ],
+            "description": "A fresh take on blogging in Silverstripe set out to tackle the issue of a cluttered Site Tree.",
+            "keywords": [
+                "blog",
+                "news",
+                "silverstripe"
+            ],
+            "support": {
+                "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-blog/tree/2"
+            },
+            "time": "2018-02-14 16:50:08"
         },
         {
             "name": "md/division-analytics",
@@ -899,12 +954,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "f7c37b74d7b087bf6d1ea34c8c6e4810152010a3"
+                "reference": "93887581883898523983e72354e715dfec46c52f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/f7c37b74d7b087bf6d1ea34c8c6e4810152010a3",
-                "reference": "f7c37b74d7b087bf6d1ea34c8c6e4810152010a3",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/93887581883898523983e72354e715dfec46c52f",
+                "reference": "93887581883898523983e72354e715dfec46c52f",
                 "shasum": ""
             },
             "require": {
@@ -912,6 +967,7 @@
                 "jonom/focuspoint": "2.4.*",
                 "jonom/silverstripe-betternavigator": "3.*",
                 "md/ac-json-events": "dev-master",
+                "md/blog": "2.*",
                 "md/division-analytics": "1.*",
                 "md/rss-display": "*",
                 "md/silverstripe-amp": "dev-master",
@@ -927,15 +983,14 @@
                 "silverstripe-rebelalliance/youtubefield": "*",
                 "silverstripe-themes/simple": "*",
                 "silverstripe/activedirectory": "^3.1",
-                "silverstripe/blog": "2.*",
-                "silverstripe/cms": "3.6.4",
-                "silverstripe/framework": "3.6.4",
+                "silverstripe/cms": "3.6.5",
+                "silverstripe/framework": "3.6.5",
                 "silverstripe/googlesitemaps": "1.6.*",
                 "silverstripe/installer": "*",
                 "silverstripe/mathspamprotection": "2.*",
-                "silverstripe/reports": "3.6.4",
+                "silverstripe/reports": "3.6.5",
                 "silverstripe/secureassets": "1.1.*",
-                "silverstripe/siteconfig": "3.6.4",
+                "silverstripe/siteconfig": "3.6.5",
                 "silverstripe/staticpublisher": "*",
                 "silverstripe/timepickerfield": "1.1.*",
                 "silverstripe/userforms": "4.*",
@@ -956,7 +1011,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2018-01-25 16:54:17"
+            "time": "2018-02-14 22:16:55"
         },
         {
             "name": "md/rss-display",
@@ -1941,61 +1996,8 @@
             "time": "2017-11-10 16:08:11"
         },
         {
-            "name": "silverstripe/blog",
-            "version": "2.x-dev",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-blog.git",
-                "reference": "4810e73278f54163015975f2ad550dc084dbd91d"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-blog/zipball/4810e73278f54163015975f2ad550dc084dbd91d",
-                "reference": "4810e73278f54163015975f2ad550dc084dbd91d",
-                "shasum": ""
-            },
-            "require": {
-                "silverstripe/cms": "^3.2.0",
-                "silverstripe/lumberjack": "~1.1",
-                "silverstripe/tagfield": "^1.0"
-            },
-            "replace": {
-                "micmania1/silverstripe-blog": "*"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~3.7@stable"
-            },
-            "suggest": {
-                "silverstripe/comments": "This module adds comments to your blog.",
-                "silverstripe/widgets": "Some widgets come with the blog which are compatible with the widgets module."
-            },
-            "type": "silverstripe-module",
-            "extra": {
-                "branch-alias": {
-                    "2.x-dev": "2.6.x-dev"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-2-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Michael Strong",
-                    "email": "github@michaelstrong.co.uk"
-                }
-            ],
-            "description": "A fresh take on blogging in Silverstripe set out to tackle the issue of a cluttered Site Tree.",
-            "keywords": [
-                "blog",
-                "news",
-                "silverstripe"
-            ],
-            "time": "2017-11-20 01:32:05"
-        },
-        {
             "name": "silverstripe/cms",
-            "version": "3.6.4",
+            "version": "3.6.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-cms.git",
@@ -2053,16 +2055,16 @@
         },
         {
             "name": "silverstripe/framework",
-            "version": "3.6.4",
+            "version": "3.6.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-framework.git",
-                "reference": "bb37bc549185a83bfdaf80f69fa40ce187575078"
+                "reference": "a805aabecd1c859f772456e7b49fb3693b509787"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/bb37bc549185a83bfdaf80f69fa40ce187575078",
-                "reference": "bb37bc549185a83bfdaf80f69fa40ce187575078",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-framework/zipball/a805aabecd1c859f772456e7b49fb3693b509787",
+                "reference": "a805aabecd1c859f772456e7b49fb3693b509787",
                 "shasum": ""
             },
             "require": {
@@ -2134,7 +2136,7 @@
                 "framework",
                 "silverstripe"
             ],
-            "time": "2018-01-16T03:40:43+00:00"
+            "time": "2018-02-05T02:19:24+00:00"
         },
         {
             "name": "silverstripe/googlesitemaps",
@@ -2294,16 +2296,16 @@
         },
         {
             "name": "silverstripe/reports",
-            "version": "3.6.4",
+            "version": "3.6.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-reports.git",
-                "reference": "e8fef7ebdd026794beae64d76debba91d5d88036"
+                "reference": "5ddb796d151741c4be2f10a902e85809962a037f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-reports/zipball/e8fef7ebdd026794beae64d76debba91d5d88036",
-                "reference": "e8fef7ebdd026794beae64d76debba91d5d88036",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-reports/zipball/5ddb796d151741c4be2f10a902e85809962a037f",
+                "reference": "5ddb796d151741c4be2f10a902e85809962a037f",
                 "shasum": ""
             },
             "require": {
@@ -2311,13 +2313,18 @@
                 "silverstripe/framework": "~3.3"
             },
             "require-dev": {
-                "phpunit/phpunit": "~3.7"
+                "phpunit/phpunit": "^3 || ^4 || ^5"
             },
             "type": "silverstripe-module",
             "extra": {
                 "branch-alias": {
                     "3.x-dev": "3.6.x-dev"
                 }
+            },
+            "autoload": {
+                "classmap": [
+                    "code"
+                ]
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -2340,7 +2347,7 @@
                 "reports",
                 "silverstripe"
             ],
-            "time": "2017-07-26T09:45:00+00:00"
+            "time": "2018-01-16T12:01:55+00:00"
         },
         {
             "name": "silverstripe/secureassets",
@@ -2429,7 +2436,7 @@
         },
         {
             "name": "silverstripe/siteconfig",
-            "version": "3.6.4",
+            "version": "3.6.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-siteconfig.git",
@@ -2913,12 +2920,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symbiote/silverstripe-multivaluefield.git",
-                "reference": "91dedf6f7e1e4e53b426a5fb2ed3b15349c6632c"
+                "reference": "4c679020abbf6f48e6a98aa3b557e40aaaecd853"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symbiote/silverstripe-multivaluefield/zipball/91dedf6f7e1e4e53b426a5fb2ed3b15349c6632c",
-                "reference": "91dedf6f7e1e4e53b426a5fb2ed3b15349c6632c",
+                "url": "https://api.github.com/repos/symbiote/silverstripe-multivaluefield/zipball/4c679020abbf6f48e6a98aa3b557e40aaaecd853",
+                "reference": "4c679020abbf6f48e6a98aa3b557e40aaaecd853",
                 "shasum": ""
             },
             "require": {
@@ -2944,7 +2951,7 @@
                 "formfield",
                 "silverstripe"
             ],
-            "time": "2017-12-12 06:12:48"
+            "time": "2018-02-02 08:14:33"
         },
         {
             "name": "symbiote/silverstripe-queuedjobs",
@@ -3128,16 +3135,16 @@
         },
         {
             "name": "unclecheese/eventcalendar",
-            "version": "1.0.23",
+            "version": "1.0.24",
             "source": {
                 "type": "git",
                 "url": "https://github.com/unclecheese/silverstripe-event-calendar.git",
-                "reference": "18e246239db9163d84884a577e137684a5102f0e"
+                "reference": "13c151c8fd011a98c131471cb21310124a264785"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/18e246239db9163d84884a577e137684a5102f0e",
-                "reference": "18e246239db9163d84884a577e137684a5102f0e",
+                "url": "https://api.github.com/repos/unclecheese/silverstripe-event-calendar/zipball/13c151c8fd011a98c131471cb21310124a264785",
+                "reference": "13c151c8fd011a98c131471cb21310124a264785",
                 "shasum": ""
             },
             "require": {
@@ -3168,7 +3175,7 @@
                 "events",
                 "silverstripe"
             ],
-            "time": "2017-05-30T02:20:42+00:00"
+            "time": "2018-01-29T22:29:29+00:00"
         },
         {
             "name": "undefinedoffset/silverstripe-nocaptcha",
