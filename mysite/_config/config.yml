@@ -1,3 +1,19 @@
+---
+Name: myproject
+Before:
+    - '#elemental'
+---
+SilverStripe\Core\Manifest\ModuleManifest:
+  project: mysite
+
+SilverStripe\Filesystem\Flysystem\FlysystemAssetStore:
+  legacy_paths: true
+
+SilverStripe\Assets\File:
+  migrate_legacy_file: true
+  allowed_extensions: 
+    - pdf 
+    - mp4
 ElementalEditor:
   extensions:
     - CustomElementalEditor
