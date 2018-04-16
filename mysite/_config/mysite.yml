@@ -3,9 +3,11 @@ Name: myproject
 ---
 SilverStripe\Core\Manifest\ModuleManifest:
   project: mysite
-  
-SilverStripe\Assets\FileMigrationHelper:
-  delete_invalid_files: false
 
+SilverStripe\Filesystem\Flysystem\FlysystemAssetStore:
+  legacy_paths: true
+
+  
 SilverStripe\Assets\File:
   migrate_legacy_file: true
+  
