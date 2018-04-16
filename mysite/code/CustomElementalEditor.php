@@ -8,8 +8,7 @@ use SilverStripe\ORM\DataExtension;
 class CustomElementalEditor extends DataExtension {
 
 public function updateField($gridField) {
-	echo 'hello;';
-	$gridField->rename('TEST');
+
 }
 
 
