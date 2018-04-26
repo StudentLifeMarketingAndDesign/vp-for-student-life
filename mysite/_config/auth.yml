@@ -1,0 +1,10 @@
+---
+Name: MyAuth
+After:
+  - '#coresecurity'
+---
+SilverStripe\Core\Injector\Injector:
+  SilverStripe\Security\Security:
+    properties:
+      Authenticators:
+        saml: %$SilverStripe\SAML\Authenticators\SAMLAuthenticator
