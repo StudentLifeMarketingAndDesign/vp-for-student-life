@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6a83542181f2db7923a1116adec9e7a3",
+    "content-hash": "517cee228b04f7e2b81f8d6010475ee4",
     "packages": [
         {
             "name": "colymba/gridfield-bulk-editing-tools",
@@ -455,12 +455,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "73bf0937061461ca45292a93aa3b7e9010f2e753"
+                "reference": "0773d442aa96baf19d7195f14ba6e9c2da11f8ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/73bf0937061461ca45292a93aa3b7e9010f2e753",
-                "reference": "73bf0937061461ca45292a93aa3b7e9010f2e753",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/0773d442aa96baf19d7195f14ba6e9c2da11f8ed",
+                "reference": "0773d442aa96baf19d7195f14ba6e9c2da11f8ed",
                 "shasum": ""
             },
             "require": {
@@ -512,7 +512,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2018-04-09T20:04:58+00:00"
+            "time": "2018-04-23T13:18:18+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -571,17 +571,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "6858c3f0e94b96c114c28f9185f295bf30a53e58"
+                "reference": "239912a01c502f2d8f3c642eb2fcd4e58cf82a72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/6858c3f0e94b96c114c28f9185f295bf30a53e58",
-                "reference": "6858c3f0e94b96c114c28f9185f295bf30a53e58",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/239912a01c502f2d8f3c642eb2fcd4e58cf82a72",
+                "reference": "239912a01c502f2d8f3c642eb2fcd4e58cf82a72",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.4.0",
-                "psr/http-message": "~1.0"
+                "psr/http-message": "~1.0",
+                "ralouphie/getallheaders": "^2.0.5"
             },
             "provide": {
                 "psr/http-message-implementation": "1.0"
@@ -628,7 +629,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2018-04-11T19:14:35+00:00"
+            "time": "2018-04-24T00:35:57+00:00"
         },
         {
             "name": "intervention/image",
@@ -891,16 +892,16 @@
         },
         {
             "name": "md/division-project",
-            "version": "dev-ss4.x",
+            "version": "dev-ss4.x-saml",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "ee8a7a83ce90646ae740818d0f3a89d705e537c5"
+                "reference": "2fe6cc4cfd99551cae67731b4e33150631638200"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/ee8a7a83ce90646ae740818d0f3a89d705e537c5",
-                "reference": "ee8a7a83ce90646ae740818d0f3a89d705e537c5",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/2fe6cc4cfd99551cae67731b4e33150631638200",
+                "reference": "2fe6cc4cfd99551cae67731b4e33150631638200",
                 "shasum": ""
             },
             "require": {
@@ -908,7 +909,8 @@
                 "dnadesign/silverstripe-elemental": "*",
                 "edgarindustries/youtubefield": "*",
                 "gorriecoe/silverstripe-webfonts": "1.0.5",
-                "php": ">=5.5",
+                "md/saml": "*",
+                "php": ">=5.6",
                 "silverstripe-australia/gridfieldextensions": "*",
                 "silverstripe-themes/simple": "*",
                 "silverstripe/asset-admin": "*",
@@ -919,7 +921,6 @@
                 "silverstripe/recaptcha": "dev-master",
                 "silverstripe/recipe-cms": "^1",
                 "silverstripe/reports": "*",
-                "silverstripe/saml": "*",
                 "silverstripe/siteconfig": "*",
                 "silverstripe/tagfield": "*",
                 "silverstripe/userforms": "*",
@@ -930,10 +931,78 @@
             "type": "silverstripe-module",
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/ss4.x",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/ss4.x-saml",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2018-04-17T14:21:19+00:00"
+            "time": "2018-04-30T21:21:56+00:00"
+        },
+        {
+            "name": "md/saml",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml.git",
+                "reference": "62d65419b6f979c1ea7c67be49f2de1f092e8d7a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-saml/zipball/62d65419b6f979c1ea7c67be49f2de1f092e8d7a",
+                "reference": "62d65419b6f979c1ea7c67be49f2de1f092e8d7a",
+                "shasum": ""
+            },
+            "require": {
+                "onelogin/php-saml": "^2.10.7",
+                "php": ">=5.6",
+                "silverstripe/cms": "^4@dev",
+                "silverstripe/framework": "^4@dev",
+                "zendframework/zend-authentication": "^2.5.1",
+                "zendframework/zend-session": "^2.5.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^5.7",
+                "squizlabs/php_codesniffer": "^3.0"
+            },
+            "suggest": {
+                "silverstripe/ldap": "Synchronise extra user attributes from Active Directory with LDAP"
+            },
+            "type": "vendormodule",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "SilverStripe\\SAML\\": "src/",
+                    "SilverStripe\\SAML\\Tests\\": "tests/php/"
+                }
+            },
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Sean Harvey",
+                    "email": "sean@silverstripe.com"
+                },
+                {
+                    "name": "Stig Lindqvist",
+                    "email": "stig@silverstripe.com"
+                }
+            ],
+            "description": "Adds SSO/SAML authentication support to SilverStripe",
+            "keywords": [
+                "active",
+                "ad",
+                "directory",
+                "saml",
+                "silverstripe",
+                "sso"
+            ],
+            "support": {
+                "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml/tree/master"
+            },
+            "time": "2018-04-30T21:47:47+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -1404,6 +1473,46 @@
                 "simple-cache"
             ],
             "time": "2017-10-23T01:57:42+00:00"
+        },
+        {
+            "name": "ralouphie/getallheaders",
+            "version": "2.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ralouphie/getallheaders.git",
+                "reference": "5601c8a83fbba7ef674a7369456d12f1e0d0eafa"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ralouphie/getallheaders/zipball/5601c8a83fbba7ef674a7369456d12f1e0d0eafa",
+                "reference": "5601c8a83fbba7ef674a7369456d12f1e0d0eafa",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~3.7.0",
+                "satooshi/php-coveralls": ">=1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/getallheaders.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ralph Khattar",
+                    "email": "ralph.khattar@gmail.com"
+                }
+            ],
+            "description": "A polyfill for getallheaders.",
+            "time": "2016-02-11T07:05:27+00:00"
         },
         {
             "name": "silverstripe-themes/simple",
@@ -2117,12 +2226,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe/silverstripe-lumberjack.git",
-                "reference": "fadb5d0d294da97d30d269aba619802146bd57eb"
+                "reference": "5e0ce03428622ec5c10210f01a846837c370fc1d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-lumberjack/zipball/fadb5d0d294da97d30d269aba619802146bd57eb",
-                "reference": "fadb5d0d294da97d30d269aba619802146bd57eb",
+                "url": "https://api.github.com/repos/silverstripe/silverstripe-lumberjack/zipball/5e0ce03428622ec5c10210f01a846837c370fc1d",
+                "reference": "5e0ce03428622ec5c10210f01a846837c370fc1d",
                 "shasum": ""
             },
             "require": {
@@ -2160,7 +2269,7 @@
                 }
             ],
             "description": "A module to make managing pages in a GridField easy without losing any of the functionality that you're used to in the CMS.",
-            "time": "2018-04-03T21:52:37+00:00"
+            "time": "2018-04-20T09:05:04+00:00"
         },
         {
             "name": "silverstripe/recaptcha",
@@ -2396,72 +2505,6 @@
                 "silverstripe"
             ],
             "time": "2018-01-25T13:19:39+00:00"
-        },
-        {
-            "name": "silverstripe/saml",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/silverstripe/silverstripe-saml.git",
-                "reference": "5ee88459b679a24028f23f88ed71bc3f23194a29"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe/silverstripe-saml/zipball/5ee88459b679a24028f23f88ed71bc3f23194a29",
-                "reference": "5ee88459b679a24028f23f88ed71bc3f23194a29",
-                "shasum": ""
-            },
-            "require": {
-                "onelogin/php-saml": "^2.10.7",
-                "php": ">=5.6",
-                "silverstripe/cms": "^4@dev",
-                "silverstripe/framework": "^4@dev",
-                "zendframework/zend-authentication": "^2.5.1",
-                "zendframework/zend-session": "^2.5.1"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^5.7",
-                "squizlabs/php_codesniffer": "^3.0"
-            },
-            "suggest": {
-                "silverstripe/ldap": "Synchronise extra user attributes from Active Directory with LDAP"
-            },
-            "type": "silverstripe-module",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.0.x-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "SilverStripe\\SAML\\": "src/",
-                    "SilverStripe\\SAML\\Tests\\": "tests/php/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Sean Harvey",
-                    "email": "sean@silverstripe.com"
-                },
-                {
-                    "name": "Stig Lindqvist",
-                    "email": "stig@silverstripe.com"
-                }
-            ],
-            "description": "Adds SSO/SAML authentication support to SilverStripe",
-            "keywords": [
-                "SSO",
-                "active",
-                "ad",
-                "directory",
-                "saml",
-                "silverstripe"
-            ],
-            "time": "2018-01-10T17:11:33+00:00"
         },
         {
             "name": "silverstripe/segment-field",
@@ -3047,12 +3090,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/cache.git",
-                "reference": "13255ddd056e49f3154747943f8ee175d555d394"
+                "reference": "51a9eef3091b2c06f63d8b1b98de9d101b5e0e77"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/cache/zipball/13255ddd056e49f3154747943f8ee175d555d394",
-                "reference": "13255ddd056e49f3154747943f8ee175d555d394",
+                "url": "https://api.github.com/repos/symfony/cache/zipball/51a9eef3091b2c06f63d8b1b98de9d101b5e0e77",
+                "reference": "51a9eef3091b2c06f63d8b1b98de9d101b5e0e77",
                 "shasum": ""
             },
             "require": {
@@ -3109,7 +3152,7 @@
                 "caching",
                 "psr6"
             ],
-            "time": "2018-04-02T14:35:16+00:00"
+            "time": "2018-04-27T05:49:57+00:00"
         },
         {
             "name": "symfony/config",
@@ -3278,12 +3321,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-apcu.git",
-                "reference": "e8ae2136ddb53dea314df56fcd88e318ab936c00"
+                "reference": "9b83bd010112ec196410849e840d9b9fefcb15ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-apcu/zipball/e8ae2136ddb53dea314df56fcd88e318ab936c00",
-                "reference": "e8ae2136ddb53dea314df56fcd88e318ab936c00",
+                "url": "https://api.github.com/repos/symfony/polyfill-apcu/zipball/9b83bd010112ec196410849e840d9b9fefcb15ad",
+                "reference": "9b83bd010112ec196410849e840d9b9fefcb15ad",
                 "shasum": ""
             },
             "require": {
@@ -3292,7 +3335,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.7-dev"
+                    "dev-master": "1.8-dev"
                 }
             },
             "autoload": {
@@ -3326,7 +3369,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2018-01-30T19:27:44+00:00"
+            "time": "2018-04-26T10:06:28+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -3334,12 +3377,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "78be803ce01e55d3491c1397cf1c64beb9c1b63b"
+                "reference": "3296adf6a6454a050679cde90f95350ad604b171"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/78be803ce01e55d3491c1397cf1c64beb9c1b63b",
-                "reference": "78be803ce01e55d3491c1397cf1c64beb9c1b63b",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/3296adf6a6454a050679cde90f95350ad604b171",
+                "reference": "3296adf6a6454a050679cde90f95350ad604b171",
                 "shasum": ""
             },
             "require": {
@@ -3351,7 +3394,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.7-dev"
+                    "dev-master": "1.8-dev"
                 }
             },
             "autoload": {
@@ -3385,7 +3428,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2018-01-30T19:27:44+00:00"
+            "time": "2018-04-26T10:06:28+00:00"
         },
         {
             "name": "symfony/translation",
@@ -3393,12 +3436,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/translation.git",
-                "reference": "72235c1121ae282254e897e342c001f3d4bb7e8d"
+                "reference": "6f744108f846097cb250d90c8c463ddd23b43f60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/translation/zipball/72235c1121ae282254e897e342c001f3d4bb7e8d",
-                "reference": "72235c1121ae282254e897e342c001f3d4bb7e8d",
+                "url": "https://api.github.com/repos/symfony/translation/zipball/6f744108f846097cb250d90c8c463ddd23b43f60",
+                "reference": "6f744108f846097cb250d90c8c463ddd23b43f60",
                 "shasum": ""
             },
             "require": {
@@ -3415,7 +3458,7 @@
                 "symfony/yaml": "~2.2|~3.0.0"
             },
             "suggest": {
-                "psr/log": "To use logging capability in translator",
+                "psr/log-implementation": "To use logging capability in translator",
                 "symfony/config": "",
                 "symfony/yaml": ""
             },
@@ -3449,7 +3492,7 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
-            "time": "2018-01-18T13:56:23+00:00"
+            "time": "2018-04-30T01:21:07+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -3727,12 +3770,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/zend-eventmanager.git",
-                "reference": "969821ae236411f1540fa9a0267246ef07b02189"
+                "reference": "27eb1489df583456fac8c77c95059dde09ff38d8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zendframework/zend-eventmanager/zipball/969821ae236411f1540fa9a0267246ef07b02189",
-                "reference": "969821ae236411f1540fa9a0267246ef07b02189",
+                "url": "https://api.github.com/repos/zendframework/zend-eventmanager/zipball/27eb1489df583456fac8c77c95059dde09ff38d8",
+                "reference": "27eb1489df583456fac8c77c95059dde09ff38d8",
                 "shasum": ""
             },
             "require": {
@@ -3741,7 +3784,7 @@
             "require-dev": {
                 "container-interop/container-interop": "^1.1.0",
                 "phpbench/phpbench": "^0.13",
-                "phpunit/phpunit": "^6.0.7 || ^5.7.14",
+                "phpunit/phpunit": "^5.7.27 || ^6.5.8 || ^7.1.2",
                 "zendframework/zend-coding-standard": "~1.0.0",
                 "zendframework/zend-stdlib": "^2.7.3 || ^3.0"
             },
@@ -3773,7 +3816,7 @@
                 "events",
                 "zf2"
             ],
-            "time": "2017-10-09T10:07:30+00:00"
+            "time": "2018-04-25T15:35:22+00:00"
         },
         {
             "name": "zendframework/zend-session",
@@ -3848,12 +3891,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/zend-stdlib.git",
-                "reference": "8483a2a3cd6e4aab7a0c929e3ca1930961726c3b"
+                "reference": "181042fd782146364e66fed138f04fc822cfaef6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zendframework/zend-stdlib/zipball/8483a2a3cd6e4aab7a0c929e3ca1930961726c3b",
-                "reference": "8483a2a3cd6e4aab7a0c929e3ca1930961726c3b",
+                "url": "https://api.github.com/repos/zendframework/zend-stdlib/zipball/181042fd782146364e66fed138f04fc822cfaef6",
+                "reference": "181042fd782146364e66fed138f04fc822cfaef6",
                 "shasum": ""
             },
             "require": {
@@ -3867,8 +3910,8 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.1.x-dev",
-                    "dev-develop": "3.2.x-dev"
+                    "dev-master": "3.2.x-dev",
+                    "dev-develop": "3.3.x-dev"
                 }
             },
             "autoload": {
@@ -3886,7 +3929,7 @@
                 "stdlib",
                 "zf"
             ],
-            "time": "2018-04-12T18:09:10+00:00"
+            "time": "2018-04-30T14:23:00+00:00"
         }
     ],
     "packages-dev": [],
