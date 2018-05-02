@@ -986,12 +986,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "2944fa6aaca1f7663d66073d1a5420fddc157ad7"
+                "reference": "a5eb4fb681b525df1a76430fe5b0e5c6b927cee7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/2944fa6aaca1f7663d66073d1a5420fddc157ad7",
-                "reference": "2944fa6aaca1f7663d66073d1a5420fddc157ad7",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/a5eb4fb681b525df1a76430fe5b0e5c6b927cee7",
+                "reference": "a5eb4fb681b525df1a76430fe5b0e5c6b927cee7",
                 "shasum": ""
             },
             "require": {
@@ -1005,6 +1005,7 @@
                 "md/rss-display": "*",
                 "md/silverstripe-amp": "dev-master",
                 "micschk/silverstripe-gridfieldsitetreebuttons": "*",
+                "nathancox/codeeditorfield": "*",
                 "nathancox/sortableuploadfield": "*",
                 "normann/gridfieldpaginatorwithshowall": "*",
                 "olliepop/fbpagefeed": "dev-master",
@@ -1044,7 +1045,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2018-04-25T15:55:29+00:00"
+            "time": "2018-05-02T18:11:14+00:00"
         },
         {
             "name": "md/rss-display",
@@ -1210,6 +1211,49 @@
                 "yml"
             ],
             "time": "2017-02-24T16:06:33+00:00"
+        },
+        {
+            "name": "nathancox/codeeditorfield",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nathancox/silverstripe-codeeditorfield.git",
+                "reference": "22505f424c5780dcd751edd6bcde78beaa860dd0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nathancox/silverstripe-codeeditorfield/zipball/22505f424c5780dcd751edd6bcde78beaa860dd0",
+                "reference": "22505f424c5780dcd751edd6bcde78beaa860dd0",
+                "shasum": ""
+            },
+            "require": {
+                "silverstripe/framework": "~3.1"
+            },
+            "type": "silverstripe-module",
+            "extra": {
+                "screenshots": [
+                    "http://static.flyingmonkey.co.nz/github/silverstripe-codeeditorfield/codeeditorfield-1.png"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Nathan Cox",
+                    "email": "me@nathan.net.nz"
+                }
+            ],
+            "description": "A field for editing code in the SilverStripe CMS using Ace Editor (http://ace.c9.io/)",
+            "homepage": "https://github.com/nathancox/silverstripe-codeeditorfield",
+            "keywords": [
+                "cms",
+                "form",
+                "formfield",
+                "silverstripe"
+            ],
+            "time": "2017-09-01T00:50:22+00:00"
         },
         {
             "name": "nathancox/sortableuploadfield",
@@ -3607,12 +3651,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/zend-stdlib.git",
-                "reference": "8483a2a3cd6e4aab7a0c929e3ca1930961726c3b"
+                "reference": "181042fd782146364e66fed138f04fc822cfaef6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zendframework/zend-stdlib/zipball/8483a2a3cd6e4aab7a0c929e3ca1930961726c3b",
-                "reference": "8483a2a3cd6e4aab7a0c929e3ca1930961726c3b",
+                "url": "https://api.github.com/repos/zendframework/zend-stdlib/zipball/181042fd782146364e66fed138f04fc822cfaef6",
+                "reference": "181042fd782146364e66fed138f04fc822cfaef6",
                 "shasum": ""
             },
             "require": {
@@ -3626,8 +3670,8 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.1.x-dev",
-                    "dev-develop": "3.2.x-dev"
+                    "dev-master": "3.2.x-dev",
+                    "dev-develop": "3.3.x-dev"
                 }
             },
             "autoload": {
@@ -3645,7 +3689,7 @@
                 "stdlib",
                 "zf"
             ],
-            "time": "2018-04-12T18:09:10+00:00"
+            "time": "2018-04-30T14:23:00+00:00"
         }
     ],
     "packages-dev": [],
