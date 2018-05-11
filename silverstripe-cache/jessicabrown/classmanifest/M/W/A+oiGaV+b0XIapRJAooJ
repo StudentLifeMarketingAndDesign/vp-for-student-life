@@ -1,0 +1,3 @@
+0
+BrokenRedirectorPagesReport_php_3567bf1ea30b99271c7df0214e713c2e
+a:3:{s:7:"classes";a:1:{s:52:"SilverStripe\CMS\Reports\BrokenRedirectorPagesReport";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\Reports\Report";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

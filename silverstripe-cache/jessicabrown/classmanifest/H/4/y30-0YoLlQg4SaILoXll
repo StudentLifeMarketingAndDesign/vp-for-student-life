@@ -1,0 +1,3 @@
+0
+StaffTeam_php_2e28d8ec1f3ba9ad475ef02c3c052a89
+a:3:{s:7:"classes";a:1:{s:9:"StaffTeam";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\ORM\DataObject";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

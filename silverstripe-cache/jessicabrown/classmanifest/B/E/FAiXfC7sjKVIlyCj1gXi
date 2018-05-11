@@ -1,0 +1,3 @@
+0
+WidgetContentControllerExtension_php_a34d82248c4367fc509d60aaee9117d5
+a:3:{s:7:"classes";a:1:{s:65:"SilverStripe\Widgets\Controllers\WidgetContentControllerExtension";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\Core\Extension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

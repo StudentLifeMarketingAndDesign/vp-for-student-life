@@ -1,0 +1,3 @@
+0
+Authenticator_php_499b3562fff64ad2a3dcba9644937fd6
+a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:35:"SilverStripe\Security\Authenticator";a:1:{s:7:"extends";a:0:{}}}s:6:"traits";a:0:{}}

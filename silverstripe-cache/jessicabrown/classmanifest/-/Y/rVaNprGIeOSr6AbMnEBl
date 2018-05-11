@@ -1,0 +1,3 @@
+0
+BulkManager_php_410da3fe6ad4f1ca6da6c1c760107a49
+a:3:{s:7:"classes";a:1:{s:31:"Colymba\BulkManager\BulkManager";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:3:{i:0;s:51:"SilverStripe\Forms\GridField\GridField_HTMLProvider";i:1;s:53:"SilverStripe\Forms\GridField\GridField_ColumnProvider";i:2;s:49:"SilverStripe\Forms\GridField\GridField_URLHandler";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

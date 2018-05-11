@@ -1,0 +1,3 @@
+0
+DatabaseAdapterRegistry_php_8d92faa39a1161a62e5276d40b4f60ac
+a:3:{s:7:"classes";a:1:{s:48:"SilverStripe\Dev\Install\DatabaseAdapterRegistry";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

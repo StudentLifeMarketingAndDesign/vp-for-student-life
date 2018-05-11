@@ -2,7 +2,7 @@
   "name": "division-project",
   "version": "2.0.0",
   "scripts": {
-    "start": "cd division-project && npm install && npm start"
+    "start": "cd vendor/md/division-project && npm install && npm start"
   },
   "dependencies": {
     "babel-preset-es2015": "^6.24.0"

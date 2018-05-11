@@ -1,0 +1,3 @@
+0
+HTML4Value_php_58ce05cbf63ccea0bca9c543c33a10d2
+a:3:{s:7:"classes";a:1:{s:36:"SilverStripe\View\Parsers\HTML4Value";a:2:{s:7:"extends";a:1:{i:0;s:35:"SilverStripe\View\Parsers\HTMLValue";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

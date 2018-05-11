@@ -1,0 +1,3 @@
+0
+MonologErrorHandler_php_318ea334ce92048e0b0efed1c59fcbd1
+a:3:{s:7:"classes";a:1:{s:40:"SilverStripe\Logging\MonologErrorHandler";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:33:"SilverStripe\Logging\ErrorHandler";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

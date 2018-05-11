@@ -1,0 +1,3 @@
+0
+FileMigrationHelper_php_6a9e9e05d4183bb095552a3e3472f5b3
+a:3:{s:7:"classes";a:1:{s:39:"SilverStripe\Assets\FileMigrationHelper";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,0 +1,3 @@
+0
+FileDefaultPermissions_php_e1bc838260eb30d27471180c5f2aaae3
+a:3:{s:7:"classes";a:1:{s:42:"SilverStripe\Assets\FileDefaultPermissions";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:46:"SilverStripe\Security\DefaultPermissionChecker";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,0 +1,3 @@
+0
+EditorExternalLinkFormFactory_php_d488d9e38d1f63fee69a9fd1ecad1c88
+a:3:{s:7:"classes";a:1:{s:54:"SilverStripe\Admin\Forms\EditorExternalLinkFormFactory";a:2:{s:7:"extends";a:1:{i:0;s:40:"SilverStripe\Admin\Forms\LinkFormFactory";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

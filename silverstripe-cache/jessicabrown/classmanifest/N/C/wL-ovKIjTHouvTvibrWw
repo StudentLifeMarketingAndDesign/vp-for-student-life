@@ -1,0 +1,3 @@
+0
+ElementalPageExtension_php_607858d54c6d2e85db3cb66068be5fce
+a:3:{s:7:"classes";a:1:{s:53:"DNADesign\Elemental\Extensions\ElementalPageExtension";a:2:{s:7:"extends";a:1:{i:0;s:54:"DNADesign\Elemental\Extensions\ElementalAreasExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

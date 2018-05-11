@@ -1,0 +1,3 @@
+0
+CsvBulkLoader_php_b7b57a82cbcb054da3858f76b1f21500
+a:3:{s:7:"classes";a:1:{s:30:"SilverStripe\Dev\CsvBulkLoader";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\Dev\BulkLoader";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

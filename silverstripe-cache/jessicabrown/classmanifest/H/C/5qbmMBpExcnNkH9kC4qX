@@ -1,0 +1,3 @@
+0
+CliDebugView_php_0c603d79c481eda3a633f9110d77e46c
+a:3:{s:7:"classes";a:1:{s:29:"SilverStripe\Dev\CliDebugView";a:2:{s:7:"extends";a:1:{i:0;s:26:"SilverStripe\Dev\DebugView";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

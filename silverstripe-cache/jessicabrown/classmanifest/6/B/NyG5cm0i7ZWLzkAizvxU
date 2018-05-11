@@ -1,0 +1,3 @@
+0
+EndsWithFilter_php_5c4e4b7b7fd848782acc8c91f75288fa
+a:3:{s:7:"classes";a:1:{s:39:"SilverStripe\ORM\Filters\EndsWithFilter";a:2:{s:7:"extends";a:1:{i:0;s:43:"SilverStripe\ORM\Filters\PartialMatchFilter";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,0 +1,3 @@
+0
+Map_php_298c3dc39a44c97eeed957e392e12ac6
+a:3:{s:7:"classes";a:1:{s:20:"SilverStripe\ORM\Map";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:3:{i:0;s:11:"ArrayAccess";i:1;s:9:"Countable";i:2;s:17:"IteratorAggregate";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

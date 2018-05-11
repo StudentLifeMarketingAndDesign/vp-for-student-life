@@ -1,0 +1,3 @@
+0
+FlysystemAssetStore_php_6d929a0baab5d97c817080f0c507480c
+a:3:{s:7:"classes";a:1:{s:49:"SilverStripe\Assets\Flysystem\FlysystemAssetStore";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:3:{i:0;s:38:"SilverStripe\Assets\Storage\AssetStore";i:1;s:44:"SilverStripe\Assets\Storage\AssetStoreRouter";i:2;s:27:"SilverStripe\Core\Flushable";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

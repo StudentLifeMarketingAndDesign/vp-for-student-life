@@ -1,0 +1,3 @@
+0
+GridFieldSortableRows_php_84a59a13c08b859a5c24a29623bab447
+a:3:{s:7:"classes";a:1:{s:61:"UndefinedOffset\SortableGridField\Forms\GridFieldSortableRows";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:3:{i:0;s:51:"SilverStripe\Forms\GridField\GridField_HTMLProvider";i:1;s:53:"SilverStripe\Forms\GridField\GridField_ActionProvider";i:2;s:54:"SilverStripe\Forms\GridField\GridField_DataManipulator";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,0 +1,3 @@
+0
+DBDatetime_php_24ec9cbc3de3ba0bf7537deb6ba5d425
+a:3:{s:7:"classes";a:1:{s:37:"SilverStripe\ORM\FieldType\DBDatetime";a:2:{s:7:"extends";a:1:{i:0;s:33:"SilverStripe\ORM\FieldType\DBDate";}s:10:"interfaces";a:1:{i:0;s:40:"SilverStripe\View\TemplateGlobalProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

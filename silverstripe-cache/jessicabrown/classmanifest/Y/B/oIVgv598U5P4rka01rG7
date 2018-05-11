@@ -1,0 +1,3 @@
+0
+StaffMemberBlock_php_4a04d376a81eb537b0225d1f11523331
+a:3:{s:7:"classes";a:1:{s:16:"StaffMemberBlock";a:2:{s:7:"extends";a:1:{i:0;s:38:"DNADesign\Elemental\Models\BaseElement";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

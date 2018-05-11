@@ -1,0 +1,3 @@
+0
+TopicHolderSearchBlock_php_005cc30f7be16cdb8be235c7bafaeac7
+a:3:{s:7:"classes";a:1:{s:22:"TopicHolderSearchBlock";a:2:{s:7:"extends";a:1:{i:0;s:38:"DNADesign\Elemental\Models\BaseElement";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

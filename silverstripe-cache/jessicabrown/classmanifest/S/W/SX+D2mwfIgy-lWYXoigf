@@ -1,0 +1,3 @@
+0
+LocalistPageExtension_php_f6c7c8aa2dbd63dc878a6419edf94d4b
+a:3:{s:7:"classes";a:1:{s:21:"LocalistPageExtension";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

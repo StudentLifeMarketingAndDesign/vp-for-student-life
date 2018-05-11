@@ -1,0 +1,3 @@
+0
+CMSSiteTreeFilter_Search_php_9cc3ed91010bcacd379893c3b629c2cf
+a:3:{s:7:"classes";a:1:{s:53:"SilverStripe\CMS\Controllers\CMSSiteTreeFilter_Search";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\CMS\Controllers\CMSSiteTreeFilter";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

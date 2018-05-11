@@ -1,0 +1,3 @@
+0
+PurifierHTMLCleaner_php_aa5a019bc1a1c2104eb0d5dcf8a448cc
+a:3:{s:7:"classes";a:1:{s:45:"SilverStripe\View\Parsers\PurifierHTMLCleaner";a:2:{s:7:"extends";a:1:{i:0;s:37:"SilverStripe\View\Parsers\HTMLCleaner";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

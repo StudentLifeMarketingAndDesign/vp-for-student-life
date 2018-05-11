@@ -1,0 +1,3 @@
+0
+LandingPageSection_php_69151d89833b17f6341c45871ea5ede4
+a:3:{s:7:"classes";a:1:{s:18:"LandingPageSection";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\ORM\DataObject";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

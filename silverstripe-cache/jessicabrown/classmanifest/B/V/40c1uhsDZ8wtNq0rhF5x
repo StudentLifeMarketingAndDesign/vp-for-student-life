@@ -1,0 +1,3 @@
+0
+HomePageBackgroundFeature_php_e86dce73597f261a1435a3cf6db0dd14
+a:3:{s:7:"classes";a:1:{s:25:"HomePageBackgroundFeature";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\ORM\DataObject";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

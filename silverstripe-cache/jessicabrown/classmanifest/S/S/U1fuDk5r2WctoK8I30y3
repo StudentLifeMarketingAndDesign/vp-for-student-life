@@ -1,0 +1,3 @@
+0
+MySQLSchemaManager_php_94dcb56ad27326aee243b02393031b2a
+a:3:{s:7:"classes";a:1:{s:43:"SilverStripe\ORM\Connect\MySQLSchemaManager";a:2:{s:7:"extends";a:1:{i:0;s:40:"SilverStripe\ORM\Connect\DBSchemaManager";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,0 +1,3 @@
+0
+Email_php_fcef00e29b47a9be1417eef2d2f9e385
+a:3:{s:7:"classes";a:1:{s:32:"SilverStripe\Control\Email\Email";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\View\ViewableData";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

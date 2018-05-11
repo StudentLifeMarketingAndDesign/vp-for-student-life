@@ -1,0 +1,3 @@
+0
+ReportAdmin_php_5958410321f218cbd49e89ddea64cb72
+a:3:{s:7:"classes";a:1:{s:32:"SilverStripe\Reports\ReportAdmin";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\Admin\LeftAndMain";}s:10:"interfaces";a:1:{i:0;s:40:"SilverStripe\Security\PermissionProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

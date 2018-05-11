@@ -1,0 +1,3 @@
+0
+DefaultAdminService_php_6a1186e5d03b457901d6012553427a41
+a:3:{s:7:"classes";a:1:{s:41:"SilverStripe\Security\DefaultAdminService";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

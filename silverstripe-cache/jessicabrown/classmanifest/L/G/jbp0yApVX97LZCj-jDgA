@@ -1,0 +1,3 @@
+0
+CMSMain_php_943924b1dbfbd17e52ac85f66334e825
+a:3:{s:7:"classes";a:1:{s:36:"SilverStripe\CMS\Controllers\CMSMain";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\Admin\LeftAndMain";}s:10:"interfaces";a:2:{i:0;s:44:"SilverStripe\CMS\Model\CurrentPageIdentifier";i:1;s:40:"SilverStripe\Security\PermissionProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

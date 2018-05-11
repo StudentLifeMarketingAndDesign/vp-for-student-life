@@ -1,0 +1,3 @@
+0
+AuthenticationHandler_php_4a978649ce8eedf60188c8b690c1dcde
+a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:43:"SilverStripe\Security\AuthenticationHandler";a:1:{s:7:"extends";a:1:{i:0;s:35:"SilverStripe\Security\IdentityStore";}}}s:6:"traits";a:0:{}}

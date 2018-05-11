@@ -1,0 +1,3 @@
+0
+DisabledTransformation_php_ebaccfd26393b77879c5b189147f0244
+a:3:{s:7:"classes";a:1:{s:41:"SilverStripe\Forms\DisabledTransformation";a:2:{s:7:"extends";a:1:{i:0;s:37:"SilverStripe\Forms\FormTransformation";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}
