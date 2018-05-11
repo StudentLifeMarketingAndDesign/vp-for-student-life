@@ -1,0 +1,3 @@
+0
+HTMLEditorSanitiser_php_990b670d8d8af4285f83d1f40a936d03
+a:3:{s:7:"classes";a:1:{s:49:"SilverStripe\Forms\HTMLEditor\HTMLEditorSanitiser";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

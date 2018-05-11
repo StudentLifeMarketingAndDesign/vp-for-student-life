@@ -1,0 +1,3 @@
+0
+GridFieldMergeAction_php_d9382523fcac09238ede005c0b2ed909
+a:3:{s:7:"classes";a:1:{s:44:"SilverStripe\Blog\Admin\GridFieldMergeAction";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:2:{i:0;s:53:"SilverStripe\Forms\GridField\GridField_ColumnProvider";i:1;s:53:"SilverStripe\Forms\GridField\GridField_ActionProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

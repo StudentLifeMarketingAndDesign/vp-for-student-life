@@ -1,0 +1,3 @@
+0
+GridFieldCategorisationConfig_php_615984d2f5bd01b45a17ad770f5bb246
+a:3:{s:7:"classes";a:1:{s:53:"SilverStripe\Blog\Admin\GridFieldCategorisationConfig";a:2:{s:7:"extends";a:1:{i:0;s:57:"SilverStripe\Forms\GridField\GridFieldConfig_RecordEditor";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,0 +1,3 @@
+0
+TestState_php_73adea16001df211a9675179b93b0421
+a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:32:"SilverStripe\Dev\State\TestState";a:1:{s:7:"extends";a:1:{i:0;s:25:"SilverStripe\Dev\TestOnly";}}}s:6:"traits";a:0:{}}

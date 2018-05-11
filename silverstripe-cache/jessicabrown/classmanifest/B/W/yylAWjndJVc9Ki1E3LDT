@@ -1,0 +1,3 @@
+0
+Versioned_php_f15f1042ed0aaab2160ee9d2187d1a87
+a:3:{s:7:"classes";a:1:{s:32:"SilverStripe\Versioned\Versioned";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:2:{i:0;s:40:"SilverStripe\View\TemplateGlobalProvider";i:1;s:28:"SilverStripe\Core\Resettable";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

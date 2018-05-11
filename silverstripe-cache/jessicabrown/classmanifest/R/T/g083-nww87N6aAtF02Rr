@@ -1,0 +1,3 @@
+0
+ErrorControlChain_php_3cc8e9bf6e100e17e8693297b8049bed
+a:3:{s:7:"classes";a:1:{s:43:"SilverStripe\Core\Startup\ErrorControlChain";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

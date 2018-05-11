@@ -1,0 +1,3 @@
+0
+PageController_php_accf8c53de3843bc60da66dad81f6259
+a:3:{s:7:"classes";a:1:{s:14:"PageController";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\CMS\Controllers\ContentController";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

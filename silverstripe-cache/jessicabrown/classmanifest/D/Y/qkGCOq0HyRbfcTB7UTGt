@@ -1,0 +1,3 @@
+0
+AddToCampaignHandler_FormAction_php_69a98c4c6d0da38f5d252ffcf4b9285f
+a:3:{s:7:"classes";a:1:{s:58:"SilverStripe\CampaignAdmin\AddToCampaignHandler_FormAction";a:2:{s:7:"extends";a:1:{i:0;s:29:"SilverStripe\Forms\FormAction";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

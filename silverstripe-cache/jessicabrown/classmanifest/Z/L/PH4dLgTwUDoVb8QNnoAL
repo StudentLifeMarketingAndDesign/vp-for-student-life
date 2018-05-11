@@ -1,0 +1,3 @@
+0
+PaginatedQueryCreator_php_2bc30f9c19348e469567bf0ba4013531
+a:3:{s:7:"classes";a:1:{s:53:"SilverStripe\GraphQL\Pagination\PaginatedQueryCreator";a:2:{s:7:"extends";a:1:{i:0;s:33:"SilverStripe\GraphQL\QueryCreator";}s:10:"interfaces";a:1:{i:0;s:38:"SilverStripe\GraphQL\OperationResolver";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

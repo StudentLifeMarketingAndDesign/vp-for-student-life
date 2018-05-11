@@ -1,0 +1,3 @@
+0
+ArrayTypeParser_php_237cd430248bb10dac65ad3229852408
+a:3:{s:7:"classes";a:1:{s:53:"SilverStripe\GraphQL\Scaffolding\Util\ArrayTypeParser";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:63:"SilverStripe\GraphQL\Scaffolding\Interfaces\TypeParserInterface";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,0 +1,3 @@
+0
+HasRequestHandler_php_87441d2c4f8097dda92854c683fdedec
+a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:38:"SilverStripe\Control\HasRequestHandler";a:1:{s:7:"extends";a:0:{}}}s:6:"traits";a:0:{}}

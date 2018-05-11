@@ -1,0 +1,3 @@
+0
+FileFormFactory_php_d7039eb52e1eed30e30516fe1395f91d
+a:3:{s:7:"classes";a:1:{s:45:"SilverStripe\AssetAdmin\Forms\FileFormFactory";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\AssetAdmin\Forms\AssetFormFactory";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

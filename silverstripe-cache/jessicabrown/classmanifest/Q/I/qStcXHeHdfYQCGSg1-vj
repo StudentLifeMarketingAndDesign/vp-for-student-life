@@ -1,0 +1,3 @@
+0
+AllowedHostsMiddleware_php_a4e632cbee67981b5506501887a731e1
+a:3:{s:7:"classes";a:1:{s:54:"SilverStripe\Control\Middleware\AllowedHostsMiddleware";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:46:"SilverStripe\Control\Middleware\HTTPMiddleware";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

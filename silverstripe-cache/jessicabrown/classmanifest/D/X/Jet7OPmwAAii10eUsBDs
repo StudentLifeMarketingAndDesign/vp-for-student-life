@@ -1,0 +1,3 @@
+0
+SAMLHelper_php_45ef1baab3d7ee5e7045266cd03d9b8b
+a:3:{s:7:"classes";a:1:{s:36:"SilverStripe\SAML\Helpers\SAMLHelper";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

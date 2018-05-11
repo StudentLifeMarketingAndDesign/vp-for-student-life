@@ -1,0 +1,3 @@
+0
+TestSession_STResponseWrapper_php_db4a8ae6cba54c0d0ad4dd7be13db3cb
+a:3:{s:7:"classes";a:1:{s:46:"SilverStripe\Dev\TestSession_STResponseWrapper";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

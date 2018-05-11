@@ -1,0 +1,3 @@
+0
+UnPublishHandler_php_4d9d5213a444a5f84567a2e8bdd77fa4
+a:3:{s:7:"classes";a:1:{s:47:"Colymba\BulkManager\BulkAction\UnPublishHandler";a:2:{s:7:"extends";a:1:{i:0;s:38:"Colymba\BulkManager\BulkAction\Handler";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

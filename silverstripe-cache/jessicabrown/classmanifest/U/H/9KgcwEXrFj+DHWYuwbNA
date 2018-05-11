@@ -1,0 +1,3 @@
+0
+TileGridBlock_php_db50671ff03df99e955d791ea3cbf3d3
+a:3:{s:7:"classes";a:1:{s:13:"TileGridBlock";a:2:{s:7:"extends";a:1:{i:0;s:38:"DNADesign\Elemental\Models\BaseElement";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

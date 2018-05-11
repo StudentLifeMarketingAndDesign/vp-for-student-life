@@ -1,0 +1,3 @@
+0
+ResourceURLGenerator_php_f84b98592f6d75b7a788a532fe99d937
+a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:47:"SilverStripe\Core\Manifest\ResourceURLGenerator";a:1:{s:7:"extends";a:0:{}}}s:6:"traits";a:0:{}}

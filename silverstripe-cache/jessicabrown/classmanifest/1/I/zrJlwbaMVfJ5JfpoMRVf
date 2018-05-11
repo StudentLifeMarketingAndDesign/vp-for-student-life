@@ -1,0 +1,3 @@
+0
+InterventionBackend_php_3941604595e64fdd908eaf57c9236400
+a:3:{s:7:"classes";a:1:{s:39:"SilverStripe\Assets\InterventionBackend";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:2:{i:0;s:33:"SilverStripe\Assets\Image_Backend";i:1;s:27:"SilverStripe\Core\Flushable";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

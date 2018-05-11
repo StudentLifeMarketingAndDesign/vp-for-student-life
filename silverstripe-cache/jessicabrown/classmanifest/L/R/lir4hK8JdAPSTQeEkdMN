@@ -1,0 +1,3 @@
+0
+SSViewer_DataPresenter_php_bee00d8b2f65b8ce766eb9934564f9a2
+a:3:{s:7:"classes";a:1:{s:40:"SilverStripe\View\SSViewer_DataPresenter";a:2:{s:7:"extends";a:1:{i:0;s:32:"SilverStripe\View\SSViewer_Scope";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

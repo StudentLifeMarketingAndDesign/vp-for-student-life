@@ -1,0 +1,3 @@
+0
+ConfigLoader_php_29b49e2300649a578800087d2f50a856
+a:3:{s:7:"classes";a:1:{s:37:"SilverStripe\Core\Config\ConfigLoader";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

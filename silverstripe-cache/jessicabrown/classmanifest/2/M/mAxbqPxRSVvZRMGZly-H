@@ -1,0 +1,3 @@
+0
+SAMLConfiguration_php_18df469fee2401206da31ced91df749c
+a:3:{s:7:"classes";a:1:{s:44:"SilverStripe\SAML\Services\SAMLConfiguration";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

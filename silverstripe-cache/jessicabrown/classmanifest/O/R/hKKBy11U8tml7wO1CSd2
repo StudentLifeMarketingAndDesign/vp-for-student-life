@@ -1,0 +1,3 @@
+0
+TypeCreator_php_d6daf7705e222fdd6dbd7544f9c05b25
+a:3:{s:7:"classes";a:1:{s:32:"SilverStripe\GraphQL\TypeCreator";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

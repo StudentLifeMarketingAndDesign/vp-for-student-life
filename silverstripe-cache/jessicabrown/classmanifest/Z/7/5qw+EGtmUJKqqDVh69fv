@@ -1,0 +1,3 @@
+0
+ReportPageController_php_76d2b87ba2374aa1ed33add644804e01
+a:3:{s:7:"classes";a:1:{s:20:"ReportPageController";a:2:{s:7:"extends";a:1:{i:0;s:42:"SilverStripe\Blog\Model\BlogPostController";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

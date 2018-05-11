@@ -1,0 +1,3 @@
+0
+SQLInsert_php_e5db1daf84914020dba265b90b961a2a
+a:3:{s:7:"classes";a:1:{s:34:"SilverStripe\ORM\Queries\SQLInsert";a:2:{s:7:"extends";a:1:{i:0;s:38:"SilverStripe\ORM\Queries\SQLExpression";}s:10:"interfaces";a:1:{i:0;s:43:"SilverStripe\ORM\Queries\SQLWriteExpression";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

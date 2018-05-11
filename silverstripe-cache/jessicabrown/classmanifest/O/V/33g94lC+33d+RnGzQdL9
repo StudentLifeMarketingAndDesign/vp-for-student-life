@@ -1,0 +1,3 @@
+0
+AssetControlExtension_php_dbe2a739310b4fe3e17a5c957babff40
+a:3:{s:7:"classes";a:1:{s:41:"SilverStripe\Assets\AssetControlExtension";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

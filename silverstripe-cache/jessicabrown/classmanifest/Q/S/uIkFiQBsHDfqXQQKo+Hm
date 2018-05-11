@@ -1,0 +1,3 @@
+0
+GridFieldPaginator_php_ef12752d0c0fb0c5eec3b6d4e67a102e
+a:3:{s:7:"classes";a:1:{s:47:"SilverStripe\Forms\GridField\GridFieldPaginator";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:3:{i:0;s:51:"SilverStripe\Forms\GridField\GridField_HTMLProvider";i:1;s:54:"SilverStripe\Forms\GridField\GridField_DataManipulator";i:2;s:53:"SilverStripe\Forms\GridField\GridField_ActionProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,0 +1,3 @@
+0
+BrokenVirtualPagesReport_php_b0cd23401800b52aa371f6d8e8221d4d
+a:3:{s:7:"classes";a:1:{s:49:"SilverStripe\CMS\Reports\BrokenVirtualPagesReport";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\Reports\Report";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

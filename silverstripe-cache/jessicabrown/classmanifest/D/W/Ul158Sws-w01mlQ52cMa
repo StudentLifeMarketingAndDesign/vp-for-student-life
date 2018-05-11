@@ -1,0 +1,3 @@
+0
+SSTemplateParseException_php_c73e950582d288b3eaf8c3432efc9617
+a:3:{s:7:"classes";a:1:{s:42:"SilverStripe\View\SSTemplateParseException";a:2:{s:7:"extends";a:1:{i:0;s:9:"Exception";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

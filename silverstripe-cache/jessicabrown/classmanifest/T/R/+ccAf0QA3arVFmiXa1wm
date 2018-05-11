@@ -1,0 +1,3 @@
+0
+GreaterThanFilter_php_8af951f68296b2ac40e40da71ebfe9dc
+a:3:{s:7:"classes";a:1:{s:42:"SilverStripe\ORM\Filters\GreaterThanFilter";a:2:{s:7:"extends";a:1:{i:0;s:41:"SilverStripe\ORM\Filters\ComparisonFilter";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

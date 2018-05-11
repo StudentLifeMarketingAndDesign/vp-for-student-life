@@ -1,0 +1,3 @@
+0
+UpcomingEventsBlock_php_66083f68cd0a4b136e3ae8fece8cb3a0
+a:3:{s:7:"classes";a:1:{s:19:"UpcomingEventsBlock";a:2:{s:7:"extends";a:1:{i:0;s:38:"DNADesign\Elemental\Models\BaseElement";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

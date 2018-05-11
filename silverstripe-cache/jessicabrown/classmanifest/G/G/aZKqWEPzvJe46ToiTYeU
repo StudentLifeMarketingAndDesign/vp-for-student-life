@@ -1,0 +1,3 @@
+0
+DBField_php_4ad99e7a24517a2e5ef001d8ed969a54
+a:3:{s:7:"classes";a:1:{s:34:"SilverStripe\ORM\FieldType\DBField";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\View\ViewableData";}s:10:"interfaces";a:1:{i:0;s:38:"SilverStripe\ORM\FieldType\DBIndexable";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,0 +1,3 @@
+0
+AddToCampaignValidator_php_6fd9075c516244a7426b7cb6982caa16
+a:3:{s:7:"classes";a:1:{s:49:"SilverStripe\CampaignAdmin\AddToCampaignValidator";a:2:{s:7:"extends";a:1:{i:0;s:28:"SilverStripe\Forms\Validator";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

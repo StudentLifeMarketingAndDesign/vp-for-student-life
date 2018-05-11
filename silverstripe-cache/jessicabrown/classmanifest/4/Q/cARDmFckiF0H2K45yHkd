@@ -1,0 +1,3 @@
+0
+CheckboxSetField_php_fdf7a74bea11319ad4a12e12002c18fe
+a:3:{s:7:"classes";a:1:{s:35:"SilverStripe\Forms\CheckboxSetField";a:2:{s:7:"extends";a:1:{i:0;s:35:"SilverStripe\Forms\MultiSelectField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

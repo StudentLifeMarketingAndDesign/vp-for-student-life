@@ -1,0 +1,3 @@
+0
+DBCurrency_php_13be3d50ae3929d43954ce0da7b16f03
+a:3:{s:7:"classes";a:1:{s:37:"SilverStripe\ORM\FieldType\DBCurrency";a:2:{s:7:"extends";a:1:{i:0;s:36:"SilverStripe\ORM\FieldType\DBDecimal";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

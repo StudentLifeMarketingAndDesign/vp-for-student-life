@@ -1,0 +1,3 @@
+0
+BlogArchiveWidget_php_9a646931767ceef2d681877f247b86e4
+a:3:{s:7:"classes";a:1:{s:43:"SilverStripe\Blog\Widgets\BlogArchiveWidget";a:2:{s:7:"extends";a:1:{i:0;s:33:"SilverStripe\Widgets\Model\Widget";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}
