@@ -5,23 +5,28 @@
 	"require": {
 		"php": ">=5.3.2",
 		"md/division-project": "2.0.x"
-		
+
 
 	},
 	"config": {
-		"process-timeout": 600	
+		"process-timeout": 600
 	},
-	
-	
+
+
     "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/division-project"
-      
+
         },
         {
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/division-bar"
+
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/StudentLifeMarketingAndDesign/division-analytics"
 
         },
         {
@@ -45,6 +50,14 @@
         {
              "type": "vcs",
              "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-betternavigator"
+        },
+        {
+             "type": "vcs",
+             "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-blog"
+        },
+        {
+             "type": "vcs",
+             "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp"
         }
     ]
 

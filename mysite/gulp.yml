@@ -19,7 +19,7 @@ PATHS:
   projectName: "division-project-4"
   theme: "../themes/division-subtheme"
   # Path to theme folder
-  dist: "dist"  
+  dist: "dist"
   # Paths to static assets that aren't images, CSS, or JavaScript
   assets:
     - "src/**/*"
@@ -45,7 +45,7 @@ PATHS:
     # - "src/scripts/lib/foundation/foundation.dropdownMenu.js"
     # - "src/scripts/lib/foundation/foundation.equalizer.js"
     - "src/scripts/lib/foundation/foundation.interchange.js"
-    # - "src/scripts/lib/foundation/foundation.magellan.js"
+    - "src/scripts/lib/foundation/foundation.magellan.js"
     # - "src/scripts/lib/foundation/foundation.offcanvas.js"
     # - "src/scripts/lib/foundation/foundation.orbit.js"
     # - "src/scripts/lib/foundation/foundation.responsiveMenu.js"
