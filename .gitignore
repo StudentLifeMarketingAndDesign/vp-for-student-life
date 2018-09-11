@@ -1,6 +1,5 @@
 .sass-cache/*
 *.scssc
-html/*
 .DS_Store
 dashboard/
 vendor/
@@ -69,3 +68,10 @@ nocaptcha.yml
 nocaptcha
 addressable
 linkable
+division-analytics/
+youtubefield/
+silverstripe-amp/
+sortableuploadfield/
+silverstripe-versioneddataobjects/
+codeeditorfield/
+resources
