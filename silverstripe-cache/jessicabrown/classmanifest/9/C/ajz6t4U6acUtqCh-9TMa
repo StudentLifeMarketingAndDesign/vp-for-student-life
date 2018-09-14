@@ -1,3 +1,0 @@
-0
-UserFormsColumnCleanTask_php_1225ffd17f194bf2c0354d5334211b26
-a:3:{s:7:"classes";a:1:{s:52:"SilverStripe\UserForms\Task\UserFormsColumnCleanTask";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\Dev\MigrationTask";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

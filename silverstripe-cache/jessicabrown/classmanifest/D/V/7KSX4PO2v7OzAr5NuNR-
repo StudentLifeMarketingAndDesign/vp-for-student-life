@@ -1,3 +1,0 @@
-0
-HTTPResponse_Exception_php_16768c1e1da42c386abcdbe467728e09
-a:3:{s:7:"classes";a:1:{s:43:"SilverStripe\Control\HTTPResponse_Exception";a:2:{s:7:"extends";a:1:{i:0;s:9:"Exception";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

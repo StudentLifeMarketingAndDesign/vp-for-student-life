@@ -1,3 +1,0 @@
-0
-ElementalArea_php_637be9ee82da94f4573983a08282cbb5
-a:3:{s:7:"classes";a:1:{s:40:"DNADesign\Elemental\Models\ElementalArea";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\ORM\DataObject";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

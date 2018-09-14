@@ -1,3 +1,0 @@
-0
-SAMLLoginForm_php_08554258e6a2754a5b64dd7b58760a20
-a:3:{s:7:"classes";a:1:{s:46:"SilverStripe\SAML\Authenticators\SAMLLoginForm";a:2:{s:7:"extends";a:1:{i:0;s:31:"SilverStripe\Security\LoginForm";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-Report_php_f3352b83b67f6e87812dc8b10b476b8b
-a:3:{s:7:"classes";a:1:{s:27:"SilverStripe\Reports\Report";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\View\ViewableData";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

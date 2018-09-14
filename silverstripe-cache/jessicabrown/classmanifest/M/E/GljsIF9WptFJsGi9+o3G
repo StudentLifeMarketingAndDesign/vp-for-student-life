@@ -1,3 +1,0 @@
-0
-HasManyList_php_a580edb39678ff4e9ac42ee1f8ea06d8
-a:3:{s:7:"classes";a:1:{s:28:"SilverStripe\ORM\HasManyList";a:2:{s:7:"extends";a:1:{i:0;s:29:"SilverStripe\ORM\RelationList";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

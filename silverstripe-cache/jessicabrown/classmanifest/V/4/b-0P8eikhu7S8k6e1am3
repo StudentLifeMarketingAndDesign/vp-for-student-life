@@ -1,3 +1,0 @@
-0
-HTTPStreamResponse_php_9114891da9eb8bb95799498b823acc45
-a:3:{s:7:"classes";a:1:{s:39:"SilverStripe\Control\HTTPStreamResponse";a:2:{s:7:"extends";a:1:{i:0;s:33:"SilverStripe\Control\HTTPResponse";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

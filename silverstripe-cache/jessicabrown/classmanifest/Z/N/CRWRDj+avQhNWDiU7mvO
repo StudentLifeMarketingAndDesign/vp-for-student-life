@@ -1,3 +1,0 @@
-0
-PasswordEncryptor_PHPHash_php_69208f21f2ffcfc0dbff7ff4b65ddcab
-a:3:{s:7:"classes";a:1:{s:47:"SilverStripe\Security\PasswordEncryptor_PHPHash";a:2:{s:7:"extends";a:1:{i:0;s:39:"SilverStripe\Security\PasswordEncryptor";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

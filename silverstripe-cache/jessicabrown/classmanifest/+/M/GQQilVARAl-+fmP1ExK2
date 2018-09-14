@@ -1,3 +1,0 @@
-0
-BulkUploader_php_e7c9a30d512b16de60fe85726b81bf08
-a:3:{s:7:"classes";a:1:{s:31:"Colymba\BulkUpload\BulkUploader";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:2:{i:0;s:51:"SilverStripe\Forms\GridField\GridField_HTMLProvider";i:1;s:49:"SilverStripe\Forms\GridField\GridField_URLHandler";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-DeleteAssets_php_8b6f37661617fd1b5dc60640fcc0301d
-a:3:{s:7:"classes";a:1:{s:48:"SilverStripe\AssetAdmin\BatchAction\DeleteAssets";a:2:{s:7:"extends";a:1:{i:0;s:33:"SilverStripe\Admin\CMSBatchAction";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

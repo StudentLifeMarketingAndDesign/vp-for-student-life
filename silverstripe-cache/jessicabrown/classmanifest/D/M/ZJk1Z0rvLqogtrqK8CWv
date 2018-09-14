@@ -1,3 +1,0 @@
-0
-LocalistImage_php_e48867a7f2aae322ec945fefd0eb1154
-a:3:{s:7:"classes";a:1:{s:13:"LocalistImage";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\ORM\DataObject";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

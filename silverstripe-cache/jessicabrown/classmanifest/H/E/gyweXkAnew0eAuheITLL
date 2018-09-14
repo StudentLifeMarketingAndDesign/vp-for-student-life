@@ -1,3 +1,0 @@
-0
-BlogPostController_php_ffbc574c47f5bfc19520b665a9fec0c5
-a:3:{s:7:"classes";a:1:{s:42:"SilverStripe\Blog\Model\BlogPostController";a:2:{s:7:"extends";a:1:{i:0;s:14:"PageController";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-GridFieldDetailFormItemRequestExtension_php_7ac75468a8a839024c7ec85039ffca7e
-a:3:{s:7:"classes";a:1:{s:70:"DNADesign\Elemental\Extensions\GridFieldDetailFormItemRequestExtension";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\Core\Extension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

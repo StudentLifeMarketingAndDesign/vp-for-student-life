@@ -1,3 +1,0 @@
-0
-PasswordField_php_11947519c7d3166916f2a177a1d015dc
-a:3:{s:7:"classes";a:1:{s:32:"SilverStripe\Forms\PasswordField";a:2:{s:7:"extends";a:1:{i:0;s:28:"SilverStripe\Forms\TextField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

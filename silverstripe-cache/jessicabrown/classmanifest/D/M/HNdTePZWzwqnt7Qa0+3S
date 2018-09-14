@@ -1,3 +1,0 @@
-0
-UploadField_php_8f7286a0a95cb491ce23d346fc55b6a6
-a:3:{s:7:"classes";a:1:{s:41:"SilverStripe\AssetAdmin\Forms\UploadField";a:2:{s:7:"extends";a:1:{i:0;s:28:"SilverStripe\Forms\FormField";}s:10:"interfaces";a:1:{i:0;s:34:"SilverStripe\Forms\FileHandleField";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

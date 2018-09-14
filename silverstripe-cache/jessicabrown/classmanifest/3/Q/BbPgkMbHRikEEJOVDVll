@@ -1,3 +1,0 @@
-0
-UpdateFileMutationCreator_php_a69ebeb4d9191bb93bff66832b132634
-a:3:{s:7:"classes";a:1:{s:57:"SilverStripe\AssetAdmin\GraphQL\UpdateFileMutationCreator";a:2:{s:7:"extends";a:1:{i:0;s:36:"SilverStripe\GraphQL\MutationCreator";}s:10:"interfaces";a:1:{i:0;s:38:"SilverStripe\GraphQL\OperationResolver";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

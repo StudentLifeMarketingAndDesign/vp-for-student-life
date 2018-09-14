@@ -1,3 +1,0 @@
-0
-DBIndexable_php_821e4bc7fc8b425f4bf231d598111528
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:38:"SilverStripe\ORM\FieldType\DBIndexable";a:1:{s:7:"extends";a:0:{}}}s:6:"traits";a:0:{}}

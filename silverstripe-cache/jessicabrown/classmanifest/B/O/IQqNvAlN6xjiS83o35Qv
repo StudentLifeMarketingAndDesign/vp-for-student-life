@@ -1,3 +1,0 @@
-0
-SSViewer_BasicIteratorSupport_php_837a824210925c50a15f51fd37451aa5
-a:3:{s:7:"classes";a:1:{s:47:"SilverStripe\View\SSViewer_BasicIteratorSupport";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:42:"SilverStripe\View\TemplateIteratorProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

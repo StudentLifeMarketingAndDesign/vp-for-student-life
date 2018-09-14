@@ -1,3 +1,0 @@
-0
-BlogPostNotifications_php_71abad7c5d92a14d3edef8ee10f58fc1
-a:3:{s:7:"classes";a:1:{s:45:"SilverStripe\Blog\Model\BlogPostNotifications";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

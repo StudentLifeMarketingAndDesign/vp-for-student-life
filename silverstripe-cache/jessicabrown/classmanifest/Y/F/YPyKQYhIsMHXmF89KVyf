@@ -1,3 +1,0 @@
-0
-ValidationException_php_742b5c71f7ea5a2a4675abcd66307e84
-a:3:{s:7:"classes";a:1:{s:36:"SilverStripe\ORM\ValidationException";a:2:{s:7:"extends";a:1:{i:0;s:9:"Exception";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

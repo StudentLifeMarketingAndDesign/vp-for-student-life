@@ -1,3 +1,0 @@
-0
-RequestAuthenticationHandler_php_7a468d1e2b78bd69e93338543960d895
-a:3:{s:7:"classes";a:1:{s:50:"SilverStripe\Security\RequestAuthenticationHandler";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:43:"SilverStripe\Security\AuthenticationHandler";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

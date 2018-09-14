@@ -1,3 +1,0 @@
-0
-AssetAdapter_php_d64ccda38dfba0feadae5504f74635a8
-a:3:{s:7:"classes";a:1:{s:42:"SilverStripe\Assets\Flysystem\AssetAdapter";a:2:{s:7:"extends";a:1:{i:0;s:30:"League\Flysystem\Adapter\Local";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

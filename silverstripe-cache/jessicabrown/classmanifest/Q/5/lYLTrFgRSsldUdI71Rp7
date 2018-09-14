@@ -1,3 +1,0 @@
-0
-DataObjectInterfaceTypeCreator_php_4b252ad9c0bb030acc5db20c7c304e5f
-a:3:{s:7:"classes";a:1:{s:51:"SilverStripe\GraphQL\DataObjectInterfaceTypeCreator";a:2:{s:7:"extends";a:1:{i:0;s:41:"SilverStripe\GraphQL\InterfaceTypeCreator";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

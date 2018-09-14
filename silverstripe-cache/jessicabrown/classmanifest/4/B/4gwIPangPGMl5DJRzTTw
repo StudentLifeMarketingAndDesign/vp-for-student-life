@@ -1,3 +1,0 @@
-0
-DBForeignKey_php_01947fda60a2f63a06fd7b7a66bf782d
-a:3:{s:7:"classes";a:1:{s:39:"SilverStripe\ORM\FieldType\DBForeignKey";a:2:{s:7:"extends";a:1:{i:0;s:32:"SilverStripe\ORM\FieldType\DBInt";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

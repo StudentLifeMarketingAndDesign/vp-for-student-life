@@ -1,3 +1,0 @@
-0
-MemberImportForm_php_60910b823a27e282db5ae531e281fd23
-a:3:{s:7:"classes";a:1:{s:35:"SilverStripe\Admin\MemberImportForm";a:2:{s:7:"extends";a:1:{i:0;s:23:"SilverStripe\Forms\Form";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

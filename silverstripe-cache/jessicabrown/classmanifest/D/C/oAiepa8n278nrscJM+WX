@@ -1,3 +1,0 @@
-0
-AssetNameGenerator_php_b139dc34593ebd38a3a46c5737ed1105
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:46:"SilverStripe\Assets\Storage\AssetNameGenerator";a:1:{s:7:"extends";a:1:{i:0;s:8:"Iterator";}}}s:6:"traits";a:0:{}}

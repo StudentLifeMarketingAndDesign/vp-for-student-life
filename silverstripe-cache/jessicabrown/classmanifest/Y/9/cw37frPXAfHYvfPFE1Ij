@@ -1,3 +1,0 @@
-0
-ExtendedElementalAreas_php_75cae9c19b1ac6d0b0e26d2428992a6b
-a:3:{s:7:"classes";a:1:{s:22:"ExtendedElementalAreas";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

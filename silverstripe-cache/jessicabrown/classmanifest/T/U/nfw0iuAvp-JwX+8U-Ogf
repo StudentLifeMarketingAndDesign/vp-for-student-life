@@ -1,3 +1,0 @@
-0
-RateLimiter_php_82f600531fd121f2f0f7c0524b3a6133
-a:3:{s:7:"classes";a:1:{s:35:"SilverStripe\Core\Cache\RateLimiter";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

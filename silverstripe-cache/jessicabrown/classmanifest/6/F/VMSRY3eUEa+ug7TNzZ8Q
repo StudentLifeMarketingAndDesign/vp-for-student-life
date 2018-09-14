@@ -1,3 +1,0 @@
-0
-BlogTagsCloudWidgetController_php_a3640a24c4b761001016b4c461451819
-a:3:{s:7:"classes";a:1:{s:55:"SilverStripe\Blog\Widgets\BlogTagsCloudWidgetController";a:2:{s:7:"extends";a:1:{i:0;s:43:"SilverStripe\Widgets\Model\WidgetController";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

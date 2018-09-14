@@ -1,3 +1,0 @@
-0
-LoginAttempt_php_3698fde7e647ab495793b7f0a7bcafc0
-a:3:{s:7:"classes";a:1:{s:34:"SilverStripe\Security\LoginAttempt";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\ORM\DataObject";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

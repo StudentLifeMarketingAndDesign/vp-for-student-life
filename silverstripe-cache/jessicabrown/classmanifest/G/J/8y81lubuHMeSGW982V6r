@@ -1,3 +1,0 @@
-0
-EmbedBlock_php_7a0174402e45ac4acfa37c745cf3d1a2
-a:3:{s:7:"classes";a:1:{s:36:"MD\DivisionProject\Blocks\EmbedBlock";a:2:{s:7:"extends";a:1:{i:0;s:38:"DNADesign\Elemental\Models\BaseElement";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

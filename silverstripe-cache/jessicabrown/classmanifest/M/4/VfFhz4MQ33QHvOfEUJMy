@@ -1,3 +1,0 @@
-0
-PermissionCheckboxSetField_php_9ff0fc1a1d453d4587cf5dd6b63bcf91
-a:3:{s:7:"classes";a:1:{s:48:"SilverStripe\Security\PermissionCheckboxSetField";a:2:{s:7:"extends";a:1:{i:0;s:28:"SilverStripe\Forms\FormField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

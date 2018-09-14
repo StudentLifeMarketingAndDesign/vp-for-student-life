@@ -1,3 +1,0 @@
-0
-DBEnum_php_1b8563a1fd51815e877673c439e5add1
-a:3:{s:7:"classes";a:1:{s:33:"SilverStripe\ORM\FieldType\DBEnum";a:2:{s:7:"extends";a:1:{i:0;s:35:"SilverStripe\ORM\FieldType\DBString";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

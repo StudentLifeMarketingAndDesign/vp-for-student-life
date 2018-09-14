@@ -1,3 +1,0 @@
-0
-Controller_php_df088c485701eb0a9666e3e6bf67fa3e
-a:3:{s:7:"classes";a:1:{s:31:"SilverStripe\Control\Controller";a:2:{s:7:"extends";a:1:{i:0;s:35:"SilverStripe\Control\RequestHandler";}s:10:"interfaces";a:1:{i:0;s:40:"SilverStripe\View\TemplateGlobalProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

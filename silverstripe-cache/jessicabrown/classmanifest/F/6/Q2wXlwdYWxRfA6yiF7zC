@@ -1,3 +1,0 @@
-0
-UserFormsCheckboxSetField_php_d23b9b159a3fbd18e3c35a36b1d71e66
-a:3:{s:7:"classes";a:1:{s:58:"SilverStripe\UserForms\FormField\UserFormsCheckboxSetField";a:2:{s:7:"extends";a:1:{i:0;s:35:"SilverStripe\Forms\CheckboxSetField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-QueryScaffolder_php_75a3bfdfc88f8dcd99f94dfa227a067e
-a:3:{s:7:"classes";a:1:{s:60:"SilverStripe\GraphQL\Scaffolding\Scaffolders\QueryScaffolder";a:2:{s:7:"extends";a:1:{i:0;s:64:"SilverStripe\GraphQL\Scaffolding\Scaffolders\OperationScaffolder";}s:10:"interfaces";a:2:{i:0;s:67:"SilverStripe\GraphQL\Scaffolding\Interfaces\ManagerMutatorInterface";i:1;s:63:"SilverStripe\GraphQL\Scaffolding\Interfaces\ScaffolderInterface";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-ReportsHolderController_php_be1a08aeccd0d34d57de53caee10f6a3
-a:3:{s:7:"classes";a:1:{s:23:"ReportsHolderController";a:2:{s:7:"extends";a:1:{i:0;s:38:"SilverStripe\Blog\Model\BlogController";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

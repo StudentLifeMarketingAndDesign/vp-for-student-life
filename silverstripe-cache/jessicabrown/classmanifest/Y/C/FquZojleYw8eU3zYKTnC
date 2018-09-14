@@ -1,3 +1,0 @@
-0
-CMSSiteTreeFilter_StatusRemovedFromDraftPages_php_4f5b32250b085dd177b00e96c17cba31
-a:3:{s:7:"classes";a:1:{s:74:"SilverStripe\CMS\Controllers\CMSSiteTreeFilter_StatusRemovedFromDraftPages";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\CMS\Controllers\CMSSiteTreeFilter";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

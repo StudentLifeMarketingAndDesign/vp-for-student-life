@@ -1,3 +1,0 @@
-0
-PaginationScaffolder_php_aef378558088c73658ceae99b10d0be5
-a:3:{s:7:"classes";a:1:{s:65:"SilverStripe\GraphQL\Scaffolding\Scaffolders\PaginationScaffolder";a:2:{s:7:"extends";a:1:{i:0;s:53:"SilverStripe\GraphQL\Pagination\PaginatedQueryCreator";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

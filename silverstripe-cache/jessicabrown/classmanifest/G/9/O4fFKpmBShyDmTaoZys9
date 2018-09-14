@@ -1,3 +1,0 @@
-0
-DBText_php_33e9255d848774befcfbb10d0cfe8f7e
-a:3:{s:7:"classes";a:1:{s:33:"SilverStripe\ORM\FieldType\DBText";a:2:{s:7:"extends";a:1:{i:0;s:35:"SilverStripe\ORM\FieldType\DBString";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

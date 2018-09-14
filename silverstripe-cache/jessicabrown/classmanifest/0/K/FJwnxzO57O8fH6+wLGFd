@@ -1,3 +1,0 @@
-0
-FulltextFilter_php_b209cab3f79fb00fe9db83bfcd983257
-a:3:{s:7:"classes";a:1:{s:39:"SilverStripe\ORM\Filters\FulltextFilter";a:2:{s:7:"extends";a:1:{i:0;s:37:"SilverStripe\ORM\Filters\SearchFilter";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

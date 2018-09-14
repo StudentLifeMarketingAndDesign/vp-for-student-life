@@ -1,3 +1,0 @@
-0
-DataObjectScaffolder_php_6340b95f1eda30bf0a02768deb0d7cf8
-a:3:{s:7:"classes";a:1:{s:65:"SilverStripe\GraphQL\Scaffolding\Scaffolders\DataObjectScaffolder";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:3:{i:0;s:67:"SilverStripe\GraphQL\Scaffolding\Interfaces\ManagerMutatorInterface";i:1;s:63:"SilverStripe\GraphQL\Scaffolding\Interfaces\ScaffolderInterface";i:2;s:64:"SilverStripe\GraphQL\Scaffolding\Interfaces\ConfigurationApplier";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-DataObject_php_461dcba9f03540b5d102f1350d6b87be
-a:3:{s:7:"classes";a:1:{s:27:"SilverStripe\ORM\DataObject";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\View\ViewableData";}s:10:"interfaces";a:3:{i:0;s:36:"SilverStripe\ORM\DataObjectInterface";i:1;s:36:"SilverStripe\i18n\i18nEntityProvider";i:2;s:28:"SilverStripe\Core\Resettable";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

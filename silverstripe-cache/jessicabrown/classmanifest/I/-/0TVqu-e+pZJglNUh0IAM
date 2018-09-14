@@ -1,3 +1,0 @@
-0
-GridState_php_227869ca8353c28cc112d3d80978b6d6
-a:3:{s:7:"classes";a:1:{s:38:"SilverStripe\Forms\GridField\GridState";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\Forms\HiddenField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

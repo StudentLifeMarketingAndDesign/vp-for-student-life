@@ -1,3 +1,0 @@
-0
-EditableFieldGroup_php_289f0d85ec3605f74cd3e96e384c3ba8
-a:3:{s:7:"classes";a:1:{s:65:"SilverStripe\UserForms\Model\EditableFormField\EditableFieldGroup";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\UserForms\Model\EditableFormField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

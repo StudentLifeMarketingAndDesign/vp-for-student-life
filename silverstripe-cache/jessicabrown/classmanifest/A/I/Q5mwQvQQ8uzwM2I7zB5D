@@ -1,3 +1,0 @@
-0
-FileSearchFormFactory_php_36507de4093736dc9792c81e0de4e266
-a:3:{s:7:"classes";a:1:{s:51:"SilverStripe\AssetAdmin\Forms\FileSearchFormFactory";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:30:"SilverStripe\Forms\FormFactory";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

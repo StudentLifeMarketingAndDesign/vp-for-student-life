@@ -1,3 +1,0 @@
-0
-FilesystemCacheFactory_php_49c288c38a3091590336451896a9177d
-a:3:{s:7:"classes";a:1:{s:46:"SilverStripe\Core\Cache\FilesystemCacheFactory";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:36:"SilverStripe\Core\Cache\CacheFactory";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

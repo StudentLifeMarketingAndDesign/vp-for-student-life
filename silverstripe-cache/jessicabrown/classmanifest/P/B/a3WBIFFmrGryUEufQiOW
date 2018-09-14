@@ -1,3 +1,0 @@
-0
-PreviewImageField_php_43a45444b285931d0af0e5283bcf2ee0
-a:3:{s:7:"classes";a:1:{s:47:"SilverStripe\AssetAdmin\Forms\PreviewImageField";a:2:{s:7:"extends";a:1:{i:0;s:28:"SilverStripe\Forms\FormField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-ProtectedAdapter_php_6892ca97bbd3c682566792521ae16c8f
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:46:"SilverStripe\Assets\Flysystem\ProtectedAdapter";a:1:{s:7:"extends";a:1:{i:0;s:33:"League\Flysystem\AdapterInterface";}}}s:6:"traits";a:0:{}}

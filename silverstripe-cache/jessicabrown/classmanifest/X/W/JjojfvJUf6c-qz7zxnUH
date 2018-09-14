@@ -1,3 +1,0 @@
-0
-CurrencyField_Readonly_php_8bff97366d26903ab86b6bc38e4d5f86
-a:3:{s:7:"classes";a:1:{s:41:"SilverStripe\Forms\CurrencyField_Readonly";a:2:{s:7:"extends";a:1:{i:0;s:32:"SilverStripe\Forms\ReadonlyField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

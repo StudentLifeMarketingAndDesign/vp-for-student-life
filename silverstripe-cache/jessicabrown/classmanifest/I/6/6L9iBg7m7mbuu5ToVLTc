@@ -1,3 +1,0 @@
-0
-VersionProvider_php_2f69b48433d8e8c9ad2c4e2b84bfa5c0
-a:3:{s:7:"classes";a:1:{s:42:"SilverStripe\Core\Manifest\VersionProvider";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

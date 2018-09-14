@@ -1,3 +1,0 @@
-0
-SchemaScaffolder_php_ce9493b88ce0e9a8e7815be1b2bfde89
-a:3:{s:7:"classes";a:1:{s:61:"SilverStripe\GraphQL\Scaffolding\Scaffolders\SchemaScaffolder";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:67:"SilverStripe\GraphQL\Scaffolding\Interfaces\ManagerMutatorInterface";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-DBFile_php_69762b7e31a1c333ffbeee93281800a7
-a:3:{s:7:"classes";a:1:{s:34:"SilverStripe\Assets\Storage\DBFile";a:2:{s:7:"extends";a:1:{i:0;s:38:"SilverStripe\ORM\FieldType\DBComposite";}s:10:"interfaces";a:2:{i:0;s:42:"SilverStripe\Assets\Storage\AssetContainer";i:1;s:29:"SilverStripe\Assets\Thumbnail";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

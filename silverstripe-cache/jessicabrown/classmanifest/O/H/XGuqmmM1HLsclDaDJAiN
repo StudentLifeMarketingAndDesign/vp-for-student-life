@@ -1,3 +1,0 @@
-0
-GridFieldSiteTreeAddNewButton_php_c8fa5cad60e7c672a00e3c813addb8c5
-a:3:{s:7:"classes";a:1:{s:59:"SilverStripe\Lumberjack\Forms\GridFieldSiteTreeAddNewButton";a:2:{s:7:"extends";a:1:{i:0;s:50:"SilverStripe\Forms\GridField\GridFieldAddNewButton";}s:10:"interfaces";a:1:{i:0;s:53:"SilverStripe\Forms\GridField\GridField_ActionProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

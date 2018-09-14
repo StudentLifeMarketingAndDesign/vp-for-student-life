@@ -1,3 +1,0 @@
-0
-UserFormsFieldList_php_89782b624f9941a9201c564319b58561
-a:3:{s:7:"classes";a:1:{s:51:"SilverStripe\UserForms\FormField\UserFormsFieldList";a:2:{s:7:"extends";a:1:{i:0;s:28:"SilverStripe\Forms\FieldList";}s:10:"interfaces";a:1:{i:0;s:56:"SilverStripe\UserForms\FormField\UserFormsFieldContainer";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

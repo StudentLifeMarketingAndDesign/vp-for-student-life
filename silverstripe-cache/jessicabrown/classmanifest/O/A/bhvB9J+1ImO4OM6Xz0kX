@@ -1,3 +1,0 @@
-0
-MigrationTask_php_e050deffb945b4834106a78d17a079ec
-a:3:{s:7:"classes";a:1:{s:30:"SilverStripe\Dev\MigrationTask";a:2:{s:7:"extends";a:1:{i:0;s:26:"SilverStripe\Dev\BuildTask";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

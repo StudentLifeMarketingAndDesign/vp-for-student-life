@@ -1,3 +1,0 @@
-0
-GridFieldTitleHeader_php_5124d81d92f209f08c2c5d7f20ab24fa
-a:3:{s:7:"classes";a:1:{s:49:"Symbiote\GridFieldExtensions\GridFieldTitleHeader";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:51:"SilverStripe\Forms\GridField\GridField_HTMLProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

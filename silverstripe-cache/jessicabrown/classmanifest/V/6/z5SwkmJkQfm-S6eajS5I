@@ -1,3 +1,0 @@
-0
-GridFieldConfig_Base_php_90d9e1b17735e1accd727c14f240caaf
-a:3:{s:7:"classes";a:1:{s:49:"SilverStripe\Forms\GridField\GridFieldConfig_Base";a:2:{s:7:"extends";a:1:{i:0;s:44:"SilverStripe\Forms\GridField\GridFieldConfig";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

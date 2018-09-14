@@ -1,3 +1,0 @@
-0
-GridFieldConfigBlogPost_php_1ee5b258bd161ce2d0518408d1b3f118
-a:3:{s:7:"classes";a:1:{s:57:"SilverStripe\Blog\Forms\GridField\GridFieldConfigBlogPost";a:2:{s:7:"extends";a:1:{i:0;s:56:"SilverStripe\Lumberjack\Forms\GridFieldConfig_Lumberjack";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

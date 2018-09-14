@@ -1,3 +1,0 @@
-0
-SAMLController_php_7c0a986030b1d4766aa78c314e9a683a
-a:3:{s:7:"classes";a:1:{s:40:"SilverStripe\SAML\Control\SAMLController";a:2:{s:7:"extends";a:1:{i:0;s:31:"SilverStripe\Control\Controller";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

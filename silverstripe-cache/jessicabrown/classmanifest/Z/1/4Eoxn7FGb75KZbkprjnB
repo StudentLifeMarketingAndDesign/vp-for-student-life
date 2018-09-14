@@ -1,3 +1,0 @@
-0
-CampaignAdminList_php_8fe6b410624da8ed3b4a30f44c33e16f
-a:3:{s:7:"classes";a:1:{s:44:"SilverStripe\CampaignAdmin\CampaignAdminList";a:2:{s:7:"extends";a:1:{i:0;s:28:"SilverStripe\Forms\FormField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

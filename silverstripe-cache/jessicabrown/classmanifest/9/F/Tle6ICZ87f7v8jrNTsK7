@@ -1,3 +1,0 @@
-0
-ReadonlyTagField_php_600825abd8f9d1f624141249d95b14f1
-a:3:{s:7:"classes";a:1:{s:38:"SilverStripe\TagField\ReadonlyTagField";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\TagField\TagField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-AssetAdminFieldsExtension_php_fac5b1002016425708fe4011c71ddf8b
-a:3:{s:7:"classes";a:1:{s:60:"SilverStripe\AssetAdmin\Controller\AssetAdminFieldsExtension";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\Core\Extension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

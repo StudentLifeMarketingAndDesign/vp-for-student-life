@@ -1,3 +1,0 @@
-0
-LostPasswordForm_php_14051a373d01424433bb9225d374795c
-a:3:{s:7:"classes";a:1:{s:58:"SilverStripe\Security\MemberAuthenticator\LostPasswordForm";a:2:{s:7:"extends";a:1:{i:0;s:57:"SilverStripe\Security\MemberAuthenticator\MemberLoginForm";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

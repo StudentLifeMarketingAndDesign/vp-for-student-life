@@ -1,3 +1,0 @@
-0
-SlugSegmentFieldModifier_php_59ba88c945ac2ed0e3b6f10a040fbaba
-a:3:{s:7:"classes";a:1:{s:64:"SilverStripe\Forms\SegmentFieldModifier\SlugSegmentFieldModifier";a:2:{s:7:"extends";a:1:{i:0;s:68:"SilverStripe\Forms\SegmentFieldModifier\AbstractSegmentFieldModifier";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-Filterable_php_b7c8dce81f24d5a30dd0d56ff76b8142
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:27:"SilverStripe\ORM\Filterable";a:1:{s:7:"extends";a:1:{i:0;s:24:"SilverStripe\ORM\SS_List";}}}s:6:"traits";a:0:{}}
