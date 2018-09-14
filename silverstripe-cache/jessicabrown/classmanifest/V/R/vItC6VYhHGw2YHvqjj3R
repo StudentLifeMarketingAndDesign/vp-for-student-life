@@ -1,3 +1,0 @@
-0
-SAMLMemberExtension_php_aa615f15abca383df0d82a73d3c03495
-a:3:{s:7:"classes";a:1:{s:48:"SilverStripe\SAML\Extensions\SAMLMemberExtension";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

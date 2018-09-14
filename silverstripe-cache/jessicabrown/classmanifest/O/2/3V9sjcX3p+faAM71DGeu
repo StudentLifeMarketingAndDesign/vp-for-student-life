@@ -1,3 +1,0 @@
-0
-SAMLLoginHandler_php_d14a057b20fee7b266efe03850c25bd0
-a:3:{s:7:"classes";a:1:{s:49:"SilverStripe\SAML\Authenticators\SAMLLoginHandler";a:2:{s:7:"extends";a:1:{i:0;s:54:"SilverStripe\Security\MemberAuthenticator\LoginHandler";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-SilverStripeNavigatorItem_ArchiveLink_php_5b9f3b12336f2fa5998c8cab16bc616c
-a:3:{s:7:"classes";a:1:{s:66:"SilverStripe\CMS\Controllers\SilverStripeNavigatorItem_ArchiveLink";a:2:{s:7:"extends";a:1:{i:0;s:54:"SilverStripe\CMS\Controllers\SilverStripeNavigatorItem";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

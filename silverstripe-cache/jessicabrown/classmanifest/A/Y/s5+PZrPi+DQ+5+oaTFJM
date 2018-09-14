@@ -1,3 +1,0 @@
-0
-Injector_php_6d333bb555f60095c0c24ed0b7dbbeaa
-a:3:{s:7:"classes";a:1:{s:35:"SilverStripe\Core\Injector\Injector";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:32:"Psr\Container\ContainerInterface";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

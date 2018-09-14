@@ -1,3 +1,0 @@
-0
-Installer_php_3d01d8100698315ec7481ed095f103f8
-a:3:{s:7:"classes";a:1:{s:34:"SilverStripe\Dev\Install\Installer";a:2:{s:7:"extends";a:1:{i:0;s:44:"SilverStripe\Dev\Install\InstallRequirements";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

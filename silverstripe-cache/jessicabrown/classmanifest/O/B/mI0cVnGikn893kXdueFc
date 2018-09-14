@@ -1,3 +1,0 @@
-0
-TinyMCECombinedGenerator_php_24c357b2f7443585945c80b9944cfab6
-a:3:{s:7:"classes";a:1:{s:54:"SilverStripe\Forms\HTMLEditor\TinyMCECombinedGenerator";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:2:{i:0;s:52:"SilverStripe\Forms\HTMLEditor\TinyMCEScriptGenerator";i:1;s:27:"SilverStripe\Core\Flushable";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-DatabaseAdmin_php_eb7bdfed9fe9baf6ef4bc15a3d3df256
-a:3:{s:7:"classes";a:1:{s:30:"SilverStripe\ORM\DatabaseAdmin";a:2:{s:7:"extends";a:1:{i:0;s:31:"SilverStripe\Control\Controller";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

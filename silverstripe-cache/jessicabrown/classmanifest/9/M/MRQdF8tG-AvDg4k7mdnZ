@@ -1,3 +1,0 @@
-0
-FormSpamProtectionExtension_php_c95dbb1b6acef5f5f43451c513567299
-a:3:{s:7:"classes";a:1:{s:65:"SilverStripe\SpamProtection\Extension\FormSpamProtectionExtension";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\Core\Extension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

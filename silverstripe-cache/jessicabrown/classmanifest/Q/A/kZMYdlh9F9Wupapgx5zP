@@ -1,3 +1,0 @@
-0
-HTTPApplication_php_bff9490e5c68296e54dc6faf27221bf9
-a:3:{s:7:"classes";a:1:{s:36:"SilverStripe\Control\HTTPApplication";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:29:"SilverStripe\Core\Application";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

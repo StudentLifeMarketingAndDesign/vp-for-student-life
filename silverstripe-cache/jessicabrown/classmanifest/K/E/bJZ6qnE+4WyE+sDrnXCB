@@ -1,3 +1,0 @@
-0
-SiteConfig_php_c670f45d87f3f6f74af47dab0f54e159
-a:3:{s:7:"classes";a:1:{s:34:"SilverStripe\SiteConfig\SiteConfig";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\ORM\DataObject";}s:10:"interfaces";a:2:{i:0;s:40:"SilverStripe\Security\PermissionProvider";i:1;s:40:"SilverStripe\View\TemplateGlobalProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

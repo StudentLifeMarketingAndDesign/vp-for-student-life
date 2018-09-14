@@ -1,3 +1,0 @@
-0
-ScaffoldingProvider_php_293e0b5135705c0599d3fdbde7f23d72
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:63:"SilverStripe\GraphQL\Scaffolding\Interfaces\ScaffoldingProvider";a:1:{s:7:"extends";a:0:{}}}s:6:"traits";a:0:{}}

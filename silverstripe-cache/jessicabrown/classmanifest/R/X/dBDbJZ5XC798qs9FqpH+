@@ -1,3 +1,0 @@
-0
-AssetAdminFile_php_d4621086303a937de9a659bc24309a3f
-a:3:{s:7:"classes";a:1:{s:49:"SilverStripe\AssetAdmin\Controller\AssetAdminFile";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

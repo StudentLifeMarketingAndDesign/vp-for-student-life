@@ -1,3 +1,0 @@
-0
-GridFieldPrintButtonExtension_php_d29520f56a476c95da3c9f7b23586291
-a:3:{s:7:"classes";a:1:{s:54:"SilverStripe\Admin\Forms\GridFieldPrintButtonExtension";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\Core\Extension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

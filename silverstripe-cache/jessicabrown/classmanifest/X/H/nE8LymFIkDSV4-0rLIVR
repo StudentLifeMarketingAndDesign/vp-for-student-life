@@ -1,3 +1,0 @@
-0
-FulltextSearchable_php_dd35b4d49db0dc817e8d55aa756cda5d
-a:3:{s:7:"classes";a:1:{s:42:"SilverStripe\ORM\Search\FulltextSearchable";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

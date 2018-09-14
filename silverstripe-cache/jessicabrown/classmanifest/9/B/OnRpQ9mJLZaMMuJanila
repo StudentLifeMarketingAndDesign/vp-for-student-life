@@ -1,3 +1,0 @@
-0
-LessThanFilter_php_99d836dd450300e43d7a823ee1e804c5
-a:3:{s:7:"classes";a:1:{s:39:"SilverStripe\ORM\Filters\LessThanFilter";a:2:{s:7:"extends";a:1:{i:0;s:41:"SilverStripe\ORM\Filters\ComparisonFilter";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

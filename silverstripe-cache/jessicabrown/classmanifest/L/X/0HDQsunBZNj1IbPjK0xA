@@ -1,3 +1,0 @@
-0
-EditableMemberListField_php_f9b5cca692dd98a456c0a84ca9a4460a
-a:3:{s:7:"classes";a:1:{s:70:"SilverStripe\UserForms\Model\EditableFormField\EditableMemberListField";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\UserForms\Model\EditableFormField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

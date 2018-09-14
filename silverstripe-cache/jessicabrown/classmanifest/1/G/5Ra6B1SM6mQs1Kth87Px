@@ -1,3 +1,0 @@
-0
-Create_php_5a7b96602c8e7d98a5c45313f4581e82
-a:3:{s:7:"classes";a:1:{s:56:"SilverStripe\GraphQL\Scaffolding\Scaffolders\CRUD\Create";a:2:{s:7:"extends";a:1:{i:0;s:63:"SilverStripe\GraphQL\Scaffolding\Scaffolders\MutationScaffolder";}s:10:"interfaces";a:1:{i:0;s:57:"SilverStripe\GraphQL\Scaffolding\Interfaces\CRUDInterface";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

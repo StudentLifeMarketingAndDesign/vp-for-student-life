@@ -1,3 +1,0 @@
-0
-ElementController_php_3b4561c932baf5d02d3a87f0a666dfdd
-a:3:{s:7:"classes";a:1:{s:49:"DNADesign\Elemental\Controllers\ElementController";a:2:{s:7:"extends";a:1:{i:0;s:31:"SilverStripe\Control\Controller";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

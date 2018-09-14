@@ -1,3 +1,0 @@
-0
-GridFieldConfig_RelationEditor_php_aaf43e9e416ad34f15a395e255191550
-a:3:{s:7:"classes";a:1:{s:59:"SilverStripe\Forms\GridField\GridFieldConfig_RelationEditor";a:2:{s:7:"extends";a:1:{i:0;s:44:"SilverStripe\Forms\GridField\GridFieldConfig";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

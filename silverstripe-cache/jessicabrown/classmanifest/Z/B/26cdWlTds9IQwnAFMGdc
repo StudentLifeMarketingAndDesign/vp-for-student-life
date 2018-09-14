@@ -1,3 +1,0 @@
-0
-ModelAsController_php_3728d0fb710983c00befe193e068ba1c
-a:3:{s:7:"classes";a:1:{s:46:"SilverStripe\CMS\Controllers\ModelAsController";a:2:{s:7:"extends";a:1:{i:0;s:31:"SilverStripe\Control\Controller";}s:10:"interfaces";a:1:{i:0;s:37:"SilverStripe\Control\NestedController";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

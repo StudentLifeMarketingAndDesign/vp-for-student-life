@@ -1,3 +1,0 @@
-0
-BehatFixtureFactory_php_d77b6515bd3c393a5e650b39f5b4a00e
-a:3:{s:7:"classes";a:1:{s:36:"SilverStripe\Dev\BehatFixtureFactory";a:2:{s:7:"extends";a:1:{i:0;s:31:"SilverStripe\Dev\FixtureFactory";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

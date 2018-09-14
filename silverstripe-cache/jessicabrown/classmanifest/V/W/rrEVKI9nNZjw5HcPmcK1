@@ -1,3 +1,0 @@
-0
-ManagerMutatorInterface_php_ab63805bc853c24cd6c8477a035eda1f
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:67:"SilverStripe\GraphQL\Scaffolding\Interfaces\ManagerMutatorInterface";a:1:{s:7:"extends";a:0:{}}}s:6:"traits";a:0:{}}

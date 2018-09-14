@@ -1,3 +1,0 @@
-0
-LostPasswordHandler_php_4c412c4d77d50f5251552ab6a12b02b2
-a:3:{s:7:"classes";a:1:{s:61:"SilverStripe\Security\MemberAuthenticator\LostPasswordHandler";a:2:{s:7:"extends";a:1:{i:0;s:35:"SilverStripe\Control\RequestHandler";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

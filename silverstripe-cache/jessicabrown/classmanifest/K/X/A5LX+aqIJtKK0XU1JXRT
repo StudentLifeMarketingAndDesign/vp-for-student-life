@@ -1,3 +1,0 @@
-0
-DBComposite_php_8a1f6c97b12ca285b56b00c4fa971363
-a:3:{s:7:"classes";a:1:{s:38:"SilverStripe\ORM\FieldType\DBComposite";a:2:{s:7:"extends";a:1:{i:0;s:34:"SilverStripe\ORM\FieldType\DBField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

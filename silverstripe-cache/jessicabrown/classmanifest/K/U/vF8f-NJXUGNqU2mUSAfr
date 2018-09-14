@@ -1,3 +1,0 @@
-0
-VersionedGridFieldItemRequest_php_0a2b13fe1ef01c291962c4b7b1092e3a
-a:3:{s:7:"classes";a:1:{s:52:"SilverStripe\Versioned\VersionedGridFieldItemRequest";a:2:{s:7:"extends";a:1:{i:0;s:60:"SilverStripe\Forms\GridField\GridFieldDetailForm_ItemRequest";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

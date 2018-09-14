@@ -1,3 +1,0 @@
-0
-CMSBatchAction_Restore_php_a2fbf5ae794875b5cc4f666db93079cd
-a:3:{s:7:"classes";a:1:{s:52:"SilverStripe\CMS\BatchActions\CMSBatchAction_Restore";a:2:{s:7:"extends";a:1:{i:0;s:33:"SilverStripe\Admin\CMSBatchAction";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-SiteConfigExtension_php_8226ee00fe841305157964bf0736ca7a
-a:3:{s:7:"classes";a:1:{s:19:"SiteConfigExtension";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

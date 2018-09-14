@@ -1,3 +1,0 @@
-0
-HTTPMiddlewareAware_php_9bc5436427d6cdeaa0346e267a522e3b
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:0:{}s:6:"traits";a:1:{s:51:"SilverStripe\Control\Middleware\HTTPMiddlewareAware";a:0:{}}}

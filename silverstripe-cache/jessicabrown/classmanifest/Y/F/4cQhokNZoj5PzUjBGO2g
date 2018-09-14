@@ -1,3 +1,0 @@
-0
-RequestProcessor_php_42e1986c0c94e7f29c90641feee2cd1e
-a:3:{s:7:"classes";a:1:{s:37:"SilverStripe\Control\RequestProcessor";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:46:"SilverStripe\Control\Middleware\HTTPMiddleware";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

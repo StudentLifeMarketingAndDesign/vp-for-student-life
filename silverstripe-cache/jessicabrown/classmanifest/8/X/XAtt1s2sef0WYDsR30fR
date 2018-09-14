@@ -1,3 +1,0 @@
-0
-NullableField_php_87f0edf19d5c37bc04c7a54e675a1ac3
-a:3:{s:7:"classes";a:1:{s:32:"SilverStripe\Forms\NullableField";a:2:{s:7:"extends";a:1:{i:0;s:28:"SilverStripe\Forms\FormField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

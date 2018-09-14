@@ -1,3 +1,0 @@
-0
-BulkLoader_php_56954061e193c530f6faf19140b4686b
-a:3:{s:7:"classes";a:1:{s:27:"SilverStripe\Dev\BulkLoader";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\View\ViewableData";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

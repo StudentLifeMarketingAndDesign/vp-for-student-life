@@ -1,3 +1,0 @@
-0
-LocalistNewsletter_php_a269910611e4f8765c13ae786b511bce
-a:3:{s:7:"classes";a:2:{s:18:"LocalistNewsletter";a:2:{s:7:"extends";a:1:{i:0;s:4:"Page";}s:10:"interfaces";a:0:{}}s:29:"LocalistNewsletter_Controller";a:2:{s:7:"extends";a:1:{i:0;s:14:"PageController";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

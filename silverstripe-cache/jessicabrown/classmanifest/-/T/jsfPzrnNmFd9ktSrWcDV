@@ -1,3 +1,0 @@
-0
-Security_php_c7b30b6e3d819b95acb2926318c506ca
-a:3:{s:7:"classes";a:1:{s:30:"SilverStripe\Security\Security";a:2:{s:7:"extends";a:1:{i:0;s:31:"SilverStripe\Control\Controller";}s:10:"interfaces";a:1:{i:0;s:40:"SilverStripe\View\TemplateGlobalProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

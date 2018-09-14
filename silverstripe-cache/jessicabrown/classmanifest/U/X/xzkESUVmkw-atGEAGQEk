@@ -1,3 +1,0 @@
-0
-TinyMCEConfig_php_0e9a2825cdf39c2d9d689e78b02059ff
-a:3:{s:7:"classes";a:1:{s:43:"SilverStripe\Forms\HTMLEditor\TinyMCEConfig";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\Forms\HTMLEditor\HTMLEditorConfig";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

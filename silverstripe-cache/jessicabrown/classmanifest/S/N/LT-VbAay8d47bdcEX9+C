@@ -1,3 +1,0 @@
-0
-ModuleManifest_php_020c30cdf4a07c5175c571f9aa7178cc
-a:3:{s:7:"classes";a:1:{s:41:"SilverStripe\Core\Manifest\ModuleManifest";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

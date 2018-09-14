@@ -1,3 +1,0 @@
-0
-UserFormFieldEditorExtension_php_e9a03ac7dbdbc7a0f27669f9c74a9449
-a:3:{s:7:"classes";a:1:{s:61:"SilverStripe\UserForms\Extension\UserFormFieldEditorExtension";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\ORM\DataExtension";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

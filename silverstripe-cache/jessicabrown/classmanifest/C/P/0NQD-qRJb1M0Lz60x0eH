@@ -1,3 +1,0 @@
-0
-AdminRootController_php_313c9833da370bac2bb6f21a292d8dbb
-a:3:{s:7:"classes";a:1:{s:38:"SilverStripe\Admin\AdminRootController";a:2:{s:7:"extends";a:1:{i:0;s:31:"SilverStripe\Control\Controller";}s:10:"interfaces";a:1:{i:0;s:40:"SilverStripe\View\TemplateGlobalProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

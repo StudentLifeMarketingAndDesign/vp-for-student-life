@@ -1,3 +1,0 @@
-0
-GridField_ActionProvider_php_1c0fc0b884f7350c94803cfcd8bf3175
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:53:"SilverStripe\Forms\GridField\GridField_ActionProvider";a:1:{s:7:"extends";a:1:{i:0;s:47:"SilverStripe\Forms\GridField\GridFieldComponent";}}}s:6:"traits";a:0:{}}

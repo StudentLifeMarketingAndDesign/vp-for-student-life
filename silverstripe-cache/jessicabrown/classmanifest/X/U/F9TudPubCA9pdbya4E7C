@@ -1,3 +1,0 @@
-0
-LinkFormFactory_php_15650abf41c78d2ec1a3f300302c99fc
-a:3:{s:7:"classes";a:1:{s:40:"SilverStripe\Admin\Forms\LinkFormFactory";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:30:"SilverStripe\Forms\FormFactory";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

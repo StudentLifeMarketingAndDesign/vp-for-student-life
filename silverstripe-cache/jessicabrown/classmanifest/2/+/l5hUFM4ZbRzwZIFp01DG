@@ -1,3 +1,0 @@
-0
-EditableCustomRule_php_4d87ad1d735a6a57aa10dd0187d88947
-a:3:{s:7:"classes";a:1:{s:47:"SilverStripe\UserForms\Model\EditableCustomRule";a:2:{s:7:"extends";a:1:{i:0;s:27:"SilverStripe\ORM\DataObject";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-UserForm_php_67fd2d8511f66c69fa6e310f52af2be3
-a:3:{s:7:"classes";a:1:{s:36:"SilverStripe\UserForms\Form\UserForm";a:2:{s:7:"extends";a:1:{i:0;s:23:"SilverStripe\Forms\Form";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

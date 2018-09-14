@@ -1,3 +1,0 @@
-0
-ExtensionTestState_php_782e252aa094ca78f01467507e4f03b8
-a:3:{s:7:"classes";a:1:{s:41:"SilverStripe\Dev\State\ExtensionTestState";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:32:"SilverStripe\Dev\State\TestState";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

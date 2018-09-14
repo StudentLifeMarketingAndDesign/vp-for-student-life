@@ -1,3 +1,0 @@
-0
-GridField_ColumnProvider_php_fb2e1785b343bf7c98709082148ffddb
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:53:"SilverStripe\Forms\GridField\GridField_ColumnProvider";a:1:{s:7:"extends";a:1:{i:0;s:47:"SilverStripe\Forms\GridField\GridFieldComponent";}}}s:6:"traits";a:0:{}}

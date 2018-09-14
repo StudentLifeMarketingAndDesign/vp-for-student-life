@@ -1,3 +1,0 @@
-0
-CMSSiteTreeFilter_PublishedPages_php_1df49755916a6b329b1567f1fec70a65
-a:3:{s:7:"classes";a:1:{s:61:"SilverStripe\CMS\Controllers\CMSSiteTreeFilter_PublishedPages";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\CMS\Controllers\CMSSiteTreeFilter";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

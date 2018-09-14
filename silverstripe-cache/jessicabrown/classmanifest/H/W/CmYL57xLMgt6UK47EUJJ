@@ -1,3 +1,0 @@
-0
-GridFieldVersionedState_php_a8fa2202dd6301b197b78d51171da747
-a:3:{s:7:"classes";a:1:{s:52:"SilverStripe\Forms\GridField\GridFieldVersionedState";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:53:"SilverStripe\Forms\GridField\GridField_ColumnProvider";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

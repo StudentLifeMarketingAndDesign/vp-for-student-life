@@ -1,3 +1,0 @@
-0
-NullHTTPRequest_php_388d919ec349f27a17383f0aff15a3f6
-a:3:{s:7:"classes";a:1:{s:36:"SilverStripe\Control\NullHTTPRequest";a:2:{s:7:"extends";a:1:{i:0;s:32:"SilverStripe\Control\HTTPRequest";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

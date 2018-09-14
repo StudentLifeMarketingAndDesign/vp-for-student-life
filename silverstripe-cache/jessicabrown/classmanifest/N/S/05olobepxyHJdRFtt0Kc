@@ -1,3 +1,0 @@
-0
-ProtectedAssetAdapter_php_a0a06fc8aff885edaa116f791084ea9a
-a:3:{s:7:"classes";a:1:{s:51:"SilverStripe\Assets\Flysystem\ProtectedAssetAdapter";a:2:{s:7:"extends";a:1:{i:0;s:42:"SilverStripe\Assets\Flysystem\AssetAdapter";}s:10:"interfaces";a:1:{i:0;s:46:"SilverStripe\Assets\Flysystem\ProtectedAdapter";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

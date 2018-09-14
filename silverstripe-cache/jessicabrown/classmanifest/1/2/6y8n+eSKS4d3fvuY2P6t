@@ -1,3 +1,0 @@
-0
-GridFieldConfig_Lumberjack_php_47a8b7c4129a5467e8269fc8c826e113
-a:3:{s:7:"classes";a:1:{s:56:"SilverStripe\Lumberjack\Forms\GridFieldConfig_Lumberjack";a:2:{s:7:"extends";a:1:{i:0;s:44:"SilverStripe\Forms\GridField\GridFieldConfig";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

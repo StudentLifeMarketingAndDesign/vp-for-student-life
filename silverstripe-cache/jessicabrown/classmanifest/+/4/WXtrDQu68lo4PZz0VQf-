@@ -1,3 +1,0 @@
-0
-DBBigint_php_b8929e47bcff1eabb7aa52bb94d0a616
-a:3:{s:7:"classes";a:1:{s:35:"SilverStripe\ORM\FieldType\DBBigInt";a:2:{s:7:"extends";a:1:{i:0;s:32:"SilverStripe\ORM\FieldType\DBInt";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

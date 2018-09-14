@@ -1,3 +1,0 @@
-0
-AnchorLinkFormFactory_php_29f8f3f8f12f8a2ac0d0564b0ab9dcc7
-a:3:{s:7:"classes";a:1:{s:44:"SilverStripe\CMS\Forms\AnchorLinkFormFactory";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\CMS\Forms\InternalLinkFormFactory";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

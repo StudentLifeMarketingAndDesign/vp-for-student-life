@@ -1,3 +1,0 @@
-0
-CMSPageAddController_php_714b46ba2a519813d10ee24f3dbb2b46
-a:3:{s:7:"classes";a:1:{s:49:"SilverStripe\CMS\Controllers\CMSPageAddController";a:2:{s:7:"extends";a:1:{i:0;s:50:"SilverStripe\CMS\Controllers\CMSPageEditController";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

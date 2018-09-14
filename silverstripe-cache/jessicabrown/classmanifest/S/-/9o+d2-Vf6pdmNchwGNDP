@@ -1,3 +1,0 @@
-0
-FlushInvalidatedResource_php_94d898012aaac456302b44b003722713
-a:3:{s:7:"classes";a:1:{s:59:"SilverStripe\i18n\Messages\Symfony\FlushInvalidatedResource";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:3:{i:0;s:63:"Symfony\Component\Config\Resource\SelfCheckingResourceInterface";i:1;s:12:"Serializable";i:2;s:27:"SilverStripe\Core\Flushable";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

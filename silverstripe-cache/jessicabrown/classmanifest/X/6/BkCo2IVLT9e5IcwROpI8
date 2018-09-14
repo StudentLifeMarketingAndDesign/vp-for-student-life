@@ -1,3 +1,0 @@
-0
-BulkUploadHandler_php_0d43137af18e11fc109a21f38e6d341d
-a:3:{s:7:"classes";a:1:{s:36:"Colymba\BulkUpload\BulkUploadHandler";a:2:{s:7:"extends";a:1:{i:0;s:35:"SilverStripe\Control\RequestHandler";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

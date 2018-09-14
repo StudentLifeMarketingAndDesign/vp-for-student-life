@@ -1,3 +1,0 @@
-0
-FileShortcodeProvider_php_8a15dae761e1cd734930fffe7f1b458d
-a:3:{s:7:"classes";a:1:{s:52:"SilverStripe\Assets\Shortcodes\FileShortcodeProvider";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:2:{i:0;s:42:"SilverStripe\View\Parsers\ShortcodeHandler";i:1;s:27:"SilverStripe\Core\Flushable";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

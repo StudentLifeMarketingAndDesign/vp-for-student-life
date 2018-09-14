@@ -1,3 +1,0 @@
-0
-SiteConfigLeftAndMain_php_46f5cdc02e2e9230d0959f4cd390e57f
-a:3:{s:7:"classes";a:1:{s:45:"SilverStripe\SiteConfig\SiteConfigLeftAndMain";a:2:{s:7:"extends";a:1:{i:0;s:30:"SilverStripe\Admin\LeftAndMain";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

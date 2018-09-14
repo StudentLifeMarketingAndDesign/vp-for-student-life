@@ -1,3 +1,0 @@
-0
-EditableNumericField_php_884969ea9bb87e2b6cc755b1c332c9d7
-a:3:{s:7:"classes";a:1:{s:67:"SilverStripe\UserForms\Model\EditableFormField\EditableNumericField";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\UserForms\Model\EditableFormField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

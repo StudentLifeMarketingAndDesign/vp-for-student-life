@@ -1,3 +1,0 @@
-0
-InheritedPermissions_php_66df005786e9a3bce58167b0250cdeb6
-a:3:{s:7:"classes";a:1:{s:42:"SilverStripe\Security\InheritedPermissions";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:39:"SilverStripe\Security\PermissionChecker";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

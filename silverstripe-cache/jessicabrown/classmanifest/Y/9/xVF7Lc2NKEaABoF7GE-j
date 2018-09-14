@@ -1,3 +1,0 @@
-0
-BlogArchiveWidgetController_php_c73aecba2909786da3479052f44d6734
-a:3:{s:7:"classes";a:1:{s:53:"SilverStripe\Blog\Widgets\BlogArchiveWidgetController";a:2:{s:7:"extends";a:1:{i:0;s:43:"SilverStripe\Widgets\Model\WidgetController";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

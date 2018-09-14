@@ -1,3 +1,0 @@
-0
-MySQLDatabaseConfigurationHelper_php_043654936366e8ef01c87382de278c76
-a:3:{s:7:"classes";a:1:{s:57:"SilverStripe\Dev\Install\MySQLDatabaseConfigurationHelper";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:52:"SilverStripe\Dev\Install\DatabaseConfigurationHelper";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

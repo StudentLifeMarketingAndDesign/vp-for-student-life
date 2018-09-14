@@ -1,3 +1,0 @@
-0
-MoveFormFactory_php_d54a3c348ab212079efd79ab3027bea5
-a:3:{s:7:"classes";a:1:{s:45:"SilverStripe\AssetAdmin\Forms\MoveFormFactory";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:30:"SilverStripe\Forms\FormFactory";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

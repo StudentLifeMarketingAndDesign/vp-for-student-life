@@ -1,3 +1,0 @@
-0
-BlogRecentPostsWidget_php_f14c92c0dc8e0c26395fb14769fdf170
-a:3:{s:7:"classes";a:1:{s:47:"SilverStripe\Blog\Widgets\BlogRecentPostsWidget";a:2:{s:7:"extends";a:1:{i:0;s:33:"SilverStripe\Widgets\Model\Widget";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-BlogCategoriesWidgetController_php_6f91cd5e61ae312819483c0af831e00a
-a:3:{s:7:"classes";a:1:{s:56:"SilverStripe\Blog\Widgets\BlogCategoriesWidgetController";a:2:{s:7:"extends";a:1:{i:0;s:43:"SilverStripe\Widgets\Model\WidgetController";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

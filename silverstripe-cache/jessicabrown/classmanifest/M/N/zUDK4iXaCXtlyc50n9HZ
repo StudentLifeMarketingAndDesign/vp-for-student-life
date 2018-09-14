@@ -1,3 +1,0 @@
-0
-CRUDInterface_php_c94e2fd1720751135e740f1589a82b95
-a:3:{s:7:"classes";a:0:{}s:10:"interfaces";a:1:{s:57:"SilverStripe\GraphQL\Scaffolding\Interfaces\CRUDInterface";a:1:{s:7:"extends";a:0:{}}}s:6:"traits";a:0:{}}

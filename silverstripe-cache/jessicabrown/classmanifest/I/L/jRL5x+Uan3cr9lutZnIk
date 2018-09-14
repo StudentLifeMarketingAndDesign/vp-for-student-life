@@ -1,3 +1,0 @@
-0
-EditableDateField_php_4357aa479a0557b4a639bba0c5ec61f3
-a:3:{s:7:"classes";a:1:{s:64:"SilverStripe\UserForms\Model\EditableFormField\EditableDateField";a:2:{s:7:"extends";a:1:{i:0;s:46:"SilverStripe\UserForms\Model\EditableFormField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

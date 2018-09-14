@@ -1,3 +1,0 @@
-0
-MemberAuthenticator_php_6bc989e404ca07a11b89c751859085bb
-a:3:{s:7:"classes";a:1:{s:45:"SilverStripe\GraphQL\Auth\MemberAuthenticator";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:48:"SilverStripe\GraphQL\Auth\AuthenticatorInterface";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

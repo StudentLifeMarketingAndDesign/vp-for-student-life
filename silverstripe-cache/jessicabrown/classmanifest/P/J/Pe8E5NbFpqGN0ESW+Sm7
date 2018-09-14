@@ -1,3 +1,0 @@
-0
-SelectionGroup_Item_php_89e7a5fe18e773ec99d5299e26b457b6
-a:3:{s:7:"classes";a:1:{s:38:"SilverStripe\Forms\SelectionGroup_Item";a:2:{s:7:"extends";a:1:{i:0;s:33:"SilverStripe\Forms\CompositeField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

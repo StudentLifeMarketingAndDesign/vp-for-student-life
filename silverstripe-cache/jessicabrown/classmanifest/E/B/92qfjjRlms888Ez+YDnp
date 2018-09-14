@@ -1,3 +1,0 @@
-0
-ElementContent_php_28ee226a53e9793cb73f554e83283ae6
-a:3:{s:7:"classes";a:1:{s:41:"DNADesign\Elemental\Models\ElementContent";a:2:{s:7:"extends";a:1:{i:0;s:38:"DNADesign\Elemental\Models\BaseElement";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

@@ -1,3 +1,0 @@
-0
-CMSPageHistoryController_php_a65b132dd6a274327e4e4ca3db2d36b4
-a:3:{s:7:"classes";a:1:{s:53:"SilverStripe\CMS\Controllers\CMSPageHistoryController";a:2:{s:7:"extends";a:1:{i:0;s:36:"SilverStripe\CMS\Controllers\CMSMain";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

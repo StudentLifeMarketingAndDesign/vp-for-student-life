@@ -1,3 +1,0 @@
-0
-RecaptchaProtector_php_b3dcbbfea7d79ac59d3b721bc9d703aa
-a:3:{s:7:"classes";a:1:{s:41:"SilverStripe\Recaptcha\RecaptchaProtector";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:41:"SilverStripe\SpamProtection\SpamProtector";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

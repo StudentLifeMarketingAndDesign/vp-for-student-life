@@ -1,3 +1,0 @@
-0
-DBPolymorphicForeignKey_php_a42ed8d80805dcb81caa850462eb28d1
-a:3:{s:7:"classes";a:1:{s:50:"SilverStripe\ORM\FieldType\DBPolymorphicForeignKey";a:2:{s:7:"extends";a:1:{i:0;s:38:"SilverStripe\ORM\FieldType\DBComposite";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

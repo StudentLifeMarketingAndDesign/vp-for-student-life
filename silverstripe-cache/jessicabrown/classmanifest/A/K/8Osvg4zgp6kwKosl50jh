@@ -1,3 +1,0 @@
-0
-EditableRadioField_php_af95ff6269a5cd553a8cbf39ea8fbdcc
-a:3:{s:7:"classes";a:1:{s:65:"SilverStripe\UserForms\Model\EditableFormField\EditableRadioField";a:2:{s:7:"extends";a:1:{i:0;s:74:"SilverStripe\UserForms\Model\EditableFormField\EditableMultipleOptionField";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

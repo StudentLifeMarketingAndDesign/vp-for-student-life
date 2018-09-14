@@ -1,3 +1,0 @@
-0
-TaskRunner_php_07697f407315a16d1df88b63700bebef
-a:3:{s:7:"classes";a:1:{s:27:"SilverStripe\Dev\TaskRunner";a:2:{s:7:"extends";a:1:{i:0;s:31:"SilverStripe\Control\Controller";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

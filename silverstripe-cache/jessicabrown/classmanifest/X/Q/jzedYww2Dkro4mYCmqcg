@@ -1,3 +1,0 @@
-0
-SiteConfigPagePermissions_php_48f44ac92af9efe56a354afbd3362d2c
-a:3:{s:7:"classes";a:1:{s:49:"SilverStripe\SiteConfig\SiteConfigPagePermissions";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:1:{i:0;s:46:"SilverStripe\Security\DefaultPermissionChecker";}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

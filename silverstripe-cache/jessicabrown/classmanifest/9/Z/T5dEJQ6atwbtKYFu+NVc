@@ -1,3 +1,0 @@
-0
-EditHandler_php_f8ee29dabfde6c4af68cc686a8ee4cfc
-a:3:{s:7:"classes";a:1:{s:42:"Colymba\BulkManager\BulkAction\EditHandler";a:2:{s:7:"extends";a:1:{i:0;s:38:"Colymba\BulkManager\BulkAction\Handler";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

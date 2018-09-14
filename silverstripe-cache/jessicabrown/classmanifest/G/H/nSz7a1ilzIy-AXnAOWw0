@@ -1,3 +1,0 @@
-0
-BasicAuth_php_0ab422c497759d2571668f2f521aed6a
-a:3:{s:7:"classes";a:1:{s:31:"SilverStripe\Security\BasicAuth";a:2:{s:7:"extends";a:0:{}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}

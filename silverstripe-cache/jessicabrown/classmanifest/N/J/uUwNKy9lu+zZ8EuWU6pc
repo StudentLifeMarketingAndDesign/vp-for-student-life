@@ -1,3 +1,0 @@
-0
-BlogFilter_php_7a0972e25872b10d6e24982e0639703d
-a:3:{s:7:"classes";a:1:{s:34:"SilverStripe\Blog\Model\BlogFilter";a:2:{s:7:"extends";a:1:{i:0;s:40:"SilverStripe\Lumberjack\Model\Lumberjack";}s:10:"interfaces";a:0:{}}}s:10:"interfaces";a:0:{}s:6:"traits";a:0:{}}
