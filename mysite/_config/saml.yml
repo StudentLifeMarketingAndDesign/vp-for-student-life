@@ -1,0 +1,14 @@
+---
+Name: mysamlsettings
+After: 
+  - '#samlsettings'
+  - '#coresecurity'
+---
+SilverStripe\Control\Director:
+  rules:
+    'saml': SilverStripe\SAML\Control\SAMLController
+SilverStripe\Core\Injector\Injector:
+  SilverStripe\Security\Security:
+    properties:
+      Authenticators:
+        default: %$SilverStripe\SAML\Authenticators\SAMLAuthenticator
