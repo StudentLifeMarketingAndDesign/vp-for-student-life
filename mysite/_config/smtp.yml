@@ -1,0 +1,16 @@
+---
+Name: smtp
+After:
+  - '#emailconfig'
+---
+SilverStripe\Core\Injector\Injector:
+  Swift_Transport:
+    class: Swift_SmtpTransport
+    properties:
+      Host: email.uiowa.edu
+      Port: 587
+      Encryption: tls
+    calls:
+      Username: [ setUsername, ['imuweb@uiowa.edu'] ]
+      Password: [ setPassword, ['generic_wifeless_impress'] ]
+      AuthMode: [ setAuthMode, ['login'] ]
