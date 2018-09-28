@@ -72,3 +72,5 @@ division-analytics/
 youtubefield/
 silverstripe-amp/
 resources/
+silverstripe-cache
+/public/assets
