@@ -89,12 +89,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "365ddc2f8a147c27447d70e375e4c5bdf38e2766"
+                "reference": "b20f7b252cd6765ee68e66f8b3093a230ad97608"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/365ddc2f8a147c27447d70e375e4c5bdf38e2766",
-                "reference": "365ddc2f8a147c27447d70e375e4c5bdf38e2766",
+                "url": "https://api.github.com/repos/composer/installers/zipball/b20f7b252cd6765ee68e66f8b3093a230ad97608",
+                "reference": "b20f7b252cd6765ee68e66f8b3093a230ad97608",
                 "shasum": ""
             },
             "require": {
@@ -202,7 +202,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2018-09-12T10:41:00+00:00"
+            "time": "2018-10-10T11:17:18+00:00"
         },
         {
             "name": "embed/embed",
@@ -318,12 +318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "3ff39a4d6e7d7d70cbc8ec8182b41e2ebcd49871"
+                "reference": "2798c457a4fc5a9bda4587ea0da9b177e22aff5a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/3ff39a4d6e7d7d70cbc8ec8182b41e2ebcd49871",
-                "reference": "3ff39a4d6e7d7d70cbc8ec8182b41e2ebcd49871",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/2798c457a4fc5a9bda4587ea0da9b177e22aff5a",
+                "reference": "2798c457a4fc5a9bda4587ea0da9b177e22aff5a",
                 "shasum": ""
             },
             "require": {
@@ -375,7 +375,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2018-10-04T08:20:27+00:00"
+            "time": "2018-10-08T11:42:37+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -808,12 +808,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Masterminds/html5-php.git",
-                "reference": "441fb2bc82599e4e3e90ee94d0f084649f4952f2"
+                "reference": "c7c7657e3c2ef21053164992038015089ed7bf7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Masterminds/html5-php/zipball/441fb2bc82599e4e3e90ee94d0f084649f4952f2",
-                "reference": "441fb2bc82599e4e3e90ee94d0f084649f4952f2",
+                "url": "https://api.github.com/repos/Masterminds/html5-php/zipball/c7c7657e3c2ef21053164992038015089ed7bf7e",
+                "reference": "c7c7657e3c2ef21053164992038015089ed7bf7e",
                 "shasum": ""
             },
             "require": {
@@ -865,7 +865,7 @@
                 "serializer",
                 "xml"
             ],
-            "time": "2017-09-04T12:36:31+00:00"
+            "time": "2018-10-08T17:37:37+00:00"
         },
         {
             "name": "md/ac-json-events",
@@ -987,12 +987,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "0beb84b0aa6ca16ae2190e22a1b6704c0ad19056"
+                "reference": "732e44e9c739290303ced1d622b8de0ef924d7c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/0beb84b0aa6ca16ae2190e22a1b6704c0ad19056",
-                "reference": "0beb84b0aa6ca16ae2190e22a1b6704c0ad19056",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/732e44e9c739290303ced1d622b8de0ef924d7c1",
+                "reference": "732e44e9c739290303ced1d622b8de0ef924d7c1",
                 "shasum": ""
             },
             "require": {
@@ -1046,7 +1046,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2018-10-04T15:20:45+00:00"
+            "time": "2018-10-10T13:29:57+00:00"
         },
         {
             "name": "md/rss-display",
