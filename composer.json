@@ -1,79 +1,100 @@
 {
-	"name": "silverstripe/installer",
-	"description": "The SilverStripe Framework Installer",
-    "minimum-stability": "dev",
-	"require": {
-		"php": ">=5.3.2",
-		"md/division-project": "2.0.x"
-
-
-	},
-	"config": {
-		"process-timeout": 600
-	},
-
-
+    "name": "silverstripe/installer",
+    "type": "silverstripe-recipe",
+    "description": "The SilverStripe Framework Installer",
+    "require": {
+        "php": ">=5.6.0",
+        "md/division-project": "dev-ss4.x"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "extra": {
+        "branch-alias": {
+            "4.x-dev": "4.3.x-dev",
+            "dev-master": "5.x-dev"
+        },
+        "project-files-installed": [
+            "app/.htaccess",
+            "app/_config.php",
+            "app/_config/mysite.yml",
+            "app/src/Page.php",
+            "app/src/PageController.php",
+            "mysite/.htaccess",
+            "mysite/_config.php",
+            "mysite/_config/mysite.yml",
+            "mysite/code/Page.php",
+            "mysite/code/PageController.php"
+        ],
+        "public-files-installed": [
+            ".htaccess",
+            "index.php",
+            "install-frameworkmissing.html",
+            "install.php",
+            "web.config"
+        ],
+        "expose": [
+            "themes/division-subtheme/dist",
+            "themes/division-subtheme/css"
+        ]
+    },
     "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/division-project"
-
         },
         {
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp"
-      
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-blog"
-      
         },
         {
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/division-analytics"
-      
         },
         {
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/division-bar"
-
         },
         {
             "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/division-analytics"
-
+            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-maintenance-mode"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar"
         },
         {
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events"
-
         },
         {
             "type": "vcs",
             "url": "https://github.com/StudentLifeMarketingAndDesign/rss-display"
-
         },
         {
-             "type": "vcs",
-             "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-activedirectory"
+            "type": "vcs",
+            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-blog"
         },
         {
-             "type": "vcs",
-             "url": "https://github.com/StudentLifeMarketingAndDesign/fbpagefeed"
+            "type": "vcs",
+            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr"
         },
         {
-             "type": "vcs",
-             "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-betternavigator"
+            "type": "vcs",
+            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-activedirectory"
         },
         {
-             "type": "vcs",
-             "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-blog"
+            "type": "vcs",
+            "url": "https://github.com/StudentLifeMarketingAndDesign/fbpagefeed"
         },
         {
-             "type": "vcs",
-             "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-amp"
+            "type": "vcs",
+            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml"
         }
-    ]
-
+    ],
+    "config": {
+        "process-timeout": 600
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
 }

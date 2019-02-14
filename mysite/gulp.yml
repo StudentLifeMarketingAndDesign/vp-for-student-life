@@ -17,7 +17,7 @@ UNCSS_OPTIONS:
 # Gulp will reference these paths when it copies files
 PATHS:
   projectName: "division-project-4"
-  theme: "../themes/division-subtheme"
+  theme: "../../../themes/division-subtheme"
   # Path to theme folder
   dist: "dist"
   # Paths to static assets that aren't images, CSS, or JavaScript
