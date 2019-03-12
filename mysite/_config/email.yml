@@ -1,2 +1,4 @@
 SilverStripe\Control\Email\Email:
   admin_email: imu-web@uiowa.edu
+SilverStripe\UserForms\Model\Recipient\EmailRecipient:
+  allow_unbound_recipient_fields: true
