@@ -1178,12 +1178,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "f3bb8516b02a52ec62ad7fd7a71e80f695a99dc7"
+                "reference": "c2e3a28476442f3a394291b01932d4dd8e9ec072"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/f3bb8516b02a52ec62ad7fd7a71e80f695a99dc7",
-                "reference": "f3bb8516b02a52ec62ad7fd7a71e80f695a99dc7",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/c2e3a28476442f3a394291b01932d4dd8e9ec072",
+                "reference": "c2e3a28476442f3a394291b01932d4dd8e9ec072",
                 "shasum": ""
             },
             "require": {
@@ -1203,12 +1203,13 @@
                 "silverstripe-australia/gridfieldextensions": "*",
                 "silverstripe/asset-admin": "*",
                 "silverstripe/blog": "*",
-                "silverstripe/framework": "4.3.1",
+                "silverstripe/framework": "4.3.3",
                 "silverstripe/googlesitemaps": "*",
                 "silverstripe/installer": "*",
                 "silverstripe/recipe-cms": "*",
                 "silverstripe/recipe-plugin": "*",
                 "silverstripe/reports": "*",
+                "silverstripe/sharedraftcontent": "*",
                 "silverstripe/siteconfig": "*",
                 "silverstripe/spamprotection": "3.*",
                 "silverstripe/tagfield": "*",
