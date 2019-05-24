@@ -1172,12 +1172,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "697ad32ab223dc3cd59852a922c2c329f043414a"
+                "reference": "e3dafddab10972dcb3a6391b6ff90a6e12201d47"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/697ad32ab223dc3cd59852a922c2c329f043414a",
-                "reference": "697ad32ab223dc3cd59852a922c2c329f043414a",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/e3dafddab10972dcb3a6391b6ff90a6e12201d47",
+                "reference": "e3dafddab10972dcb3a6391b6ff90a6e12201d47",
                 "shasum": ""
             },
             "require": {
@@ -1226,7 +1226,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/ss4.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2019-05-20T16:05:14+00:00"
+            "time": "2019-05-24T14:49:43+00:00"
         },
         {
             "name": "md/saml",
@@ -1234,16 +1234,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml.git",
-                "reference": "6dd49d10047350b4a44979fc8a0d3a0e4626d4ae"
+                "reference": "9bbc43c0ce990335311b759ae57e2d3dfde9372b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-saml/zipball/6dd49d10047350b4a44979fc8a0d3a0e4626d4ae",
-                "reference": "6dd49d10047350b4a44979fc8a0d3a0e4626d4ae",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-saml/zipball/9bbc43c0ce990335311b759ae57e2d3dfde9372b",
+                "reference": "9bbc43c0ce990335311b759ae57e2d3dfde9372b",
                 "shasum": ""
             },
             "require": {
-                "onelogin/php-saml": "^2.10.7",
+                "onelogin/php-saml": "^3.0.0",
                 "php": ">=5.6",
                 "silverstripe/cms": "^4@dev",
                 "silverstripe/framework": "^4@dev",
@@ -1294,7 +1294,7 @@
             "support": {
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml/tree/md"
             },
-            "time": "2018-08-22T20:27:51+00:00"
+            "time": "2019-05-23T14:41:38+00:00"
         },
         {
             "name": "md/silverstripe-maintenance-mode",
@@ -1518,43 +1518,40 @@
         },
         {
             "name": "onelogin/php-saml",
-            "version": "v2.15.0",
+            "version": "3.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/onelogin/php-saml.git",
-                "reference": "35efa30cc1a7f6d1685c59f8e91ebe20310ae755"
+                "reference": "c9026b26395a65184550055d9a01bdf9dbd30861"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/onelogin/php-saml/zipball/35efa30cc1a7f6d1685c59f8e91ebe20310ae755",
-                "reference": "35efa30cc1a7f6d1685c59f8e91ebe20310ae755",
+                "url": "https://api.github.com/repos/onelogin/php-saml/zipball/c9026b26395a65184550055d9a01bdf9dbd30861",
+                "reference": "c9026b26395a65184550055d9a01bdf9dbd30861",
                 "shasum": ""
             },
             "require": {
-                "ext-curl": "*",
-                "ext-dom": "*",
-                "ext-mcrypt": "*",
-                "ext-openssl": "*",
-                "php": ">=5.3.2"
+                "php": ">=5.4",
+                "robrichards/xmlseclibs": ">=3.0.3"
             },
             "require-dev": {
-                "pdepend/pdepend": "1.1.0",
-                "phploc/phploc": "*",
-                "phpunit/phpunit": "4.8",
-                "satooshi/php-coveralls": "1.0.1",
-                "sebastian/phpcpd": "*",
-                "squizlabs/php_codesniffer": "2.9.0"
+                "pdepend/pdepend": "^2.5.0",
+                "php-coveralls/php-coveralls": "^1.0.2 || ^2.0",
+                "phploc/phploc": "^2.1 || ^3.0 || ^4.0",
+                "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.5 || ^7.1",
+                "sebastian/phpcpd": "^2.0 || ^3.0 || ^4.0",
+                "squizlabs/php_codesniffer": "^3.1.1"
             },
             "suggest": {
-                "ext-gettext": "Install gettext and php5-gettext libs to handle translations"
+                "ext-curl": "Install curl lib to be able to use the IdPMetadataParser for parsing remote XMLs",
+                "ext-gettext": "Install gettext and php5-gettext libs to handle translations",
+                "ext-openssl": "Install openssl lib in order to handle with x509 certs (require to support sign and encryption)"
             },
             "type": "library",
             "autoload": {
-                "classmap": [
-                    "extlib/xmlseclibs",
-                    "lib/Saml",
-                    "lib/Saml2"
-                ]
+                "psr-4": {
+                    "OneLogin\\": "src/"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -1567,7 +1564,7 @@
                 "onelogin",
                 "saml"
             ],
-            "time": "2019-01-28T13:02:22+00:00"
+            "time": "2019-03-11T09:41:32+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -1897,6 +1894,44 @@
             ],
             "description": "A polyfill for getallheaders.",
             "time": "2016-02-11T07:05:27+00:00"
+        },
+        {
+            "name": "robrichards/xmlseclibs",
+            "version": "3.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/robrichards/xmlseclibs.git",
+                "reference": "406c68ac9124db033d079284b719958b829cb830"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/robrichards/xmlseclibs/zipball/406c68ac9124db033d079284b719958b829cb830",
+                "reference": "406c68ac9124db033d079284b719958b829cb830",
+                "shasum": ""
+            },
+            "require": {
+                "ext-openssl": "*",
+                "php": ">= 5.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "RobRichards\\XMLSecLibs\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "A PHP library for XML Security",
+            "homepage": "https://github.com/robrichards/xmlseclibs",
+            "keywords": [
+                "security",
+                "signature",
+                "xml",
+                "xmldsig"
+            ],
+            "time": "2018-11-15T11:59:02+00:00"
         },
         {
             "name": "silverstripe/admin",
