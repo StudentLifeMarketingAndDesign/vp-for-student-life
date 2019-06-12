@@ -4,6 +4,7 @@
 /themes/simple/
 /resources/
 /public/resources/
+/public/_resources/
 /public/assets/
 .sass-cache/*
 *.scssc
