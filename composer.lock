@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ffea19649941299ce36bef83680aaa73",
+    "content-hash": "bffec3775fb17c5902e49af2f03c422e",
     "packages": [
         {
             "name": "bramus/ansi-php",
@@ -843,20 +843,20 @@
         },
         {
             "name": "jonom/focuspoint",
-            "version": "3.0.0",
+            "version": "3.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jonom/silverstripe-focuspoint.git",
-                "reference": "16dedb9549e719bf5d1030eb84f664f7b7a69e8f"
+                "reference": "7c51b37bd464c98ab83491891000eb49f8508e4b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jonom/silverstripe-focuspoint/zipball/16dedb9549e719bf5d1030eb84f664f7b7a69e8f",
-                "reference": "16dedb9549e719bf5d1030eb84f664f7b7a69e8f",
+                "url": "https://api.github.com/repos/jonom/silverstripe-focuspoint/zipball/7c51b37bd464c98ab83491891000eb49f8508e4b",
+                "reference": "7c51b37bd464c98ab83491891000eb49f8508e4b",
                 "shasum": ""
             },
             "require": {
-                "silverstripe/asset-admin": "^1.0",
+                "silverstripe/asset-admin": "^1.4",
                 "silverstripe/vendor-plugin": "^1.0"
             },
             "require-dev": {
@@ -896,7 +896,7 @@
                 "image",
                 "silverstripe"
             ],
-            "time": "2018-01-30T20:03:17+00:00"
+            "time": "2019-06-12T17:13:08+00:00"
         },
         {
             "name": "jonom/silverstripe-betternavigator",
@@ -1259,12 +1259,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "5a596d6aaebc18658ee978198eb96a614323a006"
+                "reference": "801b58d534939625643d68b8a612d95a8b614773"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/5a596d6aaebc18658ee978198eb96a614323a006",
-                "reference": "5a596d6aaebc18658ee978198eb96a614323a006",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/801b58d534939625643d68b8a612d95a8b614773",
+                "reference": "801b58d534939625643d68b8a612d95a8b614773",
                 "shasum": ""
             },
             "require": {
@@ -1313,7 +1313,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/ss4.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2019-06-12T14:07:18+00:00"
+            "time": "2019-06-12T17:47:13+00:00"
         },
         {
             "name": "md/saml",
