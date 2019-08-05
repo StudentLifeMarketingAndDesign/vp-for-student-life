@@ -205,16 +205,16 @@
         },
         {
             "name": "composer/ca-bundle",
-            "version": "1.2.2",
+            "version": "1.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/ca-bundle.git",
-                "reference": "ec2e24d4fa6a0d50d423794a56605ecec3401b85"
+                "reference": "f26a67e397be0e5c00d7c52ec7b5010098e15ce5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/ec2e24d4fa6a0d50d423794a56605ecec3401b85",
-                "reference": "ec2e24d4fa6a0d50d423794a56605ecec3401b85",
+                "url": "https://api.github.com/repos/composer/ca-bundle/zipball/f26a67e397be0e5c00d7c52ec7b5010098e15ce5",
+                "reference": "f26a67e397be0e5c00d7c52ec7b5010098e15ce5",
                 "shasum": ""
             },
             "require": {
@@ -257,7 +257,7 @@
                 "ssl",
                 "tls"
             ],
-            "time": "2019-08-01T07:52:17+00:00"
+            "time": "2019-08-02T09:05:43+00:00"
         },
         {
             "name": "composer/installers",
@@ -1263,12 +1263,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "5812cdd9adb517693b2b86b4997d29434f3e9822"
+                "reference": "5cd4bd38d5f43761760b08a58ca9dbb3653004af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/5812cdd9adb517693b2b86b4997d29434f3e9822",
-                "reference": "5812cdd9adb517693b2b86b4997d29434f3e9822",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/5cd4bd38d5f43761760b08a58ca9dbb3653004af",
+                "reference": "5cd4bd38d5f43761760b08a58ca9dbb3653004af",
                 "shasum": ""
             },
             "require": {
@@ -1309,7 +1309,8 @@
                 "expose": [
                     "src/favicons",
                     "src/images",
-                    "cms-icons"
+                    "cms-icons",
+                    "css"
                 ]
             },
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
@@ -1317,7 +1318,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/ss4.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2019-08-01T13:51:16+00:00"
+            "time": "2019-08-05T15:26:35+00:00"
         },
         {
             "name": "md/saml",
