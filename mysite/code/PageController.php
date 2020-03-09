@@ -1,7 +1,8 @@
 <?php
 
 use SilverStripe\CMS\Controllers\ContentController;
-
+use SilverStripe\CMS\Search\SearchForm;
+use SilverStripe\ORM\FieldType\DBField;
 class PageController extends ContentController
 {
     /**
@@ -19,7 +20,10 @@ class PageController extends ContentController
      *
      * @var array
      */
-    private static $allowed_actions = [];
+    private static $allowed_actions = [
+        'SearchForm',
+        'results'
+    ];
 
     protected function init()
     {
@@ -27,4 +31,20 @@ class PageController extends ContentController
         // You can include any CSS or JS required by your project here.
         // See: https://docs.silverstripe.org/en/developer_guides/templates/requirements/
     }
+
+    public function SearchForm() 
+   {
+      return SearchForm::create($this, 'SearchForm');
+   }
+   
+   public function results($data, $form, $request)
+    {
+        $data = array(
+            'Results' => $form->getResults(),
+            'Query' => DBField::create_field('Text', $form->getSearchQuery()),
+            'Title' => _t('SilverStripe\\CMS\\Search\\SearchForm.SearchResults', 'Search Results')
+        );
+        return $this->owner->customise($data)->renderWith(array('Page_results', 'Page'));
+    }
+   
 }

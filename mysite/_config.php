@@ -4,6 +4,8 @@ use SilverStripe\Security\PasswordValidator;
 use SilverStripe\Security\Member;
 use SilverStripe\Control\Director;
 
+
+// SilverStripers\ElementalSearch\ORM\Search\FulltextSearchable::enable();
 // remove PasswordValidator for SilverStripe 5.0
 $validator = new PasswordValidator();
 
