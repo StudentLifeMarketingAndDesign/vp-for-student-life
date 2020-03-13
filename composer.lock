@@ -1296,12 +1296,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "a23a9600ba82c9075c801fa3fc89fc5a8e34de1d"
+                "reference": "9ce274f26b2fc7e37483018fd4f0a7e16e67a490"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/a23a9600ba82c9075c801fa3fc89fc5a8e34de1d",
-                "reference": "a23a9600ba82c9075c801fa3fc89fc5a8e34de1d",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/9ce274f26b2fc7e37483018fd4f0a7e16e67a490",
+                "reference": "9ce274f26b2fc7e37483018fd4f0a7e16e67a490",
                 "shasum": ""
             },
             "require": {
@@ -1344,10 +1344,10 @@
             },
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/ss4.x-add-staff-pronoun",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-03-09T18:01:44+00:00"
+            "time": "2020-03-13T15:34:03+00:00"
         },
         {
             "name": "md/saml",
@@ -1487,12 +1487,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar.git",
-                "reference": "8f1269a3d33738d140fd62df45d64a3e6fcebe0b"
+                "reference": "5d3b1a7c4a9bad61621933d43eb3cc9d924b68dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/uiowa-bar/zipball/8f1269a3d33738d140fd62df45d64a3e6fcebe0b",
-                "reference": "8f1269a3d33738d140fd62df45d64a3e6fcebe0b",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/uiowa-bar/zipball/5d3b1a7c4a9bad61621933d43eb3cc9d924b68dd",
+                "reference": "5d3b1a7c4a9bad61621933d43eb3cc9d924b68dd",
                 "shasum": ""
             },
             "require": {
@@ -1506,7 +1506,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar/tree/1.2.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar/issues"
             },
-            "time": "2019-11-04T15:20:06+00:00"
+            "time": "2020-03-13T15:32:40+00:00"
         },
         {
             "name": "monolog/monolog",
