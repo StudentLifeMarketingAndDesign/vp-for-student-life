@@ -1337,12 +1337,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "b3c408ac0c70a794620303b365a8d866cab51eea"
+                "reference": "1e1f4008ef8bb2aebd23567a2720f9f5ffcb991b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b3c408ac0c70a794620303b365a8d866cab51eea",
-                "reference": "b3c408ac0c70a794620303b365a8d866cab51eea",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/1e1f4008ef8bb2aebd23567a2720f9f5ffcb991b",
+                "reference": "1e1f4008ef8bb2aebd23567a2720f9f5ffcb991b",
                 "shasum": ""
             },
             "require": {
@@ -1358,7 +1358,7 @@
                 "md/division-analytics": "1.2.x",
                 "md/saml": "dev-md",
                 "md/silverstripe-maintenance-mode": "dev-master",
-                "md/uiowa-bar": "1.2.x",
+                "md/uiowa-bar": "1.x",
                 "php": ">=5.5",
                 "quamsta/silverstripe-api-cacher": "1.*",
                 "silverstripe-australia/gridfieldextensions": "*",
@@ -1379,7 +1379,7 @@
             "extra": {
                 "expose": [
                     "client",
-                    "src/favicons",
+                    "src/favicons-block",
                     "src/images",
                     "cms-icons",
                     "css"
@@ -1387,10 +1387,10 @@
             },
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-uiowabar-2.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-05-19T18:35:34+00:00"
+            "time": "2020-05-28T20:56:45+00:00"
         },
         {
             "name": "md/saml",
