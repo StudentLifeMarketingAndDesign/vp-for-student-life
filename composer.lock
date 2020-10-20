@@ -1254,12 +1254,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events.git",
-                "reference": "575d18198215ce55499e80ff017c7205e86794da"
+                "reference": "a37b08148d73d034609d0d4fbdd7e83a9e88b5d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/575d18198215ce55499e80ff017c7205e86794da",
-                "reference": "575d18198215ce55499e80ff017c7205e86794da",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/a37b08148d73d034609d0d4fbdd7e83a9e88b5d0",
+                "reference": "a37b08148d73d034609d0d4fbdd7e83a9e88b5d0",
                 "shasum": ""
             },
             "require": {
@@ -1279,7 +1279,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/tree/3",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/issues"
             },
-            "time": "2020-09-03T16:06:30+00:00"
+            "time": "2020-10-20T13:52:01+00:00"
         },
         {
             "name": "md/division-analytics",
@@ -1287,12 +1287,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-analytics.git",
-                "reference": "a237e96c2de3a50b81414a732bc54b721ae083e0"
+                "reference": "3321e2110e19631a1e198ed68224b934a977872f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-analytics/zipball/a237e96c2de3a50b81414a732bc54b721ae083e0",
-                "reference": "a237e96c2de3a50b81414a732bc54b721ae083e0",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-analytics/zipball/3321e2110e19631a1e198ed68224b934a977872f",
+                "reference": "3321e2110e19631a1e198ed68224b934a977872f",
                 "shasum": ""
             },
             "require": {
@@ -1306,7 +1306,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-analytics/tree/1.2.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-analytics/issues"
             },
-            "time": "2019-03-08T21:17:46+00:00"
+            "time": "2020-10-20T18:03:03+00:00"
         },
         {
             "name": "md/division-project",
@@ -1314,12 +1314,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "0c32187687b5ce8fc3ecf9a5a7e2aab3729e4b99"
+                "reference": "135f537d0cc264c6a45396d37bc378e1e8d2f925"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/0c32187687b5ce8fc3ecf9a5a7e2aab3729e4b99",
-                "reference": "0c32187687b5ce8fc3ecf9a5a7e2aab3729e4b99",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/135f537d0cc264c6a45396d37bc378e1e8d2f925",
+                "reference": "135f537d0cc264c6a45396d37bc378e1e8d2f925",
                 "shasum": ""
             },
             "require": {
@@ -1368,7 +1368,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-branding",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-10-19T15:08:29+00:00"
+            "time": "2020-10-20T13:38:47+00:00"
         },
         {
             "name": "md/saml",
