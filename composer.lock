@@ -1287,12 +1287,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-analytics.git",
-                "reference": "6d8804dfee494509a843a9870d7f7187cd2b3332"
+                "reference": "8b2bca8e89c5c9eceeb0c775b0b0008f55ca73ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-analytics/zipball/6d8804dfee494509a843a9870d7f7187cd2b3332",
-                "reference": "6d8804dfee494509a843a9870d7f7187cd2b3332",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-analytics/zipball/8b2bca8e89c5c9eceeb0c775b0b0008f55ca73ed",
+                "reference": "8b2bca8e89c5c9eceeb0c775b0b0008f55ca73ed",
                 "shasum": ""
             },
             "require": {
@@ -1306,7 +1306,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-analytics/tree/1.3.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-analytics/issues"
             },
-            "time": "2020-10-29T20:41:57+00:00"
+            "time": "2020-11-03T14:46:52+00:00"
         },
         {
             "name": "md/division-project",
@@ -1314,12 +1314,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "8662b7f214e592e368238ec0a6f434b2370cd450"
+                "reference": "74dbf6b34b709a14ee673709a6f2c1adb0ef7e74"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/8662b7f214e592e368238ec0a6f434b2370cd450",
-                "reference": "8662b7f214e592e368238ec0a6f434b2370cd450",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/74dbf6b34b709a14ee673709a6f2c1adb0ef7e74",
+                "reference": "74dbf6b34b709a14ee673709a6f2c1adb0ef7e74",
                 "shasum": ""
             },
             "require": {
@@ -1342,7 +1342,7 @@
                 "silverstripe/blog": "*",
                 "silverstripe/googlesitemaps": "*",
                 "silverstripe/recipe-cms": "4.6.*@stable",
-                "silverstripe/recipe-plugin": "^1.3",
+                "silverstripe/recipe-plugin": "^1.2",
                 "silverstripe/sharedraftcontent": "*",
                 "silverstripe/spamprotection": "3.*",
                 "silverstripe/tagfield": "*",
@@ -1368,7 +1368,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-branding",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-10-29T20:44:44+00:00"
+            "time": "2020-11-06T16:13:07+00:00"
         },
         {
             "name": "md/saml",
