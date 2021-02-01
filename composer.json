@@ -1,82 +1,96 @@
 {
-    "name": "silverstripe/installer",
-    "type": "silverstripe-recipe",
-    "description": "The SilverStripe Framework Installer",
-    "require": {
-        "php": ">=5.6.0",
-        "md/division-project": "dev-2-branding"
+  "name": "silverstripe/installer",
+  "type": "silverstripe-recipe",
+  "description": "The SilverStripe Framework Installer",
+  "require":
+  {
+    "php": ">=5.6.0",
+    "md/division-project": "3"
+  },
+  "require-dev":
+  {
+    "phpunit/phpunit": "^5.7"
+  },
+  "extra":
+  {
+    "resources-dir": "_resources",
+    "branch-alias":
+    {
+      "4.x-dev": "4.3.x-dev",
+      "dev-master": "5.x-dev"
     },
-    "require-dev": {
-        "phpunit/phpunit": "^5.7"
+    "project-files-installed": [
+      "app/.htaccess",
+      "app/_config.php",
+      "app/_config/mimevalidator.yml",
+      "app/_config/mysite.yml",
+      "app/src/Page.php",
+      "app/src/PageController.php",
+      "mysite/.htaccess",
+      "mysite/_config.php",
+      "mysite/_config/mysite.yml",
+      "mysite/code/Page.php",
+      "mysite/code/PageController.php"
+    ],
+    "public-files-installed": [
+      ".htaccess",
+      "index.php",
+      "install-frameworkmissing.html",
+      "install.php",
+      "web.config"
+    ],
+    "expose": [
+      "themes/division-subtheme/dist",
+      "themes/division-subtheme/css"
+    ]
+  },
+  "repositories":
+  {
+    "0":
+    {
+      "type": "vcs",
+      "url": "https://github.com/StudentLifeMarketingAndDesign/division-project"
     },
-    "extra": {
-        "resources-dir": "_resources",
-        "branch-alias": {
-            "4.x-dev": "4.3.x-dev",
-            "dev-master": "5.x-dev"
-        },
-        "project-files-installed": [
-            "app/.htaccess",
-            "app/_config.php",
-            "app/_config/mimevalidator.yml",
-            "app/_config/mysite.yml",
-            "app/src/Page.php",
-            "app/src/PageController.php",
-            "mysite/.htaccess",
-            "mysite/_config.php",
-            "mysite/_config/mysite.yml",
-            "mysite/code/Page.php",
-            "mysite/code/PageController.php"
-        ],
-        "public-files-installed": [
-            ".htaccess",
-            "index.php",
-            "install-frameworkmissing.html",
-            "install.php",
-            "web.config"
-        ],
-        "expose": [
-            "themes/division-subtheme/dist",
-            "themes/division-subtheme/css"
-        ]
+    "1":
+    {
+      "type": "vcs",
+      "url": "https://github.com/StudentLifeMarketingAndDesign/division-analytics"
     },
-    "repositories": {
-        "0": {
-            "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/division-project"
-        },
-        "1": {
-            "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/division-analytics"
-        },
-        "2": {
-            "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-maintenance-mode"
-        },
-        "3": {
-            "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar"
-        },
-        "4": {
-            "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events"
-        },
-        "5": {
-            "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr"
-        },
-        "6": {
-            "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml"
-        },
-        "repo-name": {
-            "type": "vcs",
-            "url": "https://github.com/StudentLifeMarketingAndDesign/deploy-helper"
-        }
+    "2":
+    {
+      "type": "vcs",
+      "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-maintenance-mode"
     },
-    "config": {
-        "process-timeout": 600
+    "3":
+    {
+      "type": "vcs",
+      "url": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar"
     },
-    "prefer-stable": true,
-    "minimum-stability": "dev"
+    "4":
+    {
+      "type": "vcs",
+      "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events"
+    },
+    "5":
+    {
+      "type": "vcs",
+      "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-flickr"
+    },
+    "6":
+    {
+      "type": "vcs",
+      "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml"
+    },
+    "repo-name":
+    {
+      "type": "vcs",
+      "url": "https://github.com/StudentLifeMarketingAndDesign/deploy-helper"
+    }
+  },
+  "config":
+  {
+    "process-timeout": 600
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
 }
