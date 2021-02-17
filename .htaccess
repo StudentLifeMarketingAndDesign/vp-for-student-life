@@ -1,7 +1,6 @@
 RewriteEngine On
 RewriteRule ^awards/(.*)$ https://awards.studentlife.uiowa.edu/awards/finkbine-awards/ [R=301,NC,L]
 RewriteRule ^initiatives/alcohol-harm-reduction/(.*)$ https://studentlife.uiowa.edu/initiatives/alcohol-harm-reduction/ [R=301,NC,L]
-RewriteRule ^assessment/(.*)$ https://studentlife.uiowa.edu/departments/air/
-
+RewriteRule ^air/(.*)$ https://studentlife.uiowa.edu/departments/air/ [R=301,NC,L]
 RewriteRule ^(.*)$ public/$1
 php_value memory_limit 2G
